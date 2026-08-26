@@ -1,0 +1,63 @@
+Description détaillée du script EV_HTML_2_CSV_V3.py
+
+Le script EV_HTML_2_CSV_V3.py est une application graphique (développée avec Tkinter) dont le but est d'analyser les fichiers HTML bruts téléchargés précédemment et d'en extraire les informations détaillées des produits pour les structurer dans un fichier CSV.
+
+1. Fonctionnement Global :
+- L'utilisateur sélectionne un ou plusieurs fichiers HTML via l'interface graphique.
+- Le traitement se lance dans un thread séparé (pour ne pas bloquer l'interface).
+- Pour chaque fichier, le script lit l'intégralité du code HTML.
+- Il utilise la bibliothèque `BeautifulSoup` (`bs4`) pour parser le HTML.
+- Il trouve toutes les cartes produits avec le sélecteur CSS : `div.product-card` et boucle sur chacune d'elles pour en extraire les données.
+- Les données extraites sont compilées dans un DataFrame `pandas`.
+- Le DataFrame est ensuite exporté en fichier CSV (séparateur point-virgule `;`) dans le dossier `DATA_EV/CSV`, en reprenant le nom exact du fichier HTML d'origine.
+
+2. Détail des Extractions (Balises utilisées par BeautifulSoup) :
+
+Pour chaque bloc identifié par `div.product-card`, le script extrait les éléments suivants avec la fonction `extract_products_eauvive` :
+
+- Nom du produit :
+  - Balise : `div.product-title a`
+  - Extraction : Le texte brut du lien.
+
+- URL du produit et Référence :
+  - Balise : `div.product-title a`
+  - Extraction : L'attribut `href` complété avec le domaine `https://eau-vive.com` pour obtenir l'URL absolue.
+  - La référence (`ref_id`) est déduite en extrayant la série de chiffres à la toute fin de l'URL grâce à une expression régulière (`_(\d+)$`).
+
+- Image du produit :
+  - Balise : `a.img-link img`
+  - Extraction : L'attribut `src` ou `data-src` (l'URL est reconstruite en absolue selon son préfixe `//` ou `/`). L'attribut `alt` est également récupéré.
+
+- EAN (Code-barres) :
+  - Extraction : Non présent dans le HTML à ce niveau, la valeur est forcée à `None`.
+
+- Badges et Drapeaux (Promos, Bio, etc.) :
+  - Balise : `div.card-state img`
+  - Extraction : L'attribut `src` ou `data-src` de chaque image. Si l'URL contient le mot "promo" ou "badge", elle est classée comme 'flag', sinon comme 'badge' classique.
+
+- Indicateur de Promotion (Vrai/Faux) :
+  - Balise : `div.promotion-badge`
+  - Extraction : Booléen selon que cette balise `div` est présente ou non.
+
+- Prix Actuel :
+  - Balise : `span.product-price`
+  - Extraction : Le texte brut, nettoyé du symbole "€" et où la virgule est remplacée par un point pour être converti en nombre flottant (float).
+
+- Ancien Prix (Prix barré) :
+  - Balise : `span.product-not-price`
+  - Extraction : Idem que pour le prix actuel (nettoyage et conversion en float).
+
+- Volume et Prix unitaire (ex: 500g, 10€/kg) :
+  - Balises : `span.product-price-type` (il y en a généralement deux)
+  - Extraction : 
+    - Le 1er élément trouvé est considéré comme le Volume (`volume`).
+    - Le 2ème élément trouvé est considéré comme le Prix Unitaire (`price_unit`).
+
+- Tags (Régimes alimentaires, spécificités) :
+  - Balise : `span.product-regime-tag`
+  - Extraction : Pour chaque tag, le texte brut. S'il contient une icône (`img`), l'URL de cette icône (`src`) est également extraite.
+
+- Marque :
+  - Extraction : Non récupérée par ce script, la valeur est forcée à `None`.
+
+Une fois la boucle terminée sur toutes les cartes produits d'un fichier, toutes ces données sont structurées en tableau et converties en CSV.

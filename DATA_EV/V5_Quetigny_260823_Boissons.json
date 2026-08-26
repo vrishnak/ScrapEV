@@ -1,0 +1,3816 @@
+[
+    {
+        "description": "Poudre cacao maigre Destination 250g",
+        "lien": "/magasin-bio/produit/poudre-cacao-maigre-destination-250g_102663",
+        "prix": "8.94€",
+        "volume": "250g",
+        "volume_price": "35.76€ / Kg"
+    },
+    {
+        "description": "Chocolat en poudre Kaoka 400g",
+        "lien": "/magasin-bio/produit/chocolat-en-poudre-kaoka-400g_35452",
+        "prix": "6.75€",
+        "volume": "400g",
+        "volume_price": "16.88€ / Kg"
+    },
+    {
+        "description": "Poudre chocolatée au sucre de canne Dardenne 400g",
+        "lien": "/magasin-bio/produit/poudre-chocolatee-au-sucre-de-canne-dardenne-400g_40260",
+        "prix": "9.75€",
+        "volume": "400g",
+        "volume_price": "24.38€ / Kg"
+    },
+    {
+        "description": "Malt soluble Favrichon 100g",
+        "lien": "/magasin-bio/produit/malt-soluble-favrichon-100g_1332",
+        "prix": "5.95€",
+        "volume": "100g",
+        "volume_price": "59.50€ / Kg"
+    },
+    {
+        "description": "Boisson instantanée Nectador Favrichon 100g",
+        "lien": "/magasin-bio/produit/boisson-instantanee-nectador-favrichon-100g_1335",
+        "prix": "7.95€",
+        "volume": "100g",
+        "volume_price": "79.50€ / Kg"
+    },
+    {
+        "description": "Chicorée seigle orge Favrichon 125g",
+        "lien": "/magasin-bio/produit/chicoree-seigle-orge-favrichon-125g_1334",
+        "prix": "6.45€",
+        "volume": "125g",
+        "volume_price": "51.60€ / Kg"
+    },
+    {
+        "description": "Café aux fruits et céréales Pionnier 125g",
+        "lien": "/magasin-bio/produit/cafe-aux-fruits-et-cereales-pionnier-125g_1948",
+        "prix": "8.44€",
+        "volume": "125g",
+        "volume_price": "67.52€ / Kg"
+    },
+    {
+        "description": "Café pur arabica moulu Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-pur-arabica-moulu-destination-250g_11816",
+        "prix": "6.95€",
+        "volume": "250g",
+        "volume_price": "27.80€ / Kg"
+    },
+    {
+        "description": "Café en grains pur arabica Destination 1kg",
+        "lien": "/magasin-bio/produit/cafe-en-grains-pur-arabica-destination-1kg_9470",
+        "prix": "20.45€",
+        "volume": "1Kg",
+        "volume_price": "20.45€ / Kg"
+    },
+    {
+        "description": "Café breakfast Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-breakfast-destination-250g_19266",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Chicorée instantanée Favrichon 200g",
+        "lien": "/magasin-bio/produit/chicoree-instantanee-favrichon-200g_20982",
+        "prix": "8.75€",
+        "volume": "200g",
+        "volume_price": "43.75€ / Kg"
+    },
+    {
+        "description": "Chicorée instantanée Favrichon 100g",
+        "lien": "/magasin-bio/produit/chicoree-instantanee-favrichon-100g_13225",
+        "prix": "5.45€",
+        "volume": "100g",
+        "volume_price": "54.50€ / Kg"
+    },
+    {
+        "description": "Recharge chicorée instantanée Favrichon 180g",
+        "lien": "/magasin-bio/produit/recharge-chicoree-instantanee-favrichon-180g_88887",
+        "prix": "6.95€",
+        "volume": "180g",
+        "volume_price": "38.61€ / Kg"
+    },
+    {
+        "description": "Chicorée original Lima 500g",
+        "lien": "/magasin-bio/produit/chicoree-original-lima-500g_24346",
+        "prix": "6.45€",
+        "volume": "500g",
+        "volume_price": "12.90€ / Kg"
+    },
+    {
+        "description": "Café pur arabica soluble Destination 200g",
+        "lien": "/magasin-bio/produit/cafe-pur-arabica-soluble-destination-200g_11653",
+        "prix": "20.95€",
+        "volume": "200g",
+        "volume_price": "104.75€ / Kg"
+    },
+    {
+        "description": "Café décaféiné Destination 100g",
+        "lien": "/magasin-bio/produit/cafe-decafeine-destination-100g_16101",
+        "prix": "12.95€",
+        "volume": "100g",
+        "volume_price": "129.50€ / Kg"
+    },
+    {
+        "description": "Dosettes souples pur arabica Destination x36",
+        "lien": "/magasin-bio/produit/dosettes-souples-pur-arabica-destination-x36_23942",
+        "prix": "13.95€",
+        "volume": "250g",
+        "volume_price": "55.80€ / Kg"
+    },
+    {
+        "description": "Dosettes decaféiné Destination 36x7g",
+        "lien": "/magasin-bio/produit/dosettes-decafeine-destination-36x7g_32006",
+        "prix": "13.95€",
+        "volume": "250g",
+        "volume_price": "55.80€ / Kg"
+    },
+    {
+        "description": "Arabica moulu Ethiopie décaféiné Michel 250g",
+        "lien": "/magasin-bio/produit/arabica-moulu-ethiopie-decafeine-michel-250g_35115",
+        "prix": "9.44€",
+        "volume": "250g",
+        "volume_price": "37.76€ / Kg"
+    },
+    {
+        "description": "Mister nelson capsule Terramoka x15",
+        "lien": "/magasin-bio/produit/mister-nelson-capsule-terramoka-x15_38685",
+        "prix": "6.95€",
+        "volume": "84g",
+        "volume_price": "82.74€ / Kg"
+    },
+    {
+        "description": "Melle Adele capsules Terramoka x15",
+        "lien": "/magasin-bio/produit/melle-adele-capsules-terramoka-x15_38682",
+        "prix": "6.95€",
+        "volume": "84g",
+        "volume_price": "82.74€ / Kg"
+    },
+    {
+        "description": "Capsules jeune arthur Terramoka x15",
+        "lien": "/magasin-bio/produit/capsules-jeune-arthur-terramoka-x15_38683",
+        "prix": "6.95€",
+        "volume": "84g",
+        "volume_price": "82.74€ / Kg"
+    },
+    {
+        "description": "Capsules M.Albert Terremoka x15",
+        "lien": "/magasin-bio/produit/capsules-m-albert-terremoka-x15_38684",
+        "prix": "6.95€",
+        "volume": "84g",
+        "volume_price": "82.74€ / Kg"
+    },
+    {
+        "description": "Café expresso moulu Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-expresso-moulu-destination-250g_65393",
+        "prix": "9.75€",
+        "volume": "250g",
+        "volume_price": "39.00€ / Kg"
+    },
+    {
+        "description": "Café pur arabica Café Michel 100g",
+        "lien": "/magasin-bio/produit/cafe-pur-arabica-cafe-michel-100g_80299",
+        "prix": "10.95€",
+        "volume": "100g",
+        "volume_price": "109.50€ / Kg"
+    },
+    {
+        "description": "Café pur arabica Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-pur-arabica-destination-250g_82397",
+        "prix": "8.44€",
+        "volume": "250g",
+        "volume_price": "33.76€ / Kg"
+    },
+    {
+        "description": "Café Mexique Artisans du monde 250g",
+        "lien": "/magasin-bio/produit/cafe-mexique-artisans-du-monde-250g_82211",
+        "prix": "8.94€",
+        "volume": "250g",
+        "volume_price": "35.76€ / Kg"
+    },
+    {
+        "description": "Café Pérou Artisans du monde 250g",
+        "lien": "/magasin-bio/produit/cafe-perou-artisans-du-monde-250g_82207",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Café Méxique Café Michel 1kg",
+        "lien": "/magasin-bio/produit/cafe-mexique-cafe-michel-1kg_89056",
+        "prix": "33.95€",
+        "volume": "1Kg",
+        "volume_price": "33.95€ / Kg"
+    },
+    {
+        "description": "Café guatemala Destination 500g",
+        "lien": "/magasin-bio/produit/cafe-guatemala-destination-500g_93912",
+        "prix": "17.95€",
+        "volume": "500g",
+        "volume_price": "35.90€ / Kg"
+    },
+    {
+        "description": "Café grand crus Destination 1KG",
+        "lien": "/magasin-bio/produit/cafe-grand-crus-destination-1kg_90296",
+        "prix": "45.95€",
+        "volume": "1Kg",
+        "volume_price": "45.95€ / Kg"
+    },
+    {
+        "description": "Café Éthiopie Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-ethiopie-destination-250g_96681",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Café Grands Crus Destination Capsules x10",
+        "lien": "/magasin-bio/produit/cafe-grands-crus-destination-capsules-x10_105470",
+        "prix": "6.15€",
+        "volume": "55g",
+        "volume_price": "111.82€ / Kg"
+    },
+    {
+        "description": "Café d'Éthiopie Destination Capsules x10",
+        "lien": "/magasin-bio/produit/cafe-d-ethiopie-destination-capsules-x10_105500",
+        "prix": "6.15€",
+        "volume": "55g",
+        "volume_price": "111.82€ / Kg"
+    },
+    {
+        "description": "Café Exception Destination Capsules x10",
+        "lien": "/magasin-bio/produit/cafe-exception-destination-capsules-x10_105338",
+        "prix": "5.55€",
+        "volume": "55g",
+        "volume_price": "100.91€ / Kg"
+    },
+    {
+        "description": "Café soluble Pur Arabica Destination 100g",
+        "lien": "/magasin-bio/produit/cafe-soluble-pur-arabica-destination-100g_106181",
+        "prix": "10.75€",
+        "volume": "100g",
+        "volume_price": "107.50€ / Kg"
+    },
+    {
+        "description": "Chicorée nature soluble Destination 100g",
+        "lien": "/magasin-bio/produit/chicoree-nature-soluble-destination-100g_70604",
+        "prix": "5.25€",
+        "volume": "100g",
+        "volume_price": "52.50€ / Kg"
+    },
+    {
+        "description": "Café arabica moulu doux Café Michel 250g",
+        "lien": "/magasin-bio/produit/cafe-arabica-moulu-doux-cafe-michel-250g_35113",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Café mélange équilibré Café Michel 250g",
+        "lien": "/magasin-bio/produit/cafe-melange-equilibre-cafe-michel-250g_35112",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Café moulu Pérou pur Arabica Destination 250G",
+        "lien": "/magasin-bio/produit/cafe-moulu-perou-pur-arabica-destination-250g_93910",
+        "prix": "7.95€",
+        "volume": "250g",
+        "volume_price": "31.80€ / Kg"
+    },
+    {
+        "description": "Café expresso grains Destination 500g",
+        "lien": "/magasin-bio/produit/cafe-expresso-grains-destination-500g_118474",
+        "prix": "16.95€",
+        "volume": "500g",
+        "volume_price": "33.90€ / Kg"
+    },
+    {
+        "description": "Café en grains pur arabica Colombie Destination 1kg",
+        "lien": "/magasin-bio/produit/cafe-en-grains-pur-arabica-colombie-destination-1kg_98070",
+        "prix": "29.45€",
+        "volume": "1Kg",
+        "volume_price": "29.45€ / Kg"
+    },
+    {
+        "description": "Chicorée instantanée Destination 200g",
+        "lien": "/magasin-bio/produit/chicoree-instantanee-destination-200g_98200",
+        "prix": "7.95€",
+        "volume": "200g",
+        "volume_price": "39.75€ / Kg"
+    },
+    {
+        "description": "Café en grains pur arabica Pérou Destination 1kg",
+        "lien": "/magasin-bio/produit/cafe-en-grains-pur-arabica-perou-destination-1kg_108531",
+        "prix": "28.95€",
+        "volume": "1Kg",
+        "volume_price": "28.95€ / Kg"
+    },
+    {
+        "description": "Chicorée soluble saveur caramel Destination 100g",
+        "lien": "/magasin-bio/produit/chicoree-soluble-saveur-caramel-destination-100g_123226",
+        "prix": "5.95€",
+        "volume": "100g",
+        "volume_price": "59.50€ / Kg"
+    },
+    {
+        "description": "Chicorée soluble saveur vanille Destination 100g",
+        "lien": "/magasin-bio/produit/chicoree-soluble-saveur-vanille-destination-100g_123227",
+        "prix": "6.95€",
+        "volume": "100g",
+        "volume_price": "69.50€ / Kg"
+    },
+    {
+        "description": "Chicorée filtre Destination 200g",
+        "lien": "/magasin-bio/produit/chicoree-filtre-destination-200g_123228",
+        "prix": "4.15€",
+        "volume": "200g",
+        "volume_price": "20.75€ / Kg"
+    },
+    {
+        "description": "Café signature pur arabica en grains Destination 1kg",
+        "lien": "/magasin-bio/produit/cafe-signature-pur-arabica-en-grains-destination-1kg_123229",
+        "prix": "25.95€",
+        "volume": "1Kg",
+        "volume_price": "25.95€ / Kg"
+    },
+    {
+        "description": "Café signature pur arabica moulu Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-signature-pur-arabica-moulu-destination-250g_123230",
+        "prix": "7.15€",
+        "volume": "250g",
+        "volume_price": "28.60€ / Kg"
+    },
+    {
+        "description": "Café Arabica moulu Elibio 250g",
+        "lien": "/magasin-bio/produit/cafe-arabica-moulu-elibio-250g_108584",
+        "prix": "5.75€",
+        "volume": "250g",
+        "volume_price": "23.00€ / Kg"
+    },
+    {
+        "description": "Orge torréfiée soluble Destination 125g",
+        "lien": "/magasin-bio/produit/orge-torrefiee-soluble-destination-125g_123235",
+        "prix": "4.15€",
+        "volume": "125g",
+        "volume_price": "33.20€ / Kg"
+    },
+    {
+        "description": "Café Sélection Arabica moulu Destination 500g",
+        "lien": "/magasin-bio/produit/cafe-selection-arabica-moulu-destination-500g_14304",
+        "prix": "9.94€",
+        "volume": "500g",
+        "volume_price": "19.88€ / Kg"
+    },
+    {
+        "description": "Café moulu pur arabica Mexique Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-moulu-pur-arabica-mexique-destination-250g_98069",
+        "prix": "8.94€",
+        "volume": "250g",
+        "volume_price": "35.76€ / Kg"
+    },
+    {
+        "description": "Chicorée nature instantanée Cherico 80g",
+        "lien": "/magasin-bio/produit/chicoree-nature-instantanee-cherico-80g_123382",
+        "prix": "7.45€",
+        "volume": "80g",
+        "volume_price": "93.13€ / Kg"
+    },
+    {
+        "description": "Chicorée et café instantané Cherico 80g",
+        "lien": "/magasin-bio/produit/chicoree-et-cafe-instantane-cherico-80g_123383",
+        "prix": "7.45€",
+        "volume": "80g",
+        "volume_price": "93.13€ / Kg"
+    },
+    {
+        "description": "Chicorée et guarana instantané Cherico 80g",
+        "lien": "/magasin-bio/produit/chicoree-et-guarana-instantane-cherico-80g_123385",
+        "prix": "8.44€",
+        "volume": "80g",
+        "volume_price": "105.50€ / Kg"
+    },
+    {
+        "description": "Chicorée boost French Mush 100g",
+        "lien": "/magasin-bio/produit/chicoree-boost-french-mush-100g_123409",
+        "prix": "22.95€",
+        "volume": "100g",
+        "volume_price": "229.50€ / Kg"
+    },
+    {
+        "description": "Coffee boost French Mush 1000g",
+        "lien": "/magasin-bio/produit/coffee-boost-french-mush-1000g_123411",
+        "prix": "18.36€",
+        "ancien_prix": "22.95€",
+        "volume": "100g",
+        "volume_price": "183.60€ / Kg"
+    },
+    {
+        "description": "Café moulu pur arabica intense Destination 250g",
+        "lien": "/magasin-bio/produit/cafe-moulu-pur-arabica-intense-destination-250g_117096",
+        "prix": "8.44€",
+        "volume": "250g",
+        "volume_price": "33.76€ / Kg"
+    },
+    {
+        "description": "Ube en poudre Inolab 100g",
+        "lien": "/magasin-bio/produit/ube-en-poudre-inolab-100g_123494",
+        "prix": "17.95€",
+        "volume": "100g",
+        "volume_price": "179.50€ / Kg"
+    },
+    {
+        "description": "Café arabica en grains Elibio 250g",
+        "lien": "/magasin-bio/produit/cafe-arabica-en-grains-elibio-250g_108583",
+        "prix": "5.75€",
+        "volume": "250g",
+        "volume_price": "23.00€ / Kg"
+    },
+    {
+        "description": "Thé vert agrumes de la Pagode 100g",
+        "lien": "/magasin-bio/produit/the-vert-agrumes-de-la-pagode-100g_17075",
+        "prix": "7.65€",
+        "volume": "100g",
+        "volume_price": "76.50€ / Kg"
+    },
+    {
+        "description": "Thé vert menthe Destination 50 sachets",
+        "lien": "/magasin-bio/produit/the-vert-menthe-destination-50-sachets_24666",
+        "prix": "7.15€",
+        "volume": "87g",
+        "volume_price": "82.18€ / Kg"
+    },
+    {
+        "description": "Thé vert de la pagode 100g",
+        "lien": "/magasin-bio/produit/the-vert-de-la-pagode-100g_20630",
+        "prix": "9.44€",
+        "volume": "100g",
+        "volume_price": "94.40€ / Kg"
+    },
+    {
+        "description": "Thé gyokuro Aromandise 50g",
+        "lien": "/magasin-bio/produit/the-gyokuro-aromandise-50g_37460",
+        "prix": "12.15€",
+        "volume": "50g",
+        "volume_price": "243.00€ / Kg"
+    },
+    {
+        "description": "Thé vert Matcha en poudre Aromandise 50g",
+        "lien": "/magasin-bio/produit/the-vert-matcha-en-poudre-aromandise-50g_22203",
+        "prix": "11.95€",
+        "volume": "50g",
+        "volume_price": "239.00€ / Kg"
+    },
+    {
+        "description": "Infusion échinacée Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-echinacee-yogitea-17-sachets_20886",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Thé vert gunpowder Destination 100g",
+        "lien": "/magasin-bio/produit/the-vert-gunpowder-destination-100g_16096",
+        "prix": "6.45€",
+        "volume": "100g",
+        "volume_price": "64.50€ / Kg"
+    },
+    {
+        "description": "Thé vert Japon grand sencha Destination 80g",
+        "lien": "/magasin-bio/produit/the-vert-japon-grand-sencha-destination-80g_16098",
+        "prix": "8.44€",
+        "volume": "80g",
+        "volume_price": "105.50€ / Kg"
+    },
+    {
+        "description": "Thé vert jasmin fleurs Destination 100g",
+        "lien": "/magasin-bio/produit/the-vert-jasmin-fleurs-destination-100g_16409",
+        "prix": "7.15€",
+        "volume": "100g",
+        "volume_price": "71.50€ / Kg"
+    },
+    {
+        "description": "Tisane tilleul des baronnies bractée France Comptoir d'herboristerie 25g",
+        "lien": "/magasin-bio/produit/tisane-tilleul-des-baronnies-bractee-france-comptoir-d-herboristerie-25g_2261",
+        "prix": "4.90€",
+        "volume": "25g",
+        "volume_price": "196.00€ / Kg"
+    },
+    {
+        "description": "Thé vert grand cru anti-oxydant Thés de la Pagode 180g",
+        "lien": "/magasin-bio/produit/the-vert-grand-cru-anti-oxydant-thes-de-la-pagode-180g_12325",
+        "prix": "23.95€",
+        "volume": "180g",
+        "volume_price": "133.06€ / Kg"
+    },
+    {
+        "description": "Thé noir darjeeling été Destination 100g",
+        "lien": "/magasin-bio/produit/the-noir-darjeeling-ete-destination-100g_22259",
+        "prix": "6.95€",
+        "volume": "100g",
+        "volume_price": "69.50€ / Kg"
+    },
+    {
+        "description": "Thé vert green breakfast Destination 100g",
+        "lien": "/magasin-bio/produit/the-vert-green-breakfast-destination-100g_26828",
+        "prix": "6.45€",
+        "volume": "100g",
+        "volume_price": "64.50€ / Kg"
+    },
+    {
+        "description": "Thé vert sencha et riz grillé Genmaicha 100g",
+        "lien": "/magasin-bio/produit/the-vert-sencha-et-riz-grille-genmaicha-100g_27674",
+        "prix": "8.15€",
+        "volume": "100g",
+        "volume_price": "81.50€ / Kg"
+    },
+    {
+        "description": "Thé blanc Les Jardins de Gaïa 50g",
+        "lien": "/magasin-bio/produit/the-blanc-les-jardins-de-gaia-50g_28830",
+        "prix": "5.85€",
+        "volume": "50g",
+        "volume_price": "117.00€ / Kg"
+    },
+    {
+        "description": "Thé vert matcha citron Yogi Tea 17sachets",
+        "lien": "/magasin-bio/produit/the-vert-matcha-citron-yogi-tea-17sachets_33963",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Thé vert bancha Aromandise 30g",
+        "lien": "/magasin-bio/produit/the-vert-bancha-aromandise-30g_37461",
+        "prix": "5.15€",
+        "volume": "40g",
+        "volume_price": "128.75€ / Kg"
+    },
+    {
+        "description": "Thé Vert BIO Sencha N°9 Chine Destination 80g",
+        "lien": "/magasin-bio/produit/the-vert-bio-sencha-n-9-chine-destination-80g_66984",
+        "prix": "5.25€",
+        "volume": "80g",
+        "volume_price": "65.63€ / Kg"
+    },
+    {
+        "description": "Thé yinpur détox Thés de la Plage 18 infusions",
+        "lien": "/magasin-bio/produit/the-yinpur-detox-thes-de-la-plage-18-infusions_80799",
+        "prix": "8.85€",
+        "volume": "36g",
+        "volume_price": "245.83€ / Kg"
+    },
+    {
+        "description": "Thé vert citron MH Destination 80g",
+        "lien": "/magasin-bio/produit/the-vert-citron-mh-destination-80g_93919",
+        "prix": "6.95€",
+        "volume": "80g",
+        "volume_price": "86.88€ / Kg"
+    },
+    {
+        "description": "Thé Vert Bio Destination 50 x 1,6 g",
+        "lien": "/magasin-bio/produit/the-vert-bio-destination-50-x-1-6-g_106197",
+        "prix": "5.95€",
+        "volume": "80g",
+        "volume_price": "74.38€ / Kg"
+    },
+    {
+        "description": "Thé Vert Bio FFL Destination 20 x 2 g",
+        "lien": "/magasin-bio/produit/the-vert-bio-ffl-destination-20-x-2-g_106190",
+        "prix": "2.95€",
+        "volume": "32g",
+        "volume_price": "92.19€ / Kg"
+    },
+    {
+        "description": "Thé Vert BIO à la Menthe Destination 20 infusettes",
+        "lien": "/magasin-bio/produit/the-vert-bio-a-la-menthe-destination-20-infusettes_106712",
+        "prix": "3.45€",
+        "volume": "35g",
+        "volume_price": "98.57€ / Kg"
+    },
+    {
+        "description": "Thé vert Citron Gingembre Destination x20",
+        "lien": "/magasin-bio/produit/the-vert-citron-gingembre-destination-x20_106970",
+        "prix": "3.75€",
+        "volume": "36g",
+        "volume_price": "104.17€ / Kg"
+    },
+    {
+        "description": "Thé Vert Earl Grey Bio et équitable Destination 20INF",
+        "lien": "/magasin-bio/produit/the-vert-earl-grey-bio-et-equitable-destination-20inf_106828",
+        "prix": "3.45€",
+        "volume": "30g",
+        "volume_price": "115.00€ / Kg"
+    },
+    {
+        "description": "Coffret Découverte BIO CHOICE 20 sachets",
+        "lien": "/magasin-bio/produit/coffret-decouverte-bio-choice-20-sachets_108555",
+        "prix": "2.75€",
+        "volume": "38g",
+        "volume_price": "72.37€ / Kg"
+    },
+    {
+        "description": "Un thé pour l'océan Les Jardins de Gaïa 100G",
+        "lien": "/magasin-bio/produit/un-the-pour-l-ocean-les-jardins-de-gaia-100g_108859",
+        "prix": "7.45€",
+        "volume": "100g",
+        "volume_price": "74.50€ / Kg"
+    },
+    {
+        "description": "Thé noir Breakfast Destination x20",
+        "lien": "/magasin-bio/produit/the-noir-breakfast-destination-x20_106971",
+        "prix": "2.45€",
+        "volume": "40g",
+        "volume_price": "61.25€ / Kg"
+    },
+    {
+        "description": "Thé vert bio gunpowder Les Jardins de Gaïa 100g",
+        "lien": "/magasin-bio/produit/the-vert-bio-gunpowder-les-jardins-de-gaia-100g_28808",
+        "prix": "6.15€",
+        "volume": "100g",
+        "volume_price": "61.50€ / Kg"
+    },
+    {
+        "description": "Thé vert earl grey Thés de la Pagode 100g",
+        "lien": "/magasin-bio/produit/the-vert-earl-grey-thes-de-la-pagode-100g_17076",
+        "prix": "7.45€",
+        "volume": "100g",
+        "volume_price": "74.50€ / Kg"
+    },
+    {
+        "description": "Thé vert vanille et fleur de cerisier Thés de la Pagode 100g",
+        "lien": "/magasin-bio/produit/the-vert-vanille-et-fleur-de-cerisier-thes-de-la-pagode-100g_20628",
+        "prix": "7.75€",
+        "volume": "100g",
+        "volume_price": "77.50€ / Kg"
+    },
+    {
+        "description": "Thé Noir mon amour Les Jardins de Gaïa 100g",
+        "lien": "/magasin-bio/produit/the-noir-mon-amour-les-jardins-de-gaia-100g_32185",
+        "prix": "7.15€",
+        "volume": "100g",
+        "volume_price": "71.50€ / Kg"
+    },
+    {
+        "description": "Thé hao ling Thés de la Pagode x90",
+        "lien": "/magasin-bio/produit/the-hao-ling-thes-de-la-pagode-x90_2673",
+        "prix": "36.45€",
+        "volume": "225g",
+        "volume_price": "162.00€ / Kg"
+    },
+    {
+        "description": "Thé vert cru naturel Thés de la Pagode 100g",
+        "lien": "/magasin-bio/produit/the-vert-cru-naturel-thes-de-la-pagode-100g_17073",
+        "prix": "5.45€",
+        "volume": "100g",
+        "volume_price": "54.50€ / Kg"
+    },
+    {
+        "description": "Thé vert chun cha Thés de la Pagode 30sachets",
+        "lien": "/magasin-bio/produit/the-vert-chun-cha-thes-de-la-pagode-30sachets_6649",
+        "prix": "10.55€",
+        "volume": "60g",
+        "volume_price": "175.83€ / Kg"
+    },
+    {
+        "description": "THE VERT FRUITS ROUGES 100G",
+        "lien": "/magasin-bio/produit/the-vert-fruits-rouges-100g_68284",
+        "prix": "7.95€",
+        "volume": "100g",
+        "volume_price": "79.50€ / Kg"
+    },
+    {
+        "description": "THE VERT DELICES  DU LEVANT 100G",
+        "lien": "/magasin-bio/produit/the-vert-delices-du-levant-100g_118621",
+        "prix": "7.95€",
+        "volume": "100g",
+        "volume_price": "79.50€ / Kg"
+    },
+    {
+        "description": "THE BLANC NEIGE AU SOLEIL 50G",
+        "lien": "/magasin-bio/produit/the-blanc-neige-au-soleil-50g_98108",
+        "prix": "6.95€",
+        "volume": "50g",
+        "volume_price": "139.00€ / Kg"
+    },
+    {
+        "description": "Thé noir Earl Grey Destination x20",
+        "lien": "/magasin-bio/produit/the-noir-earl-grey-destination-x20_106182",
+        "prix": "3.75€",
+        "volume": "32g",
+        "volume_price": "117.19€ / Kg"
+    },
+    {
+        "description": "Thé vert Gunpowder Elibio 200g",
+        "lien": "/magasin-bio/produit/the-vert-gunpowder-elibio-200g_108580",
+        "prix": "4.95€",
+        "volume": "200g",
+        "volume_price": "24.75€ / Kg"
+    },
+    {
+        "description": "Thé noir Breakfast Elibio 200g",
+        "lien": "/magasin-bio/produit/the-noir-breakfast-elibio-200g_115894",
+        "prix": "6.95€",
+        "volume": "200g",
+        "volume_price": "34.75€ / Kg"
+    },
+    {
+        "description": "Thé vert menthe Destination 100g",
+        "lien": "/magasin-bio/produit/the-vert-menthe-destination-100g_16151",
+        "prix": "7.15€",
+        "volume": "100g",
+        "volume_price": "71.50€ / Kg"
+    },
+    {
+        "description": "Poudre de matcha Inolab 100g",
+        "lien": "/magasin-bio/produit/poudre-de-matcha-inolab-100g_123495",
+        "prix": "15.95€",
+        "volume": "100g",
+        "volume_price": "159.50€ / Kg"
+    },
+    {
+        "description": "Thé vert earl grey Destination 80g",
+        "lien": "/magasin-bio/produit/the-vert-earl-grey-destination-80g_122467",
+        "prix": "7.95€",
+        "volume": "80g",
+        "volume_price": "99.38€ / Kg"
+    },
+    {
+        "description": "Eau minérale naturelle Montcalm 1.5L",
+        "lien": "/magasin-bio/produit/eau-minerale-naturelle-montcalm-1-5l_7789",
+        "prix": "1.00€",
+        "volume": "1.5L",
+        "volume_price": "0.67€ / L"
+    },
+    {
+        "description": "SIROP SAPIN 50CL",
+        "lien": "/magasin-bio/produit/sirop-sapin-50cl_63976",
+        "prix": "6.55€",
+        "volume": "50cL",
+        "volume_price": "13.10€ / L"
+    },
+    {
+        "description": "SIROP FRAISE 50CL",
+        "lien": "/magasin-bio/produit/sirop-fraise-50cl_63957",
+        "prix": "6.55€",
+        "volume": "50cL",
+        "volume_price": "13.10€ / L"
+    },
+    {
+        "description": "Bouteille d'eau minérale Montcalm 5L",
+        "lien": "/magasin-bio/produit/bouteille-d-eau-minerale-montcalm-5l_7790",
+        "prix": "2.95€",
+        "volume": "5L",
+        "volume_price": "0.59€ / L"
+    },
+    {
+        "description": "Eau Minérale Plate Celtic 1.5L",
+        "lien": "/magasin-bio/produit/eau-minerale-plate-celtic-1-5l_23368",
+        "prix": "0.95€",
+        "volume": "1.5L",
+        "volume_price": "0.63€ / L"
+    },
+    {
+        "description": "Eau minérale naturelle Montcalm 50cl",
+        "lien": "/magasin-bio/produit/eau-minerale-naturelle-montcalm-50cl_10661",
+        "prix": "0.65€",
+        "volume": "50cL",
+        "volume_price": "1.30€ / L"
+    },
+    {
+        "description": "Eau de source Montarcher 1l",
+        "lien": "/magasin-bio/produit/eau-de-source-montarcher-1l_122928",
+        "prix": "1.75€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Eau de source Montarcher 33cl",
+        "lien": "/magasin-bio/produit/eau-de-source-montarcher-33cl_122929",
+        "prix": "1.14€",
+        "volume": "100L",
+        "volume_price": "0.01€ / L"
+    },
+    {
+        "description": "Eau pétillante Celtic Légère 1.5L",
+        "lien": "/magasin-bio/produit/eau-petillante-celtic-legere-1-5l_12071",
+        "prix": "0.95€",
+        "volume": "1.5L",
+        "volume_price": "0.63€ / L"
+    },
+    {
+        "description": "Eau de source finement pétillante Montarcher 1l",
+        "lien": "/magasin-bio/produit/eau-de-source-finement-petillante-montarcher-1l_122926",
+        "prix": "1.75€",
+        "volume": "1L",
+        "volume_price": "1.75€ / L"
+    },
+    {
+        "description": "Eau de source finement pétillante Montarcher 33cl",
+        "lien": "/magasin-bio/produit/eau-de-source-finement-petillante-montarcher-33cl_122927",
+        "prix": "1.14€",
+        "volume": "100L",
+        "volume_price": "0.01€ / L"
+    },
+    {
+        "description": "Pur jus d'orange Vitamont 1L",
+        "lien": "/magasin-bio/produit/pur-jus-d-orange-vitamont-1l_10882",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Jus de Citron de Sicile BIO pur jus Luce 25CL",
+        "lien": "/magasin-bio/produit/jus-de-citron-de-sicile-bio-pur-jus-luce-25cl_17088",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Pur jus de citron Luce 1L",
+        "lien": "/magasin-bio/produit/pur-jus-de-citron-luce-1l_22589",
+        "prix": "4.75€",
+        "volume": "1L",
+        "volume_price": "4.75€ / L"
+    },
+    {
+        "description": "Pur jus de grenade Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-de-grenade-vitamont-1l_21581",
+        "prix": "7.25€",
+        "volume": "1L",
+        "volume_price": "7.25€ / L"
+    },
+    {
+        "description": "Pur jus de clémentines Vitamont 75cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-clementines-vitamont-75cl_20306",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Cocktail 5 fruits Vitamont 1L",
+        "lien": "/magasin-bio/produit/cocktail-5-fruits-vitamont-1l_12405",
+        "prix": "4.45€",
+        "volume": "1L",
+        "volume_price": "4.45€ / L"
+    },
+    {
+        "description": "Smoothie mangue passion Meneau 25cl",
+        "lien": "/magasin-bio/produit/smoothie-mangue-passion-meneau-25cl_16758",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Smoothie ananas banane Meneau 25cl",
+        "lien": "/magasin-bio/produit/smoothie-ananas-banane-meneau-25cl_16756",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Smoothie Framboise Poire BIO Meneau 25CL",
+        "lien": "/magasin-bio/produit/smoothie-framboise-poire-bio-meneau-25cl_16757",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Smoothie pomme myrtille Meneau 25cl",
+        "lien": "/magasin-bio/produit/smoothie-pomme-myrtille-meneau-25cl_16755",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Jus de Pomme Vitamont 1L",
+        "lien": "/magasin-bio/produit/jus-de-pomme-vitamont-1l_758",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Jus Clémentine Citron vert Gingembre BIO Vitamont 750 ml",
+        "lien": "/magasin-bio/produit/jus-clementine-citron-vert-gingembre-bio-vitamont-750-ml_111137",
+        "prix": "4.15€",
+        "volume": "75cL",
+        "volume_price": "5.53€ / L"
+    },
+    {
+        "description": "Pur jus de pruneaux VItamont 75cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-pruneaux-vitamont-75cl_10010",
+        "prix": "5.45€",
+        "volume": "75cL",
+        "volume_price": "7.27€ / L"
+    },
+    {
+        "description": "Pur jus matin douceur Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-matin-douceur-vitamont-1l_61130",
+        "prix": "4.75€",
+        "volume": "1L",
+        "volume_price": "4.75€ / L"
+    },
+    {
+        "description": "Pur jus matin tonique Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-matin-tonique-vitamont-1l_61131",
+        "prix": "4.75€",
+        "volume": "1L",
+        "volume_price": "4.75€ / L"
+    },
+    {
+        "description": "Pur jus d'ananas Vitamont 1L",
+        "lien": "/magasin-bio/produit/pur-jus-d-ananas-vitamont-1l_27076",
+        "prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "5.45€ / L"
+    },
+    {
+        "description": "Cocktail multifruits exotique Vitamont 1l",
+        "lien": "/magasin-bio/produit/cocktail-multifruits-exotique-vitamont-1l_20358",
+        "prix": "3.95€",
+        "volume": "1L",
+        "volume_price": "3.95€ / L"
+    },
+    {
+        "description": "Pouch up pomme Vitamont 3l",
+        "lien": "/magasin-bio/produit/pouch-up-pomme-vitamont-3l_69725",
+        "prix": "9.75€",
+        "volume": "3L",
+        "volume_price": "3.25€ / L"
+    },
+    {
+        "description": "Pouch up orange Vitamont 3l",
+        "lien": "/magasin-bio/produit/pouch-up-orange-vitamont-3l_61127",
+        "prix": "14.45€",
+        "volume": "3L",
+        "volume_price": "4.82€ / L"
+    },
+    {
+        "description": "Pouch up multifruit Vitamont 3l",
+        "lien": "/magasin-bio/produit/pouch-up-multifruit-vitamont-3l_61129",
+        "prix": "12.95€",
+        "volume": "3L",
+        "volume_price": "4.32€ / L"
+    },
+    {
+        "description": "Nectar mangue Vitamont 75cl",
+        "lien": "/magasin-bio/produit/nectar-mangue-vitamont-75cl_14263",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Cocktail orange carotte citron Vitamont 20cl",
+        "lien": "/magasin-bio/produit/cocktail-orange-carotte-citron-vitamont-20cl_26468",
+        "prix": "1.25€",
+        "volume": "20cL",
+        "volume_price": "6.25€ / L"
+    },
+    {
+        "description": "Pur jus de cranberry Vitamont 50cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-cranberry-vitamont-50cl_78433",
+        "prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "12.90€ / L"
+    },
+    {
+        "description": "Nectar d'abricots des Pyrénées Orientales de France Vitamont 75cl",
+        "lien": "/magasin-bio/produit/nectar-d-abricots-des-pyrenees-orientales-de-france-vitamont-75cl_40230",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Pur jus de multifruits de France Vitamont 75cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-multifruits-de-france-vitamont-75cl_74822",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Cocktail de fruits 100% pur jus Junior Vitamont 1L",
+        "lien": "/magasin-bio/produit/cocktail-de-fruits-100-pur-jus-junior-vitamont-1l_102717",
+        "prix": "4.15€",
+        "volume": "1L",
+        "volume_price": "4.15€ / L"
+    },
+    {
+        "description": "Smoothie mangue coco Vitamont 25cl",
+        "lien": "/magasin-bio/produit/smoothie-mangue-coco-vitamont-25cl_30164",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Jus de citron vert Vitamont 25cl",
+        "lien": "/magasin-bio/produit/jus-de-citron-vert-vitamont-25cl_93290",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Jus de pommes Côteaux Nantais 75cl",
+        "lien": "/magasin-bio/produit/jus-de-pommes-coteaux-nantais-75cl_37383",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Pur Jus de Grenade BIO Le bio pour tous 1L",
+        "lien": "/magasin-bio/produit/pur-jus-de-grenade-bio-le-bio-pour-tous-1l_112066",
+        "prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "5.45€ / L"
+    },
+    {
+        "description": "Cocktail 12 vitamines Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/cocktail-12-vitamines-vitamont-6x20cl_24518",
+        "prix": "6.75€",
+        "volume": "1.2L",
+        "volume_price": "5.63€ / L"
+    },
+    {
+        "description": "Jus d'orange carotte citron Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-d-orange-carotte-citron-vitamont-75cl_16769",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Cocktail junior Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/cocktail-junior-vitamont-6x20cl_12915",
+        "prix": "6.75€",
+        "volume": "1.2L",
+        "volume_price": "5.63€ / L"
+    },
+    {
+        "description": "Cocktail 12 vitamines Vitamont 20cl",
+        "lien": "/magasin-bio/produit/cocktail-12-vitamines-vitamont-20cl_24517",
+        "prix": "1.12€",
+        "volume": "20cL",
+        "volume_price": "5.60€ / L"
+    },
+    {
+        "description": "Cocktail junior Vitamont 20CL",
+        "lien": "/magasin-bio/produit/cocktail-junior-vitamont-20cl_10011",
+        "prix": "1.12€",
+        "volume": "20cL",
+        "volume_price": "5.60€ / L"
+    },
+    {
+        "description": "Boisson S° 1 Sweet Lilly Bio Gimber 500 ml",
+        "lien": "/magasin-bio/produit/boisson-s-1-sweet-lilly-bio-gimber-500-ml_103975",
+        "prix": "25.95€",
+        "volume": "50cL",
+        "volume_price": "51.90€ / L"
+    },
+    {
+        "description": "Pur jus de raisin Vitamont 20cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-raisin-vitamont-20cl_23344",
+        "prix": "1.12€",
+        "volume": "20cL",
+        "volume_price": "5.60€ / L"
+    },
+    {
+        "description": "Pur jus d'orange  Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/pur-jus-d-orange-vitamont-6x20cl_12916",
+        "prix": "7.45€",
+        "volume": "1.2L",
+        "volume_price": "6.21€ / L"
+    },
+    {
+        "description": "Pur jus de pamplemousse rose Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-de-pamplemousse-rose-vitamont-1l_6243",
+        "prix": "4.63€",
+        "ancien_prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "4.63€ / L"
+    },
+    {
+        "description": "Pur jus de citron de Sicile Vitamont 25cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-citron-de-sicile-vitamont-25cl_11875",
+        "prix": "1.66€",
+        "ancien_prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "6.64€ / L"
+    },
+    {
+        "description": "Mini pur jus de pommes Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-pur-jus-de-pommes-vitamont-25cl_17763",
+        "prix": "1.75€",
+        "volume": "25cL",
+        "volume_price": "7.00€ / L"
+    },
+    {
+        "description": "Pur jus de raisin blanc Vitamont 1L",
+        "lien": "/magasin-bio/produit/pur-jus-de-raisin-blanc-vitamont-1l_762",
+        "prix": "4.45€",
+        "volume": "1L",
+        "volume_price": "4.45€ / L"
+    },
+    {
+        "description": "Pur Jus de Myrtilles BIO Prosain 50CL",
+        "lien": "/magasin-bio/produit/pur-jus-de-myrtilles-bio-prosain-50cl_9128",
+        "prix": "9.94€",
+        "volume": "50cL",
+        "volume_price": "19.88€ / L"
+    },
+    {
+        "description": "Mini pur jus d'orange Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-pur-jus-d-orange-vitamont-25cl_17766",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Pur jus de pomme Vitamont 20cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-pomme-vitamont-20cl_10014",
+        "prix": "1.12€",
+        "volume": "20cL",
+        "volume_price": "5.60€ / L"
+    },
+    {
+        "description": "Pur jus de pomme Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-pomme-vitamont-6x20cl_12914",
+        "prix": "6.75€",
+        "volume": "1.2L",
+        "volume_price": "5.63€ / L"
+    },
+    {
+        "description": "Pur jus d'ananas Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/pur-jus-d-ananas-vitamont-6x20cl_14150",
+        "prix": "7.45€",
+        "volume": "1.2L",
+        "volume_price": "6.21€ / L"
+    },
+    {
+        "description": "Mini jus de pruneaux Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-jus-de-pruneaux-vitamont-25cl_17764",
+        "prix": "2.15€",
+        "volume": "25cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Mini pur jus d'ananas Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-pur-jus-d-ananas-vitamont-25cl_18230",
+        "prix": "1.75€",
+        "volume": "25cL",
+        "volume_price": "7.00€ / L"
+    },
+    {
+        "description": "Pur jus de cassis Prosain 50CL",
+        "lien": "/magasin-bio/produit/pur-jus-de-cassis-prosain-50cl_20374",
+        "prix": "5.95€",
+        "volume": "50cL",
+        "volume_price": "11.90€ / L"
+    },
+    {
+        "description": "Pur jus d'orange Vitamont 20cl",
+        "lien": "/magasin-bio/produit/pur-jus-d-orange-vitamont-20cl_10013",
+        "prix": "1.24€",
+        "volume": "20cL",
+        "volume_price": "6.20€ / L"
+    },
+    {
+        "description": "Jus de pommes Coteaux Nantais 3L",
+        "lien": "/magasin-bio/produit/jus-de-pommes-coteaux-nantais-3l_24876",
+        "prix": "9.94€",
+        "volume": "3L",
+        "volume_price": "3.31€ / L"
+    },
+    {
+        "description": "Pur jus de grenade BIO Prosain 50cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-grenade-bio-prosain-50cl_13219",
+        "prix": "4.38€",
+        "ancien_prix": "5.15€",
+        "volume": "50cL",
+        "volume_price": "8.76€ / L"
+    },
+    {
+        "description": "Mini cocktail de fruits Vitamont 25CL",
+        "lien": "/magasin-bio/produit/mini-cocktail-de-fruits-vitamont-25cl_18232",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Pur jus ananas Vitamont 75cl",
+        "lien": "/magasin-bio/produit/pur-jus-ananas-vitamont-75cl_5020",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Pur jus d'ananas Vitamont 20cl",
+        "lien": "/magasin-bio/produit/pur-jus-d-ananas-vitamont-20cl_14149",
+        "prix": "1.24€",
+        "volume": "20cL",
+        "volume_price": "6.20€ / L"
+    },
+    {
+        "description": "Pur jus de citron de Sicile Vitamont 50cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-citron-de-sicile-vitamont-50cl_17584",
+        "prix": "3.25€",
+        "volume": "50cL",
+        "volume_price": "6.50€ / L"
+    },
+    {
+        "description": "Concentré de gingembre Gingerjoy 480ml",
+        "lien": "/magasin-bio/produit/concentre-de-gingembre-gingerjoy-480ml_116621",
+        "prix": "14.95€",
+        "volume": "48cL",
+        "volume_price": "31.15€ / L"
+    },
+    {
+        "description": "Kombucha citron bergamote Germline 1l",
+        "lien": "/magasin-bio/produit/kombucha-citron-bergamote-germline-1l_117893",
+        "prix": "5.15€",
+        "volume": "1L",
+        "volume_price": "5.15€ / L"
+    },
+    {
+        "description": "ELIXIR MIEL CURCUMA 52ML",
+        "lien": "/magasin-bio/produit/elixir-miel-curcuma-52ml_116968",
+        "prix": "3.95€",
+        "volume": "52mL",
+        "volume_price": "75.96€ / L"
+    },
+    {
+        "description": "Pur jus de pomme Vitamont 1L",
+        "lien": "/magasin-bio/produit/pur-jus-de-pomme-vitamont-1l_10883",
+        "prix": "2.65€",
+        "volume": "1L",
+        "volume_price": "2.65€ / L"
+    },
+    {
+        "description": "Pur Jus de Cranberry bio Prosain 50CL",
+        "lien": "/magasin-bio/produit/pur-jus-de-cranberry-bio-prosain-50cl_13218",
+        "prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "12.90€ / L"
+    },
+    {
+        "description": "Smoothie framboise litchi Vitamont 25cl",
+        "lien": "/magasin-bio/produit/smoothie-framboise-litchi-vitamont-25cl_74825",
+        "prix": "2.45€",
+        "volume_price": "9.80€ / Unité"
+    },
+    {
+        "description": "Jus pomme, carotte, gingembre Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-pomme-carotte-gingembre-vitamont-75cl_84995",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Nectar de mangue Vitamont 25cl",
+        "lien": "/magasin-bio/produit/nectar-de-mangue-vitamont-25cl_84997",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Smoothie fraise banane Vitamont 25cl",
+        "lien": "/magasin-bio/produit/smoothie-fraise-banane-vitamont-25cl_102713",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Smoothie ananas mangue Vitamont 25cl",
+        "lien": "/magasin-bio/produit/smoothie-ananas-mangue-vitamont-25cl_102714",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Cocktail kid's fraise Vitamont 6x20cl",
+        "lien": "/magasin-bio/produit/cocktail-kid-s-fraise-vitamont-6x20cl_103404",
+        "prix": "6.75€",
+        "volume": "1.2Kg",
+        "volume_price": "5.63€ / Kg"
+    },
+    {
+        "description": "Jus de mandarine Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-de-mandarine-vitamont-75cl_105384",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Pur jus de pomme Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-de-pomme-vitamont-1l_113889",
+        "prix": "4.15€",
+        "volume": "1L",
+        "volume_price": "4.15€ / L"
+    },
+    {
+        "description": "Shot immunité gingembre, citron, piment Vitamont 25cl",
+        "lien": "/magasin-bio/produit/shot-immunite-gingembre-citron-piment-vitamont-25cl_116957",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Shot relaxant ananas, gingembre, passion Vitamont 25cl",
+        "lien": "/magasin-bio/produit/shot-relaxant-ananas-gingembre-passion-vitamont-25cl_116958",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Eau de coco Bio pour tous 33cl",
+        "lien": "/magasin-bio/produit/eau-de-coco-bio-pour-tous-33cl_117005",
+        "prix": "1.75€",
+        "volume": "33cL",
+        "volume_price": "5.30€ / L"
+    },
+    {
+        "description": "Pur jus multifruit jaune Vitamont 1l",
+        "lien": "/magasin-bio/produit/pur-jus-multifruit-jaune-vitamont-1l_121108",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Pur jus de pommes France Vitamont 20cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-pommes-france-vitamont-20cl_121398",
+        "prix": "1.45€",
+        "volume": "20cL",
+        "volume_price": "7.25€ / L"
+    },
+    {
+        "description": "Smoothie mangue orange Vitamont 25cl",
+        "lien": "/magasin-bio/produit/smoothie-mangue-orange-vitamont-25cl_30165",
+        "prix": "2.45€",
+        "volume": "250g",
+        "volume_price": "9.80€ / Kg"
+    },
+    {
+        "description": "Jus de citron Luce 50cl",
+        "lien": "/magasin-bio/produit/jus-de-citron-luce-50cl_122918",
+        "prix": "3.45€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Citronnade citron vert Vitamont 75cl",
+        "lien": "/magasin-bio/produit/citronnade-citron-vert-vitamont-75cl_18372",
+        "prix": "2.95€",
+        "volume": "75cL",
+        "volume_price": "3.93€ / L"
+    },
+    {
+        "description": "Pouch up pomme pêche abricot Vitamont 3l",
+        "lien": "/magasin-bio/produit/pouch-up-pomme-peche-abricot-vitamont-3l_69726",
+        "prix": "13.75€",
+        "volume": "3L",
+        "volume_price": "4.58€ / L"
+    },
+    {
+        "description": "Pur jus de tomate Vitamont 75cl",
+        "lien": "/magasin-bio/produit/pur-jus-de-tomate-vitamont-75cl_8616",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Jus de carotte 100% pur jus Voelkel 70CL",
+        "lien": "/magasin-bio/produit/jus-de-carotte-100-pur-jus-voelkel-70cl_23998",
+        "prix": "3.95€",
+        "volume": "70cL",
+        "volume_price": "5.64€ / L"
+    },
+    {
+        "description": "jus de légumes Voekel 70CL",
+        "lien": "/magasin-bio/produit/jus-de-legumes-voekel-70cl_23997",
+        "prix": "3.95€",
+        "volume": "70cL",
+        "volume_price": "5.64€ / L"
+    },
+    {
+        "description": "Jus antioxydant Breuss Biotta 500ML",
+        "lien": "/magasin-bio/produit/jus-antioxydant-breuss-biotta-500ml_93502",
+        "prix": "5.75€",
+        "volume": "50cL",
+        "volume_price": "11.50€ / L"
+    },
+    {
+        "description": "Jus Breuss Biotta 50cl",
+        "lien": "/magasin-bio/produit/jus-breuss-biotta-50cl_12661",
+        "prix": "5.45€",
+        "volume": "50cL",
+        "volume_price": "10.90€ / L"
+    },
+    {
+        "description": "Jus de carottes lactofermenté Voelkel 70cl",
+        "lien": "/magasin-bio/produit/jus-de-carottes-lactofermente-voelkel-70cl_23999",
+        "prix": "3.95€",
+        "volume": "70cL",
+        "volume_price": "5.64€ / L"
+    },
+    {
+        "description": "Jus de légumes lactofermentés BIO Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-de-legumes-lactofermentes-bio-vitamont-75cl_36427",
+        "prix": "4.45€",
+        "volume": "75cL",
+        "volume_price": "5.93€ / L"
+    },
+    {
+        "description": "Jus de carotte lacto-fermenté  Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-de-carotte-lacto-fermente-vitamont-75cl_74823",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Jus de carottes de France Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-de-carottes-de-france-vitamont-75cl_35138",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Mini pur jus de tomates Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-pur-jus-de-tomates-vitamont-25cl_17768",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Jus de légumes Vitamont 75cl",
+        "lien": "/magasin-bio/produit/jus-de-legumes-vitamont-75cl_776",
+        "prix": "4.15€",
+        "volume": "75cL",
+        "volume_price": "5.53€ / L"
+    },
+    {
+        "description": "Mini pur jus de carotte Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-pur-jus-de-carotte-vitamont-25cl_17767",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Kombucha Germline 33cl",
+        "lien": "/magasin-bio/produit/kombucha-germline-33cl_11090",
+        "prix": "2.95€",
+        "volume": "33cL",
+        "volume_price": "8.94€ / L"
+    },
+    {
+        "description": "Mini jus de légumes Vitamont 25cl",
+        "lien": "/magasin-bio/produit/mini-jus-de-legumes-vitamont-25cl_17769",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Kombucha Thé Vert BIO Germline 1L",
+        "lien": "/magasin-bio/produit/kombucha-the-vert-bio-germline-1l_20441",
+        "prix": "5.95€",
+        "volume": "1L",
+        "volume_price": "5.95€ / L"
+    },
+    {
+        "description": "Boisson confort du foie Vitamont 50cl",
+        "lien": "/magasin-bio/produit/boisson-confort-du-foie-vitamont-50cl_73865",
+        "prix": "3.95€",
+        "volume_price": "7.90€ / Unité"
+    },
+    {
+        "description": "Sirop de Citron BIO Maison Meneau 1L",
+        "lien": "/magasin-bio/produit/sirop-de-citron-bio-maison-meneau-1l_15905",
+        "prix": "9.94€",
+        "volume": "1L",
+        "volume_price": "9.94€ / L"
+    },
+    {
+        "description": "Sirop de Menthe BIO Maison Meneau 1L",
+        "lien": "/magasin-bio/produit/sirop-de-menthe-bio-maison-meneau-1l_15904",
+        "prix": "9.94€",
+        "volume": "1L",
+        "volume_price": "9.94€ / L"
+    },
+    {
+        "description": "Sirop de Grenadine BIO Maison Meneau 1L",
+        "lien": "/magasin-bio/produit/sirop-de-grenadine-bio-maison-meneau-1l_15903",
+        "prix": "9.44€",
+        "volume": "1L",
+        "volume_price": "9.44€ / L"
+    },
+    {
+        "description": "Sirop de Cassis BIO et Equitable Maison Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-de-cassis-bio-et-equitable-maison-meneau-50cl_12479",
+        "prix": "7.75€",
+        "volume": "50cL",
+        "volume_price": "15.50€ / L"
+    },
+    {
+        "description": "Sirop de fraise Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-de-fraise-meneau-50cl_12480",
+        "prix": "7.15€",
+        "volume": "50cL",
+        "volume_price": "14.30€ / L"
+    },
+    {
+        "description": "Sirop de grenadine Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-de-grenadine-meneau-50cl_12481",
+        "prix": "5.48€",
+        "ancien_prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "10.96€ / L"
+    },
+    {
+        "description": "Sirop de Fruits rouges Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-de-fruits-rouges-meneau-50cl_12482",
+        "prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "12.90€ / L"
+    },
+    {
+        "description": "Sirop de myrtille",
+        "lien": "/magasin-bio/produit/sirop-de-myrtille_12486",
+        "prix": "8.44€",
+        "volume": "50cL",
+        "volume_price": "16.88€ / L"
+    },
+    {
+        "description": "Shot gingembre immunité concentré Cosmos 52ml",
+        "lien": "/magasin-bio/produit/shot-gingembre-immunite-concentre-cosmos-52ml_107050",
+        "prix": "3.95€",
+        "volume": "52mL",
+        "volume_price": "75.96€ / L"
+    },
+    {
+        "description": "Citronnade de citron Corse Vitamont 33cl",
+        "lien": "/magasin-bio/produit/citronnade-de-citron-corse-vitamont-33cl_111136",
+        "prix": "1.85€",
+        "volume": "33cL",
+        "volume_price": "5.61€ / L"
+    },
+    {
+        "description": "Sirop Fruit de la Passion BIO Équitable  Maison Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-fruit-de-la-passion-bio-equitable-maison-meneau-50cl_13276",
+        "prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "12.90€ / L"
+    },
+    {
+        "description": "Sirop de Pêche BIO Équitable Maison Meneau 50CL",
+        "lien": "/magasin-bio/produit/sirop-de-peche-bio-equitable-maison-meneau-50cl_14302",
+        "prix": "7.75€",
+        "volume": "50cL",
+        "volume_price": "15.50€ / L"
+    },
+    {
+        "description": "Kivi au gingembre Vitamont 75 cl",
+        "lien": "/magasin-bio/produit/kivi-au-gingembre-vitamont-75-cl_103796",
+        "prix": "4.75€",
+        "volume": "75cL",
+        "volume_price": "6.33€ / L"
+    },
+    {
+        "description": "Boisson pétillante citron vert gingembre Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-citron-vert-gingembre-unaju-25cl_104165",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Sirop d'hibiscus Meneau 50cl",
+        "lien": "/magasin-bio/produit/sirop-d-hibiscus-meneau-50cl_112261",
+        "prix": "7.75€",
+        "volume": "50cL",
+        "volume_price": "15.50€ / L"
+    },
+    {
+        "description": "Kombucha détox cassis hibiscus Vitamont 75cl",
+        "lien": "/magasin-bio/produit/kombucha-detox-cassis-hibiscus-vitamont-75cl_121111",
+        "prix": "4.21€",
+        "ancien_prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "5.61€ / L"
+    },
+    {
+        "description": "Extra strong ginger curcuma Vitamont 50cl",
+        "lien": "/magasin-bio/produit/extra-strong-ginger-curcuma-vitamont-50cl_121163",
+        "prix": "11.75€",
+        "volume": "50cL",
+        "volume_price": "23.50€ / L"
+    },
+    {
+        "description": "Boisson pétillante clémentine yuzu Vitamont 33cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-clementine-yuzu-vitamont-33cl_122932",
+        "prix": "1.95€",
+        "volume": "33cL",
+        "volume_price": "5.91€ / L"
+    },
+    {
+        "description": "Boisson pétillante cassis myrtille Vitamont 33cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-cassis-myrtille-vitamont-33cl_122933",
+        "prix": "1.95€",
+        "volume": "33cL",
+        "volume_price": "5.91€ / L"
+    },
+    {
+        "description": "Sirop brut de vanille Bacanha 400ml",
+        "lien": "/magasin-bio/produit/sirop-brut-de-vanille-bacanha-400ml_123295",
+        "prix": "9.94€",
+        "volume": "100L",
+        "volume_price": "0.10€ / L"
+    },
+    {
+        "description": "Thé noir glacé citron ChariTea 33cl",
+        "lien": "/magasin-bio/produit/the-noir-glace-citron-charitea-33cl_123300",
+        "prix": "2.15€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Thé vert glacé gingembre ChariTea 33cl",
+        "lien": "/magasin-bio/produit/the-vert-glace-gingembre-charitea-33cl_123301",
+        "prix": "2.15€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Rooibos fruit de la passion ChariTea 33cl",
+        "lien": "/magasin-bio/produit/rooibos-fruit-de-la-passion-charitea-33cl_123302",
+        "prix": "2.15€",
+        "volume": "33cL",
+        "volume_price": "6.52€ / L"
+    },
+    {
+        "description": "Infusion glacé menthe ChariTea 33cl",
+        "lien": "/magasin-bio/produit/infusion-glace-menthe-charitea-33cl_123304",
+        "prix": "2.15€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Sirop brut de yuzu Bacanha 400ml",
+        "lien": "/magasin-bio/produit/sirop-brut-de-yuzu-bacanha-400ml_97106",
+        "prix": "9.94€",
+        "volume": "100L",
+        "volume_price": "0.10€ / L"
+    },
+    {
+        "description": "Mojito sans alcool à diluer Vitamont 50cl",
+        "lien": "/magasin-bio/produit/mojito-sans-alcool-a-diluer-vitamont-50cl_122968",
+        "prix": "9.44€",
+        "volume": "50cL",
+        "volume_price": "18.88€ / L"
+    },
+    {
+        "description": "Spritz sans alcool à diluer Vitamont 50cl",
+        "lien": "/magasin-bio/produit/spritz-sans-alcool-a-diluer-vitamont-50cl_123034",
+        "prix": "9.44€",
+        "volume": "50cL",
+        "volume_price": "18.88€ / L"
+    },
+    {
+        "description": "Punch sans alcool à diluer Vitamont 50cl",
+        "lien": "/magasin-bio/produit/punch-sans-alcool-a-diluer-vitamont-50cl_123035",
+        "prix": "9.44€",
+        "volume": "50cL",
+        "volume_price": "18.88€ / L"
+    },
+    {
+        "description": "Boisson pétillante cassis et myrtille Vitamont 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-cassis-et-myrtille-vitamont-75cl_122931",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Boisson pétillante mangue passion Vitamont 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-mangue-passion-vitamont-25cl_122945",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Boisson pétillante litchi fraise Vitamont 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-litchi-fraise-vitamont-25cl_122960",
+        "prix": "1.95€",
+        "volume": "25cL",
+        "volume_price": "7.80€ / L"
+    },
+    {
+        "description": "Limonade d'Antan Vitamont 75cl",
+        "lien": "/magasin-bio/produit/limonade-d-antan-vitamont-75cl_6246",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Kombucha BIO Gingembre Karma 50CL",
+        "lien": "/magasin-bio/produit/kombucha-bio-gingembre-karma-50cl_26521",
+        "prix": "3.45€",
+        "volume": "50cL",
+        "volume_price": "6.90€ / L"
+    },
+    {
+        "description": "Cola Vitamont 33cl",
+        "lien": "/magasin-bio/produit/cola-vitamont-33cl_10008",
+        "prix": "1.95€",
+        "volume": "33cL",
+        "volume_price": "5.91€ / L"
+    },
+    {
+        "description": "Limonade d'antan Vitamont 75cl + 33% offert",
+        "lien": "/magasin-bio/produit/limonade-d-antan-vitamont-75cl-33-offert_26808",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Kombucha gingembre Karma 1L",
+        "lien": "/magasin-bio/produit/kombucha-gingembre-karma-1l_75957",
+        "prix": "5.15€",
+        "volume": "1L",
+        "volume_price": "5.15€ / L"
+    },
+    {
+        "description": "Bulle de raisin Chardonnay pétillant Vitamont 75CL",
+        "lien": "/magasin-bio/produit/bulle-de-raisin-chardonnay-petillant-vitamont-75cl_91138",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Kéfir BIO Figue Citron KARMA 75 cl",
+        "lien": "/magasin-bio/produit/kefir-bio-figue-citron-karma-75-cl_110764",
+        "prix": "4.75€",
+        "volume": "75cL",
+        "volume_price": "6.33€ / L"
+    },
+    {
+        "description": "Canette prêt à boire gingembre citron Gimber 250 ml",
+        "lien": "/magasin-bio/produit/canette-pret-a-boire-gingembre-citron-gimber-250-ml_110968",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "LIMONADE MORTUACIENNE 1L",
+        "lien": "/magasin-bio/produit/mortuacienne-bio-1l_77808",
+        "prix": "3.15€",
+        "volume": "1L",
+        "volume_price": "3.15€ / L"
+    },
+    {
+        "description": "GINGER BEER 75CL",
+        "lien": "/magasin-bio/produit/ginger-beer-75cl_98252",
+        "prix": "4.70€",
+        "volume": "75cL",
+        "volume_price": "6.27€ / L"
+    },
+    {
+        "description": "ROYAL GINGER BEER 75CL",
+        "lien": "/magasin-bio/produit/royal-ginger-beer-75cl_98250",
+        "prix": "4.70€",
+        "volume": "75cL",
+        "volume_price": "6.27€ / L"
+    },
+    {
+        "description": "Boisson Extra Soft Ginger Clémentine Passion BIO Vitamont 330 ml",
+        "lien": "/magasin-bio/produit/boisson-extra-soft-ginger-clementine-passion-bio-vitamont-330-ml_109649",
+        "prix": "2.45€",
+        "volume": "33cL",
+        "volume_price": "7.42€ / L"
+    },
+    {
+        "description": "Kombucha Hibiscus Timur Lokki 33cl",
+        "lien": "/magasin-bio/produit/kombucha-hibiscus-timur-lokki-33cl_61827",
+        "prix": "2.75€",
+        "volume": "1L",
+        "volume_price": "2.75€ / L"
+    },
+    {
+        "description": "Kombucha curcuma citron Lokki 1L",
+        "lien": "/magasin-bio/produit/kombucha-curcuma-citron-lokki-1l_83655",
+        "prix": "5.75€",
+        "volume": "1L",
+        "volume_price": "5.75€ / L"
+    },
+    {
+        "description": "Kombucha Curcuma Citron 33CL",
+        "lien": "/magasin-bio/produit/kombucha-curcuma-citron-33cl_36908",
+        "prix": "2.75€",
+        "volume": "33cL",
+        "volume_price": "8.33€ / L"
+    },
+    {
+        "description": "Kombucha Spiruline Menthe Lokki 33CL",
+        "lien": "/magasin-bio/produit/kombucha-spiruline-menthe-lokki-33cl_38689",
+        "prix": "2.75€",
+        "volume": "33cL",
+        "volume_price": "8.33€ / L"
+    },
+    {
+        "description": "Kombucha grenade Karma 1L",
+        "lien": "/magasin-bio/produit/kombucha-grenade-karma-1l_75959",
+        "prix": "5.75€",
+        "volume": "1L",
+        "volume_price": "5.75€ / L"
+    },
+    {
+        "description": "Kombucha framboise Karma 50cl",
+        "lien": "/magasin-bio/produit/kombucha-framboise-karma-50cl_60986",
+        "prix": "3.45€",
+        "volume": "50cL",
+        "volume_price": "6.90€ / L"
+    },
+    {
+        "description": "Boisson pétillante fraise basilic Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-fraise-basilic-unaju-75cl_73124",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Boisson pétillante fraise basilic Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-fraise-basilic-unaju-25cl_72408",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Boisson pétillante citron menthe Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-citron-menthe-unaju-75cl_73127",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "N°1 Tonic BIO Vitamont 33cl",
+        "lien": "/magasin-bio/produit/n-1-tonic-bio-vitamont-33cl_86069",
+        "prix": "2.25€",
+        "volume": "33cL",
+        "volume_price": "6.82€ / L"
+    },
+    {
+        "description": "Ginger Ale Vitamont 33cl",
+        "lien": "/magasin-bio/produit/ginger-ale-vitamont-33cl_86068",
+        "prix": "2.15€",
+        "volume": "57.4cL",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Kéfit citron Le Labo Dumoulin 75cl",
+        "lien": "/magasin-bio/produit/kefit-citron-le-labo-dumoulin-75cl_83122",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Kéfit framboise Le Labo Dumoulin 75cl",
+        "lien": "/magasin-bio/produit/kefit-framboise-le-labo-dumoulin-75cl_83123",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Kéfit gingembre Le Labo Dumoulin 75cl",
+        "lien": "/magasin-bio/produit/kefit-gingembre-le-labo-dumoulin-75cl_83124",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Cola équitable Vitamont 1L",
+        "lien": "/magasin-bio/produit/cola-equitable-vitamont-1l_18266",
+        "prix": "3.36€",
+        "ancien_prix": "3.95€",
+        "volume": "1L",
+        "volume_price": "3.36€ / L"
+    },
+    {
+        "description": "Limonade d'Antan Vitamont 33cl",
+        "lien": "/magasin-bio/produit/limonade-d-antan-vitamont-33cl_10009",
+        "prix": "1.95€",
+        "volume": "33cL",
+        "volume_price": "5.91€ / L"
+    },
+    {
+        "description": "Limonade citron Vitamont 75cl",
+        "lien": "/magasin-bio/produit/limonade-citron-vitamont-75cl_7868",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Thé pétillant sans alcool Sparkteez 75CL",
+        "lien": "/magasin-bio/produit/the-petillant-sans-alcool-sparkteez-75cl_115336",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Pétillant sans alcool Chardonnay Le Petit Étoilé 75cl",
+        "lien": "/magasin-bio/produit/petillant-sans-alcool-chardonnay-le-petit-etoile-75cl_121797",
+        "prix": "7.95€",
+        "volume": "75cL",
+        "volume_price": "10.60€ / L"
+    },
+    {
+        "description": "Boisson pétillante abricot thym Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-abricot-thym-unaju-25cl_72409",
+        "prix": "2.75€",
+        "volume_price": "11.00€ / Unité"
+    },
+    {
+        "description": "Boisson pétillante citron verveine Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-citron-verveine-unaju-25cl_72411",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Boisson pétillante framboise marjolaine Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-framboise-marjolaine-unaju-75cl_73131",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Boisson pétillante framboise marjolaine Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-framboise-marjolaine-unaju-25cl_73132",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Boisson pétillante abricot thym Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-abricot-thym-unaju-75cl_73133",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Boisson pétillante mandarine romarin Unaju 25cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-mandarine-romarin-unaju-25cl_75632",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Boisson pétillante mandarine romarin Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-mandarine-romarin-unaju-75cl_75633",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Virgin Mojito Vitamont 33cl",
+        "lien": "/magasin-bio/produit/virgin-mojito-vitamont-33cl_96994",
+        "prix": "2.15€",
+        "volume": "33cL",
+        "volume_price": "6.52€ / L"
+    },
+    {
+        "description": "Ginger Yuzu Vitamont 33cl",
+        "lien": "/magasin-bio/produit/ginger-yuzu-vitamont-33cl_102715",
+        "prix": "2.15€",
+        "volume": "33cL",
+        "volume_price": "6.52€ / L"
+    },
+    {
+        "description": "Boisson pétillante citron vert gingembre Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-citron-vert-gingembre-unaju-75cl_104167",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Diabolo grenadine Vitamont 33cl",
+        "lien": "/magasin-bio/produit/diabolo-grenadine-vitamont-33cl_115345",
+        "prix": "1.95€",
+        "volume": "33cL",
+        "volume_price": "5.91€ / L"
+    },
+    {
+        "description": "Diabolo menthe Vitamont 33cl",
+        "lien": "/magasin-bio/produit/diabolo-menthe-vitamont-33cl_115346",
+        "prix": "1.95€",
+        "volume": "330g",
+        "volume_price": "5.91€ / Kg"
+    },
+    {
+        "description": "Ginger Passion Vitamont 33cl",
+        "lien": "/magasin-bio/produit/ginger-passion-vitamont-33cl_116959",
+        "prix": "2.15€",
+        "volume": "33cL",
+        "volume_price": "6.52€ / L"
+    },
+    {
+        "description": "Kombucha immunité ananas curcuma Vitamont 75cl",
+        "lien": "/magasin-bio/produit/kombucha-immunite-ananas-curcuma-vitamont-75cl_121110",
+        "prix": "4.21€",
+        "ancien_prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "5.61€ / L"
+    },
+    {
+        "description": "Kombucha antioxydant clémentine citron Vitamont 75cl",
+        "lien": "/magasin-bio/produit/kombucha-antioxydant-clementine-citron-vitamont-75cl_122965",
+        "prix": "4.75€",
+        "volume": "75cL",
+        "volume_price": "6.33€ / L"
+    },
+    {
+        "description": "Infusion pétillante détox Symples 33cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-detox-symples-33cl_85156",
+        "prix": "2.75€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Infusion pétillante énergisante Symples 75cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-energisante-symples-75cl_95599",
+        "prix": "5.75€",
+        "volume": "100L",
+        "volume_price": "0.06€ / L"
+    },
+    {
+        "description": "Infusion pétillante relax Symples 75cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-relax-symples-75cl_95600",
+        "prix": "5.75€",
+        "volume": "100L",
+        "volume_price": "0.06€ / L"
+    },
+    {
+        "description": "Infusion pétillante détox Symples 75cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-detox-symples-75cl_95601",
+        "prix": "5.75€",
+        "volume": "100L",
+        "volume_price": "0.06€ / L"
+    },
+    {
+        "description": "Kombucha sunrise boost Karma 1l",
+        "lien": "/magasin-bio/produit/kombucha-sunrise-boost-karma-1l_123292",
+        "prix": "6.75€",
+        "volume": "1Kg",
+        "volume_price": "6.75€ / Kg"
+    },
+    {
+        "description": "Ginger Beer Original Bio Karma 35 cl",
+        "lien": "/magasin-bio/produit/ginger-beer-original-bio-karma-35-cl_107046",
+        "prix": "2.75€",
+        "volume": "35cL",
+        "volume_price": "7.86€ / L"
+    },
+    {
+        "description": "Ginger beer tropical ananas passion Karma 75cl",
+        "lien": "/magasin-bio/produit/ginger-beer-tropical-ananas-passion-karma-75cl_123443",
+        "prix": "5.15€",
+        "volume": "100L",
+        "volume_price": "0.05€ / L"
+    },
+    {
+        "description": "Ginger beer menthe citron vert Karma 75cl",
+        "lien": "/magasin-bio/produit/ginger-beer-menthe-citron-vert-karma-75cl_123444",
+        "prix": "5.15€",
+        "volume": "100L",
+        "volume_price": "0.05€ / L"
+    },
+    {
+        "description": "Boisson pétillante gingembre citron Gimber 4x250ml",
+        "lien": "/magasin-bio/produit/boisson-petillante-gingembre-citron-gimber-4x250ml_111149",
+        "prix": "9.75€",
+        "volume": "1L",
+        "volume_price": "9.75€ / L"
+    },
+    {
+        "description": "Kombucha  saveur agrumes sans sucres Karma 75cl",
+        "lien": "/magasin-bio/produit/kombucha-saveur-agrumes-sans-sucres-karma-75cl_116814",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Infusion pétillante cassis basilic menthe Fizz 33cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-cassis-basilic-menthe-fizz-33cl_117097",
+        "prix": "1.75€",
+        "volume": "33cL",
+        "volume_price": "5.30€ / L"
+    },
+    {
+        "description": "Infusion pétillante verveine citron vert Fizz 33cl",
+        "lien": "/magasin-bio/produit/infusion-petillante-verveine-citron-vert-fizz-33cl_117098",
+        "prix": "1.75€",
+        "volume": "33cL",
+        "volume_price": "5.30€ / L"
+    },
+    {
+        "description": "Boisson énergisante clémentine citron vert Vitamont 25cl",
+        "lien": "/magasin-bio/produit/boisson-energisante-clementine-citron-vert-vitamont-25cl_122961",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Boisson énergisante ananas passion Vitamont 25cl",
+        "lien": "/magasin-bio/produit/boisson-energisante-ananas-passion-vitamont-25cl_122962",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Kefit myrtille verveine Le Labo du Moulin 75cl",
+        "lien": "/magasin-bio/produit/kefit-myrtille-verveine-le-labo-du-moulin-75cl_109899",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Kivi cerise hibiscus Vitamont 75cl",
+        "lien": "/magasin-bio/produit/kivi-cerise-hibiscus-vitamont-75cl_122964",
+        "prix": "4.75€",
+        "volume": "75cL",
+        "volume_price": "6.33€ / L"
+    },
+    {
+        "description": "Kombucha énergie grenade Vitamont 75cl",
+        "lien": "/magasin-bio/produit/kombucha-energie-grenade-vitamont-75cl_122967",
+        "prix": "4.75€",
+        "volume": "75cL",
+        "volume_price": "6.33€ / L"
+    },
+    {
+        "description": "Boisson pétillante ananas basilic Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-ananas-basilic-unaju-75cl_122997",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Boisson pétillante litchi hibiscus Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-litchi-hibiscus-unaju-75cl_122998",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Boisson pétillante poire gingembre Unaju 75cl",
+        "lien": "/magasin-bio/produit/boisson-petillante-poire-gingembre-unaju-75cl_122999",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Kivi aux grains de kéfir gingembre Vitamont 25cl",
+        "lien": "/magasin-bio/produit/kivi-aux-grains-de-kefir-gingembre-vitamont-25cl_121302",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Kivi aux grains de kéfir citron figue Vitamont 25cl",
+        "lien": "/magasin-bio/produit/kivi-aux-grains-de-kefir-citron-figue-vitamont-25cl_121303",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Boisson bio au soja nature Soy 50cl",
+        "lien": "/magasin-bio/produit/boisson-bio-au-soja-nature-soy-50cl_73252",
+        "prix": "1.55€",
+        "volume": "50cL",
+        "volume_price": "3.10€ / L"
+    },
+    {
+        "description": "Boisson bio au soja vanille Soy 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-au-soja-vanille-soy-1l_8466",
+        "prix": "2.75€",
+        "volume": "1L",
+        "volume_price": "2.75€ / L"
+    },
+    {
+        "description": "Soya cuisine allégée",
+        "lien": "/magasin-bio/produit/soya-cuisine-allegee_19386",
+        "prix": "4.34€",
+        "volume": "60cL",
+        "volume_price": "7.23€ / L"
+    },
+    {
+        "description": "Boisson bio soja nature Soy 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-soja-nature-soy-1l_4817",
+        "prix": "1.95€",
+        "volume": "1L",
+        "volume_price": "1.95€ / L"
+    },
+    {
+        "description": "Boisson bio soja chocolat Soy 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-soja-chocolat-soy-1l_12285",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Boisson bio soja chocolat Soy 20cl",
+        "lien": "/magasin-bio/produit/boisson-bio-soja-chocolat-soy-20cl_35665",
+        "prix": "1.35€",
+        "volume": "20cL",
+        "volume_price": "6.75€ / L"
+    },
+    {
+        "description": "Soya cuisine Soy 3x20CL",
+        "lien": "/magasin-bio/produit/soya-cuisine-soy-3x20cl_9819",
+        "prix": "4.34€",
+        "volume": "60cL",
+        "volume_price": "7.23€ / L"
+    },
+    {
+        "description": "Boisson bio soja nature Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-soja-nature-bonneterre-1l_17468",
+        "prix": "1.95€",
+        "volume": "1L",
+        "volume_price": "1.95€ / L"
+    },
+    {
+        "description": "Boisson bio soja doux calcium Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-soja-doux-calcium-bonneterre-1l_12585",
+        "prix": "1.95€",
+        "volume": "1L",
+        "volume_price": "1.95€ / L"
+    },
+    {
+        "description": "Soja du chef Bonneterre 25CL",
+        "lien": "/magasin-bio/produit/soja-du-chef-bonneterre-25cl_23976",
+        "prix": "1.45€",
+        "volume": "25cL",
+        "volume_price": "5.80€ / L"
+    },
+    {
+        "description": "Boisson bio avoine amande Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-avoine-amande-bonneterre-1l_81291",
+        "prix": "3.15€",
+        "volume": "1L",
+        "volume_price": "3.15€ / L"
+    },
+    {
+        "description": "Boisson à l'avoine Bio concentrée Bonneterre 50 cl",
+        "lien": "/magasin-bio/produit/boisson-a-l-avoine-bio-concentree-bonneterre-50-cl_103921",
+        "prix": "1.45€",
+        "volume": "52.3cL",
+        "volume_price": "2.77€ / L"
+    },
+    {
+        "description": "Boisson végétale avoine The Bridge 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-avoine-the-bridge-1l_72986",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Crème de cuisine à l'avoine Ecomil 20cl",
+        "lien": "/magasin-bio/produit/creme-de-cuisine-a-l-avoine-ecomil-20cl_24188",
+        "prix": "1.45€",
+        "volume": "20cL",
+        "volume_price": "7.25€ / L"
+    },
+    {
+        "description": "Boisson végétale avoine Markal 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-avoine-markal-1l_61564",
+        "prix": "2.15€",
+        "volume": "1L",
+        "volume_price": "2.15€ / L"
+    },
+    {
+        "description": "Boisson d'avoine BIO Le Bio pour tous 1 L",
+        "lien": "/magasin-bio/produit/boisson-d-avoine-bio-le-bio-pour-tous-1-l_110250",
+        "prix": "1.95€",
+        "volume": "1L",
+        "volume_price": "1.95€ / L"
+    },
+    {
+        "description": "Boisson avoine sans sucres Ecomil 1l",
+        "lien": "/magasin-bio/produit/boisson-avoine-sans-sucres-ecomil-1l_99515",
+        "prix": "2.75€",
+        "volume": "1L",
+        "volume_price": "2.75€ / L"
+    },
+    {
+        "description": "Boisson avoine cacao Bonneterre 1l",
+        "lien": "/magasin-bio/produit/boisson-avoine-cacao-bonneterre-1l_106780",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Boisson végétale avoine sans gluten Evernat 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-avoine-sans-gluten-evernat-1l_123213",
+        "prix": "2.45€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Boisson végétale avoine protéinée Evernat 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-avoine-proteinee-evernat-1l_123214",
+        "prix": "2.45€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Boisson bio riz nature Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-riz-nature-bonneterre-1l_13436",
+        "prix": "1.95€",
+        "volume": "1L",
+        "volume_price": "1.95€ / L"
+    },
+    {
+        "description": "Boisson bio riz amande Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-riz-amande-bonneterre-1l_13437",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Boisson douceur riz sans sucres Evernat 1L",
+        "lien": "/magasin-bio/produit/boisson-douceur-riz-sans-sucres-evernat-1l_88765",
+        "prix": "1.75€",
+        "volume": "1L",
+        "volume_price": "1.75€ / L"
+    },
+    {
+        "description": "Boisson bio de riz à la vanille The Bridge 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-de-riz-a-la-vanille-the-bridge-1l_21365",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Boisson bio au riz coco The Bridge 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-au-riz-coco-the-bridge-1l_24618",
+        "prix": "2.95€",
+        "volume": "1L",
+        "volume_price": "2.95€ / L"
+    },
+    {
+        "description": "Crème de riz liquide spéciale cuisine BIO The Bridge 20cl",
+        "lien": "/magasin-bio/produit/creme-de-riz-liquide-speciale-cuisine-bio-the-bridge-20cl_16026",
+        "prix": "1.75€",
+        "volume": "20cL",
+        "volume_price": "8.75€ / L"
+    },
+    {
+        "description": "Riz Cuisine Soy 3x20cl",
+        "lien": "/magasin-bio/produit/riz-cuisine-soy-3x20cl_25888",
+        "prix": "4.75€",
+        "volume": "60cL",
+        "volume_price": "7.92€ / L"
+    },
+    {
+        "description": "Boisson au riz nature The Bridge - 1L",
+        "lien": "/magasin-bio/produit/boisson-au-riz-nature-the-bridge-1l_16025",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Boisson végétale riz nature Elibio 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-riz-nature-elibio-1l_119167",
+        "prix": "1.45€",
+        "volume": "1L",
+        "volume_price": "1.45€ / L"
+    },
+    {
+        "description": "Amande cuisine Crème végétale bio La Mandorle 25CL",
+        "lien": "/magasin-bio/produit/amande-cuisine-creme-vegetale-bio-la-mandorle-25cl_22728",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Lait d'amande bio La Mandorle 1L",
+        "lien": "/magasin-bio/produit/lait-d-amande-bio-la-mandorle-1l_22727",
+        "prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "5.45€ / L"
+    },
+    {
+        "description": "Lait d'amande bio Perl'amande Amandina 1L",
+        "lien": "/magasin-bio/produit/lait-d-amande-bio-perl-amande-amandina-1l_7475",
+        "prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "5.45€ / L"
+    },
+    {
+        "description": "Boisson bio amande Evernat 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-amande-evernat-1l_24888",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Boisson végétale amande Evernat 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-amande-evernat-1l_26948",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Boisson bio amande intense Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-amande-intense-bonneterre-1l_96097",
+        "prix": "4.75€",
+        "volume": "1L",
+        "volume_price": "4.75€ / L"
+    },
+    {
+        "description": "Amandina BIO Sans sucre Perlamande 50 cl",
+        "lien": "/magasin-bio/produit/amandina-bio-sans-sucre-perlamande-50-cl_109139",
+        "prix": "3.15€",
+        "volume": "50cL",
+        "volume_price": "6.30€ / L"
+    },
+    {
+        "description": "Boisson amande grillée Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-amande-grillee-bonneterre-1l_88760",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Boisson végétale amande coco La Mandorle 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-amande-coco-la-mandorle-1l_91756",
+        "prix": "5.95€",
+        "volume": "1L",
+        "volume_price": "5.95€ / L"
+    },
+    {
+        "description": "Béchamel amande BIO Ecomil 200ml",
+        "lien": "/magasin-bio/produit/bechamel-amande-bio-ecomil-200ml_38709",
+        "prix": "2.15€",
+        "volume": "20cL",
+        "volume_price": "10.75€ / L"
+    },
+    {
+        "description": "Boisson amande bio classic Ecomil 1L",
+        "lien": "/magasin-bio/produit/boisson-amande-bio-classic-ecomil-1l_38713",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Crème de cuisine à l'amande Ecomil 500ml",
+        "lien": "/magasin-bio/produit/creme-de-cuisine-a-l-amande-ecomil-500ml_85133",
+        "prix": "3.45€",
+        "volume": "50cL",
+        "volume_price": "6.90€ / L"
+    },
+    {
+        "description": "Lait d'amandes sans sucres sans gluten Ecomil 1L",
+        "lien": "/magasin-bio/produit/lait-d-amandes-sans-sucres-sans-gluten-ecomil-1l_27505",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Boisson végétale amande intense Elibio",
+        "lien": "/magasin-bio/produit/boisson-vegetale-amande-intense-elibio_123033",
+        "prix": "2.75€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Crème de coco cuisine Bonneterre 200mL",
+        "lien": "/magasin-bio/produit/creme-de-coco-cuisine-bonneterre-200ml_30078",
+        "prix": "2.75€",
+        "volume": "20cL",
+        "volume_price": "13.75€ / L"
+    },
+    {
+        "description": "Millet cuisine Soy 3x20cl",
+        "lien": "/magasin-bio/produit/millet-cuisine-soy-3x20cl_38357",
+        "prix": "4.65€",
+        "volume": "60cL",
+        "volume_price": "7.75€ / L"
+    },
+    {
+        "description": "Boisson bio noix de coco Ecomil 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-noix-de-coco-ecomil-1l_28868",
+        "prix": "3.15€",
+        "volume": "1L",
+        "volume_price": "3.15€ / L"
+    },
+    {
+        "description": "Boisson bio riz épeautre noisette Bonneterre 20CL",
+        "lien": "/magasin-bio/produit/boisson-bio-riz-epeautre-noisette-bonneterre-20cl_21704",
+        "prix": "1.75€",
+        "volume": "20cL",
+        "volume_price": "8.75€ / L"
+    },
+    {
+        "description": "Boisson bio millet amande noisette Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-millet-amande-noisette-bonneterre-1l_20706",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Préparation Cuisine Lait de Coco Ecomil 200mL",
+        "lien": "/magasin-bio/produit/preparation-cuisine-lait-de-coco-ecomil-200ml_24204",
+        "prix": "1.75€",
+        "volume": "20cL",
+        "volume_price": "8.75€ / L"
+    },
+    {
+        "description": "Boisson bio chocolat noisette Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-chocolat-noisette-bonneterre-1l_25744",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Boisson végétale Bio aux noix de cajou Ecomil 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-bio-aux-noix-de-cajou-ecomil-1l_65387",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Boisson végétale Barista BIO riz coco soja Bonneterre 1 L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-barista-bio-riz-coco-soja-bonneterre-1-l_110379",
+        "prix": "2.15€",
+        "volume": "1.016L",
+        "volume_price": "2.12€ / L"
+    },
+    {
+        "description": "Boisson bio riz épeautre noisette Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-riz-epeautre-noisette-bonneterre-1l_13438",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Lait de Coco Cuisine BIO Bonneterre 3X20CL",
+        "lien": "/magasin-bio/produit/lait-de-coco-cuisine-bio-bonneterre-3x20cl_77153",
+        "prix": "5.95€",
+        "volume": "60cL",
+        "volume_price": "9.92€ / L"
+    },
+    {
+        "description": "Boisson riz épeautre amande Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-riz-epeautre-amande-bonneterre-1l_26949",
+        "prix": "4.15€",
+        "volume": "1L",
+        "volume_price": "4.15€ / L"
+    },
+    {
+        "description": "Boisson bio coco intense Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-coco-intense-bonneterre-1l_96099",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Boisson bio noisette intense Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-noisette-intense-bonneterre-1l_96098",
+        "prix": "4.75€",
+        "volume": "1L",
+        "volume_price": "4.75€ / L"
+    },
+    {
+        "description": "Boisson végétale bio douceur coco sans sucre Evernat 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-bio-douceur-coco-sans-sucre-evernat-1l_80410",
+        "prix": "2.15€",
+        "volume": "1L",
+        "volume_price": "2.15€ / L"
+    },
+    {
+        "description": "Boisson végétale bio Evernat 1L",
+        "lien": "/magasin-bio/produit/boisson-vegetale-bio-evernat-1l_92681",
+        "prix": "2.15€",
+        "volume": "1L",
+        "volume_price": "2.15€ / L"
+    },
+    {
+        "description": "Coco Cuisine BIO La Mandorle 25cl",
+        "lien": "/magasin-bio/produit/coco-cuisine-bio-la-mandorle-25cl_22729",
+        "prix": "2.45€",
+        "volume": "25cL",
+        "volume_price": "9.80€ / L"
+    },
+    {
+        "description": "Cuisine noix de cajou sans sucres BIO Ecomil 20cl",
+        "lien": "/magasin-bio/produit/cuisine-noix-de-cajou-sans-sucres-bio-ecomil-20cl_38710",
+        "prix": "1.75€",
+        "volume": "20cL",
+        "volume_price": "8.75€ / L"
+    },
+    {
+        "description": "Crème de cuisine Thaï Ecomil 20cl",
+        "lien": "/magasin-bio/produit/creme-de-cuisine-thai-ecomil-20cl_38708",
+        "prix": "1.95€",
+        "volume": "20cL",
+        "volume_price": "9.75€ / L"
+    },
+    {
+        "description": "Boisson bio riz châtaigne avoine Bonneterre 1L",
+        "lien": "/magasin-bio/produit/boisson-bio-riz-chataigne-avoine-bonneterre-1l_17139",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Lait de Coco BIO 14% mg La Maison du Coco 40cl",
+        "lien": "/magasin-bio/produit/lait-de-coco-bio-14-mg-la-maison-du-coco-40cl_19725",
+        "prix": "2.45€",
+        "volume": "40cL",
+        "volume_price": "6.13€ / L"
+    },
+    {
+        "description": "Lait de coco cuisine",
+        "lien": "/magasin-bio/produit/lait-de-coco-cuisine_24971",
+        "prix": "2.00€",
+        "volume": "20cL",
+        "volume_price": "10.00€ / L"
+    },
+    {
+        "description": "Boisson végétale épeautre, riz, noisette et avoine Elibio 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-epeautre-riz-noisette-et-avoine-elibio-1l_110677",
+        "prix": "2.75€",
+        "volume": "1L",
+        "volume_price": "2.75€ / L"
+    },
+    {
+        "description": "Lait de coco en poudre La Mandorle 80g",
+        "lien": "/magasin-bio/produit/lait-de-coco-en-poudre-la-mandorle-80g_119321",
+        "prix": "2.95€",
+        "volume": "80g",
+        "volume_price": "36.88€ / Kg"
+    },
+    {
+        "description": "Boisson végétale noisette sans sucres",
+        "lien": "/magasin-bio/produit/boisson-vegetale-noisette-sans-sucres_121747",
+        "prix": "2.68€",
+        "ancien_prix": "3.15€",
+        "volume": "1L",
+        "volume_price": "2.68€ / L"
+    },
+    {
+        "description": "Boisson végétale céréales et 3 noix Bonneterre 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-cereales-et-3-noix-bonneterre-1l_123211",
+        "prix": "3.45€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Boisson végétale épeautre sans sucres Evernat 1l",
+        "lien": "/magasin-bio/produit/boisson-vegetale-epeautre-sans-sucres-evernat-1l_109685",
+        "prix": "1.83€",
+        "ancien_prix": "2.15€",
+        "volume": "1L",
+        "volume_price": "1.83€ / L"
+    },
+    {
+        "description": "Vin blanc Sauvignon Cuvée plaisir 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-sauvignon-cuvee-plaisir-75cl_16965",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Vin blanc Sauvignon Cuvée plaisir 37,5cl",
+        "lien": "/magasin-bio/produit/vin-blanc-sauvignon-cuvee-plaisir-37-5cl_16407",
+        "prix": "2.75€",
+        "volume": "37.5cL",
+        "volume_price": "7.33€ / L"
+    },
+    {
+        "description": "Vin blanc chardonnay IGP Pays d'Oc La Marouette 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-chardonnay-igp-pays-d-oc-la-marouette-75cl_18376",
+        "prix": "7.45€",
+        "volume": "75cL",
+        "volume_price": "9.93€ / L"
+    },
+    {
+        "description": "Vin blanc viognier Domaine de Petit Roubié 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-viognier-domaine-de-petit-roubie-75cl_20528",
+        "prix": "7.45€",
+        "volume": "75cL",
+        "volume_price": "9.93€ / L"
+    },
+    {
+        "description": "Vin blanc sec Cuvée Le Soleiller 25cl",
+        "lien": "/magasin-bio/produit/vin-blanc-sec-cuvee-le-soleiller-25cl_37500",
+        "prix": "2.95€",
+        "volume": "25cL",
+        "volume_price": "11.80€ / L"
+    },
+    {
+        "description": "Vin blanc sauvignon sans sulfites Pays d'Oc La Marouette 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-sauvignon-sans-sulfites-pays-d-oc-la-marouette-75cl_61984",
+        "prix": "8.44€",
+        "volume": "75cL",
+        "volume_price": "11.25€ / L"
+    },
+    {
+        "description": "Vin blanc sans sulfites chardonnay La Marouette 3l",
+        "lien": "/magasin-bio/produit/vin-blanc-sans-sulfites-chardonnay-la-marouette-3l_37503",
+        "prix": "24.95€",
+        "volume": "3L",
+        "volume_price": "8.32€ / L"
+    },
+    {
+        "description": "Vin blanc IGP Civitas Pecorino 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-igp-civitas-pecorino-75cl_110436",
+        "prix": "11.95€",
+        "volume": "75cL",
+        "volume_price": "15.93€ / L"
+    },
+    {
+        "description": "Vin blanc IGP Chardonnay Pays d'Oc Château des coccinelles 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-igp-chardonnay-pays-d-oc-chateau-des-coccinelles-75cl_115433",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Vin blanc IGP Viognier Cave de Tain 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-igp-viognier-cave-de-tain-75cl_121798",
+        "prix": "9.94€",
+        "volume": "75cL",
+        "volume_price": "13.25€ / L"
+    },
+    {
+        "description": "Vin blanc AOP Crozes Hermitage Cave de Tain 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-aop-crozes-hermitage-cave-de-tain-75cl_121799",
+        "prix": "19.95€",
+        "volume": "75cL",
+        "volume_price": "26.60€ / L"
+    },
+    {
+        "description": "Vin blanc AOC Côtes du Rhône Domaine St Honorat 75cl",
+        "lien": "/magasin-bio/produit/vin-blanc-aoc-cotes-du-rhone-domaine-st-honorat-75cl_121804",
+        "prix": "9.94€",
+        "volume": "75cL",
+        "volume_price": "13.25€ / L"
+    },
+    {
+        "description": "Champagne brut Erick Schreiber 75cl",
+        "lien": "/magasin-bio/produit/champagne-brut-erick-schreiber-75cl_27530",
+        "prix": "34.95€",
+        "volume": "75cL",
+        "volume_price": "46.60€ / L"
+    },
+    {
+        "description": "Clairette de Die  Monge-Granon 75cl",
+        "lien": "/magasin-bio/produit/clairette-de-die-monge-granon-75cl_110810",
+        "prix": "12.95€",
+        "volume": "75cL",
+        "volume_price": "17.27€ / L"
+    },
+    {
+        "description": "Champagne brut blanc Alain Réaut 75cl",
+        "lien": "/magasin-bio/produit/champagne-brut-blanc-alain-reaut-75cl_110809",
+        "prix": "34.95€",
+        "volume": "75cL",
+        "volume_price": "46.60€ / L"
+    },
+    {
+        "description": "Prosecco brut AOP Jacques Frelin 75cl",
+        "lien": "/magasin-bio/produit/prosecco-brut-aop-jacques-frelin-75cl_110589",
+        "prix": "10.95€",
+        "volume": "75cL",
+        "volume_price": "14.60€ / L"
+    },
+    {
+        "description": "Bière ambrée Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-ambree-les-brasseurs-savoyards-75cl_26842",
+        "prix": "5.45€",
+        "volume": "75cL",
+        "volume_price": "7.27€ / L"
+    },
+    {
+        "description": "Bière blanche Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-blanche-les-brasseurs-savoyards-75cl_26840",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Bière brune bio Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-brune-bio-les-brasseurs-savoyards-33cl_25288",
+        "prix": "2.35€",
+        "volume": "33cL",
+        "volume_price": "7.12€ / L"
+    },
+    {
+        "description": "Bière blanche bio Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-blanche-bio-les-brasseurs-savoyards-33cl_25287",
+        "prix": "2.35€",
+        "volume": "33cL",
+        "volume_price": "7.12€ / L"
+    },
+    {
+        "description": "Bière blonde bio Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-blonde-bio-les-brasseurs-savoyards-33cl_25286",
+        "prix": "2.35€",
+        "volume": "33cL",
+        "volume_price": "7.12€ / L"
+    },
+    {
+        "description": "Bière ambrée bio Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-ambree-bio-brasseurs-savoyards-33cl_25884",
+        "prix": "2.35€",
+        "volume": "33cL",
+        "volume_price": "7.12€ / L"
+    },
+    {
+        "description": "Bière brune bio Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-brune-bio-les-brasseurs-savoyards-33cl_26841",
+        "prix": "5.45€",
+        "volume": "75cL",
+        "volume_price": "7.27€ / L"
+    },
+    {
+        "description": "Bière blonde Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-blonde-les-brasseurs-savoyards-75cl_26839",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Bière bio nonne triple Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-bio-nonne-triple-les-brasseurs-savoyards-75cl_34219",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Bière bio Nonne I.P.A Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-bio-nonne-i-p-a-les-brasseurs-savoyards-75cl_34221",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Bière nonne bio A.P.A Les Brasseurs Savoyards 75cl",
+        "lien": "/magasin-bio/produit/biere-nonne-bio-a-p-a-les-brasseurs-savoyards-75cl_60427",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Bière blonde sans gluten La Cadette 6x25cl",
+        "lien": "/magasin-bio/produit/biere-blonde-sans-gluten-la-cadette-6x25cl_91615",
+        "prix": "10.45€",
+        "volume": "1.5L",
+        "volume_price": "6.97€ / L"
+    },
+    {
+        "description": "Bière ambrée Cadette 6x25cl",
+        "lien": "/magasin-bio/produit/biere-ambree-cadette-6x25cl_91614",
+        "prix": "10.45€",
+        "volume": "1.5L",
+        "volume_price": "6.97€ / L"
+    },
+    {
+        "description": "Bière blonde La Cadette 75cl",
+        "lien": "/magasin-bio/produit/biere-blonde-la-cadette-75cl_101457",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Bière blanche bio Cadette 75cl",
+        "lien": "/magasin-bio/produit/biere-blanche-bio-cadette-75cl_101477",
+        "prix": "6.45€",
+        "volume": "75cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Bière bio ambrée à la châtaigne Castagnor 33cl",
+        "lien": "/magasin-bio/produit/biere-bio-ambree-a-la-chataigne-castagnor-33cl_12075",
+        "prix": "3.15€",
+        "volume": "33cL",
+        "volume_price": "9.55€ / L"
+    },
+    {
+        "description": "Bière blonde bio Nonne triple Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-blonde-bio-nonne-triple-les-brasseurs-savoyards-33cl_34218",
+        "prix": "2.95€",
+        "volume": "33cL",
+        "volume_price": "8.94€ / L"
+    },
+    {
+        "description": "Bière blonde lager 0% alcool Biobir 33cl",
+        "lien": "/magasin-bio/produit/biere-blonde-lager-0-alcool-biobir-33cl_116963",
+        "prix": "2.65€",
+        "volume": "33cL",
+        "volume_price": "8.03€ / L"
+    },
+    {
+        "description": "Bière IPA  Moulins d'Ascq - 75cl",
+        "lien": "/magasin-bio/produit/biere-ipa-moulins-d-ascq-75cl_92157",
+        "prix": "6.45€",
+        "volume": "75cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Bière blanche myrtille Les Brasseurs Savoyards 33cl",
+        "lien": "/magasin-bio/produit/biere-blanche-myrtille-les-brasseurs-savoyards-33cl_25833",
+        "prix": "2.75€",
+        "volume": "33cL",
+        "volume_price": "8.33€ / L"
+    },
+    {
+        "description": "Bière blonde sans alcool La Brasserie Parallèle 75cl",
+        "lien": "/magasin-bio/produit/biere-blonde-sans-alcool-la-brasserie-parallele-75cl_123297",
+        "prix": "6.75€",
+        "volume": "100L",
+        "volume_price": "0.07€ / L"
+    },
+    {
+        "description": "Bière blonde Lammsbräu 50cl",
+        "lien": "/magasin-bio/produit/biere-blonde-lammsbrau-50cl_123298",
+        "prix": "2.75€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Bière sans alcool Lammsbräu 50cl",
+        "lien": "/magasin-bio/produit/biere-sans-alcool-lammsbrau-50cl_123299",
+        "prix": "2.15€",
+        "volume": "100L",
+        "volume_price": "0.02€ / L"
+    },
+    {
+        "description": "Spritz rouge bio Les Chais Du Fort 70cl",
+        "lien": "/magasin-bio/produit/spritz-rouge-bio-les-chais-du-fort-70cl_86925",
+        "prix": "21.95€",
+        "volume": "70cL",
+        "volume_price": "31.36€ / L"
+    },
+    {
+        "description": "Lumière d'étoiles Les Jardins de Gaïa 100G",
+        "lien": "/magasin-bio/produit/lumiere-d-etoiles-les-jardins-de-gaia-100g_32194",
+        "prix": "6.35€",
+        "volume": "100g",
+        "volume_price": "63.50€ / Kg"
+    },
+    {
+        "description": "Tisane sauge BIO feuille Le Comptoire d'Herboristerie 25g",
+        "lien": "/magasin-bio/produit/tisane-sauge-bio-feuille-le-comptoire-d-herboristerie-25g_2258",
+        "prix": "2.85€",
+        "volume": "25g",
+        "volume_price": "114.00€ / Kg"
+    },
+    {
+        "description": "Tisane détox Le Comptoir d'Herboristerie 80g",
+        "lien": "/magasin-bio/produit/tisane-detox-le-comptoir-d-herboristerie-80g_17779",
+        "prix": "5.25€",
+        "volume": "80g",
+        "volume_price": "65.63€ / Kg"
+    },
+    {
+        "description": "Tisane articulation Le Comptoir d'Herboristerie 80G",
+        "lien": "/magasin-bio/produit/tisane-articulation-le-comptoir-d-herboristerie-80g_17778",
+        "prix": "5.25€",
+        "volume": "80g",
+        "volume_price": "65.63€ / Kg"
+    },
+    {
+        "description": "Maté vert sauvage Aromandise 350g",
+        "lien": "/magasin-bio/produit/mate-vert-sauvage-aromandise-350g_99410",
+        "prix": "8.44€",
+        "volume": "350g",
+        "volume_price": "24.11€ / Kg"
+    },
+    {
+        "description": "Infusion Réconfort de la gorge Yogi Tea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-reconfort-de-la-gorge-yogi-tea-17-sachets_23398",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusions gingembre poivre noir Yogitea 17 unités",
+        "lien": "/magasin-bio/produit/infusions-gingembre-poivre-noir-yogitea-17-unites_22290",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion respiratoire Romon Nature x20",
+        "lien": "/magasin-bio/produit/infusion-respiratoire-romon-nature-x20_28399",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane allaitement verveine fenouil Weleda x20",
+        "lien": "/magasin-bio/produit/tisane-allaitement-verveine-fenouil-weleda-x20_15608",
+        "prix": "4.38€",
+        "volume": "40g",
+        "volume_price": "109.50€ / Kg"
+    },
+    {
+        "description": "Tisane camomille bio Romon Nature 18 sachets",
+        "lien": "/magasin-bio/produit/tisane-camomille-bio-romon-nature-18-sachets_2027",
+        "prix": "4.15€",
+        "volume": "14g",
+        "volume_price": "296.43€ / Kg"
+    },
+    {
+        "description": "Tisanes allaitement fruits rouges Weleda x20",
+        "lien": "/magasin-bio/produit/tisanes-allaitement-fruits-rouges-weleda-x20_36199",
+        "prix": "4.49€",
+        "volume": "40g",
+        "volume_price": "112.25€ / Kg"
+    },
+    {
+        "description": "Tisane aubépine fleur et feuille",
+        "lien": "/magasin-bio/produit/tisane-aubepine-fleur-et-feuille_2225",
+        "prix": "3.25€",
+        "volume": "40g",
+        "volume_price": "81.25€ / Kg"
+    },
+    {
+        "description": "Tisane eucalyptus",
+        "lien": "/magasin-bio/produit/tisane-eucalyptus_2233",
+        "prix": "2.95€",
+        "volume": "30g",
+        "volume_price": "98.33€ / Kg"
+    },
+    {
+        "description": "Tisane digestive Les Tisanes Maison 50g",
+        "lien": "/magasin-bio/produit/tisane-digestive-les-tisanes-maison-50g_4758",
+        "prix": "4.55€",
+        "volume": "50g",
+        "volume_price": "91.00€ / Kg"
+    },
+    {
+        "description": "Tisane camomille romaine Les Tisanes Maison 20G",
+        "lien": "/magasin-bio/produit/tisane-camomille-romaine-les-tisanes-maison-20g_2231",
+        "prix": "8.65€",
+        "volume": "20g",
+        "volume_price": "432.50€ / Kg"
+    },
+    {
+        "description": "Tisane aubier tilleul Le Comptoir d'Herboristerie 50G",
+        "lien": "/magasin-bio/produit/tisane-aubier-tilleul-le-comptoir-d-herboristerie-50g_2226",
+        "prix": "3.85€",
+        "volume": "50g",
+        "volume_price": "77.00€ / Kg"
+    },
+    {
+        "description": "Feuilles verveine Le Comptoir d'Herboristerie 20G",
+        "lien": "/magasin-bio/produit/feuilles-verveine-le-comptoir-d-herboristerie-20g_2262",
+        "prix": "3.95€",
+        "volume": "20g",
+        "volume_price": "197.50€ / Kg"
+    },
+    {
+        "description": "Badiane BIO Les Tisanes Maison 40g",
+        "lien": "/magasin-bio/produit/badiane-bio-les-tisanes-maison-40g_5318",
+        "prix": "5.39€",
+        "volume": "40g",
+        "volume_price": "134.75€ / Kg"
+    },
+    {
+        "description": "Tisane anis vert",
+        "lien": "/magasin-bio/produit/tisane-anis-vert_11891",
+        "prix": "5.15€",
+        "volume": "100g",
+        "volume_price": "51.50€ / Kg"
+    },
+    {
+        "description": "Tisane bio Ventre plat minceur Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-bio-ventre-plat-minceur-romon-nature-20-sachets_11986",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane verveine odorante Le Comptoir d'Herboristerie 50G",
+        "lien": "/magasin-bio/produit/tisane-verveine-odorante-le-comptoir-d-herboristerie-50g_11932",
+        "prix": "8.44€",
+        "volume": "50g",
+        "volume_price": "168.80€ / Kg"
+    },
+    {
+        "description": "Tisane rhume",
+        "lien": "/magasin-bio/produit/tisane-rhume_16495",
+        "prix": "5.95€",
+        "volume": "50g",
+        "volume_price": "119.00€ / Kg"
+    },
+    {
+        "description": "Thé Confort urinaire Romon Nature",
+        "lien": "/magasin-bio/produit/the-confort-urinaire-romon-nature_17267",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Réglisse racine coupé BIO Les Tisanes Maison 60g",
+        "lien": "/magasin-bio/produit/reglisse-racine-coupe-bio-les-tisanes-maison-60g_17786",
+        "prix": "3.55€",
+        "volume": "60g",
+        "volume_price": "59.17€ / Kg"
+    },
+    {
+        "description": "Infusion thé Vert au Jasmin Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-the-vert-au-jasmin-yogitea-17-sachets_20777",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusions détox citron Yogitea x17",
+        "lien": "/magasin-bio/produit/infusions-detox-citron-yogitea-x17_26539",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Christmas Tea Infusion de Noël YogiTea  x17 sachets",
+        "lien": "/magasin-bio/produit/christmas-tea-infusion-de-noel-yogitea-x17-sachets_27714",
+        "prix": "3.85€",
+        "volume": "37g",
+        "volume_price": "104.05€ / Kg"
+    },
+    {
+        "description": "Rooibos Bio Elixir des Petits Lutins Les jardins de Gaïa 100G",
+        "lien": "/magasin-bio/produit/rooibos-bio-elixir-des-petits-lutins-les-jardins-de-gaia-100g_28817",
+        "prix": "6.55€",
+        "volume": "100g",
+        "volume_price": "65.50€ / Kg"
+    },
+    {
+        "description": "Infusions curcuma orange Yogitea x17",
+        "lien": "/magasin-bio/produit/infusions-curcuma-orange-yogitea-x17_79571",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Nuïlong sommeil Thés de la Pagode x18",
+        "lien": "/magasin-bio/produit/nuilong-sommeil-thes-de-la-pagode-x18_79812",
+        "prix": "8.94€",
+        "volume": "27g",
+        "volume_price": "331.11€ / Kg"
+    },
+    {
+        "description": "Tisane fleur de sureau hibiscus Romon Nature 28,8g",
+        "lien": "/magasin-bio/produit/tisane-fleur-de-sureau-hibiscus-romon-nature-28-8g_83614",
+        "prix": "3.15€",
+        "volume": "29g",
+        "volume_price": "108.62€ / Kg"
+    },
+    {
+        "description": "Tisanes fraise gingembre Romon Nature 28,8g",
+        "lien": "/magasin-bio/produit/tisanes-fraise-gingembre-romon-nature-28-8g_83615",
+        "prix": "3.15€",
+        "volume": "29g",
+        "volume_price": "108.62€ / Kg"
+    },
+    {
+        "description": "Tisane plaisir zest zen Romon Nature 28,8g",
+        "lien": "/magasin-bio/produit/tisane-plaisir-zest-zen-romon-nature-28-8g_83616",
+        "prix": "3.15€",
+        "volume": "29g",
+        "volume_price": "108.62€ / Kg"
+    },
+    {
+        "description": "Infusions confort de l'âme Yogitea x17",
+        "lien": "/magasin-bio/produit/infusions-confort-de-l-ame-yogitea-x17_101832",
+        "prix": "3.75€",
+        "volume": "32g",
+        "volume_price": "117.19€ / Kg"
+    },
+    {
+        "description": "Infusions tulsi sérénité Yogitea x17",
+        "lien": "/magasin-bio/produit/infusions-tulsi-serenite-yogitea-x17_101833",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Infusion Rooibos aux épices Bio et équitable Destination 20 x 2 g",
+        "lien": "/magasin-bio/produit/infusion-rooibos-aux-epices-bio-et-equitable-destination-20-x-2-g_102665",
+        "prix": "4.45€",
+        "volume": "40g",
+        "volume_price": "111.25€ / Kg"
+    },
+    {
+        "description": "Rooibos Bio Digestao Thés de la Pagode 18 sachets",
+        "lien": "/magasin-bio/produit/rooibos-bio-digestao-thes-de-la-pagode-18-sachets_102960",
+        "prix": "8.85€",
+        "volume": "36g",
+        "volume_price": "245.83€ / Kg"
+    },
+    {
+        "description": "Infusion Rooibos nature Bio et équitable Destination 35 g",
+        "lien": "/magasin-bio/produit/infusion-rooibos-nature-bio-et-equitable-destination-35-g_106199",
+        "prix": "4.25€",
+        "volume": "35g",
+        "volume_price": "121.43€ / Kg"
+    },
+    {
+        "description": "INFUSION DIGESTION CHERIE X20",
+        "lien": "/magasin-bio/produit/infusion-digestion-cherie-x20_108666",
+        "prix": "3.45€",
+        "volume": "35g",
+        "volume_price": "98.57€ / Kg"
+    },
+    {
+        "description": "INFUSION ESCALE ZEN X20",
+        "lien": "/magasin-bio/produit/infusion-escale-zen-x20_108664",
+        "prix": "3.75€",
+        "volume": "35g",
+        "volume_price": "107.14€ / Kg"
+    },
+    {
+        "description": "Infusion gingembre citron Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-gingembre-citron-yogitea-17-sachets_20735",
+        "prix": "3.65€",
+        "volume": "30g",
+        "volume_price": "121.67€ / Kg"
+    },
+    {
+        "description": "Infusion détox aux plantes Yogi Tea 17sachets",
+        "lien": "/magasin-bio/produit/infusion-detox-aux-plantes-yogi-tea-17sachets_20775",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion à la rose et aux plantes Yogi Tea 17sachets",
+        "lien": "/magasin-bio/produit/infusion-a-la-rose-et-aux-plantes-yogi-tea-17sachets_20813",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion digestion Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-digestion-yogitea-17-sachets_20776",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion profonde respiration Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-profonde-respiration-yogitea-17-sachets_20829",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion Himalaya Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-himalaya-yogitea-17-sachets_20905",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "ANTI OXYDANT x20",
+        "lien": "/magasin-bio/produit/anti-oxydant-x20_10336",
+        "prix": "4.43€",
+        "volume": "34g",
+        "volume_price": "130.29€ / Kg"
+    },
+    {
+        "description": "Infusion Classic chai Yogi Tea 90g",
+        "lien": "/magasin-bio/produit/infusion-classic-chai-yogi-tea-90g_19099",
+        "prix": "4.45€",
+        "volume": "90g",
+        "volume_price": "49.44€ / Kg"
+    },
+    {
+        "description": "Infusion Chaï vert Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-chai-vert-yogitea-17-sachets_20815",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion Classic Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-classic-yogitea-17-sachets_20904",
+        "prix": "3.75€",
+        "volume": "37g",
+        "volume_price": "101.35€ / Kg"
+    },
+    {
+        "description": "Infusion Bonne nuit Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-bonne-nuit-yogitea-17-sachets_20730",
+        "prix": "3.65€",
+        "volume": "30g",
+        "volume_price": "121.67€ / Kg"
+    },
+    {
+        "description": "Infusion Energie Thé Vert Yogitea 17 infusions",
+        "lien": "/magasin-bio/produit/infusion-energie-the-vert-yogitea-17-infusions_20828",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion Equilibre du thé vert Yogi Tea 17sachets",
+        "lien": "/magasin-bio/produit/infusion-equilibre-du-the-vert-yogi-tea-17sachets_33810",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion Joie de vivre Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-joie-de-vivre-yogitea-17-sachets_20732",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion équilibre féminin Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-equilibre-feminin-yogitea-17-sachets_20814",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion Chaï doux Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-chai-doux-yogitea-17-sachets_20901",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Infusion grand calme Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-grand-calme-yogitea-17-sachets_20731",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion chocolat Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-chocolat-yogitea-17-sachets_20902",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Infusion réglisse Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/infusion-reglisse-yogitea-17-sachets_20906",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Framboisier feuilles Les Tisanes Maison 30g",
+        "lien": "/magasin-bio/produit/framboisier-feuilles-les-tisanes-maison-30g_19523",
+        "prix": "3.35€",
+        "volume": "30g",
+        "volume_price": "111.67€ / Kg"
+    },
+    {
+        "description": "Tisane bien être du foie bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-bien-etre-du-foie-bio-romon-nature-20-sachets_13163",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane fenouil bio Romon Nature 18 sachets",
+        "lien": "/magasin-bio/produit/tisane-fenouil-bio-romon-nature-18-sachets_2029",
+        "prix": "4.15€",
+        "volume": "36g",
+        "volume_price": "115.28€ / Kg"
+    },
+    {
+        "description": "Tisane stress bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-stress-bio-romon-nature-20-sachets_2031",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane détox bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-detox-bio-romon-nature-20-sachets_18756",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane digestion nature bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-digestion-nature-bio-romon-nature-20-sachets_2028",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane romarin bio Romon Nature 18 sachets",
+        "lien": "/magasin-bio/produit/tisane-romarin-bio-romon-nature-18-sachets_2035",
+        "prix": "4.15€",
+        "volume": "31g",
+        "volume_price": "133.87€ / Kg"
+    },
+    {
+        "description": "Rooibos Citron Gingembre Thés de la Pagode 100G",
+        "lien": "/magasin-bio/produit/rooibos-citron-gingembre-thes-de-la-pagode-100g_18265",
+        "prix": "8.44€",
+        "volume": "100g",
+        "volume_price": "84.40€ / Kg"
+    },
+    {
+        "description": "Tisane circulation bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-circulation-bio-romon-nature-20-sachets_2040",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane verveine bio Romon Nature 18 sachets",
+        "lien": "/magasin-bio/produit/tisane-verveine-bio-romon-nature-18-sachets_2041",
+        "prix": "4.15€",
+        "volume": "29g",
+        "volume_price": "143.10€ / Kg"
+    },
+    {
+        "description": "Rooïbos Yogitea 17 sachets",
+        "lien": "/magasin-bio/produit/rooibos-yogitea-17-sachets_20734",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Tisane articulations bio Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-articulations-bio-romon-nature-20-sachets_22164",
+        "prix": "4.45€",
+        "volume": "36g",
+        "volume_price": "123.61€ / Kg"
+    },
+    {
+        "description": "Tisane digestion anis Romon Nature 20 sachets",
+        "lien": "/magasin-bio/produit/tisane-digestion-anis-romon-nature-20-sachets_11982",
+        "prix": "4.45€",
+        "volume": "32g",
+        "volume_price": "139.06€ / Kg"
+    },
+    {
+        "description": "Tisane digestion citron BIO Romon Nature x20 infusions",
+        "lien": "/magasin-bio/produit/tisane-digestion-citron-bio-romon-nature-x20-infusions_37456",
+        "prix": "4.45€",
+        "volume": "36g",
+        "volume_price": "123.61€ / Kg"
+    },
+    {
+        "description": "Tisane anti stress Les Tisanes Maison 50g",
+        "lien": "/magasin-bio/produit/tisane-anti-stress-les-tisanes-maison-50g_17777",
+        "prix": "4.45€",
+        "volume": "50g",
+        "volume_price": "89.00€ / Kg"
+    },
+    {
+        "description": "Infusion à froid pêche mangue Yogitea  x15 sachets",
+        "lien": "/magasin-bio/produit/infusion-a-froid-peche-mangue-yogitea-x15-sachets_122832",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion à froid fruits rouges Yogitea x15 sachets",
+        "lien": "/magasin-bio/produit/infusion-a-froid-fruits-rouges-yogitea-x15-sachets_122831",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion à froid fraise orange Yogitea x15 sachets",
+        "lien": "/magasin-bio/produit/infusion-a-froid-fraise-orange-yogitea-x15-sachets_122833",
+        "prix": "3.75€",
+        "volume": "30g",
+        "volume_price": "125.00€ / Kg"
+    },
+    {
+        "description": "Infusion fraise épicée Yogitea x17 sachets",
+        "lien": "/magasin-bio/produit/infusion-fraise-epicee-yogitea-x17-sachets_122993",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Infusion menthe concentration Yogitea x17 sachets",
+        "lien": "/magasin-bio/produit/infusion-menthe-concentration-yogitea-x17-sachets_122994",
+        "prix": "3.75€",
+        "volume": "35g",
+        "volume_price": "107.14€ / Kg"
+    },
+    {
+        "description": "Infusion nuit paisible Yogitea x17 sachets",
+        "lien": "/magasin-bio/produit/infusion-nuit-paisible-yogitea-x17-sachets_122995",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Infusion confort ménopause Yogitea x17 sachets",
+        "lien": "/magasin-bio/produit/infusion-confort-menopause-yogitea-x17-sachets_122996",
+        "prix": "3.75€",
+        "volume": "34g",
+        "volume_price": "110.29€ / Kg"
+    },
+    {
+        "description": "Cidre brut Fils de Pomme 75cl",
+        "lien": "/magasin-bio/produit/cidre-brut-fils-de-pomme-75cl_93100",
+        "prix": "6.95€",
+        "volume": "100L",
+        "volume_price": "0.07€ / L"
+    },
+    {
+        "description": "Cidre brut bio Côteaux Nantais Terroir Breton 75cl",
+        "lien": "/magasin-bio/produit/cidre-brut-bio-coteaux-nantais-terroir-breton-75cl_16688",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Cidre doux bio Côteaux Nantais 75cl",
+        "lien": "/magasin-bio/produit/cidre-doux-bio-coteaux-nantais-75cl_16687",
+        "prix": "4.21€",
+        "ancien_prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "5.61€ / L"
+    },
+    {
+        "description": "Cidre brut Fils de Pomme 33cl",
+        "lien": "/magasin-bio/produit/cidre-brut-fils-de-pomme-33cl_91091",
+        "prix": "3.45€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Cidre demi sec Pays d'Auge 75cl",
+        "lien": "/magasin-bio/produit/cidre-demi-sec-pays-d-auge-75cl_111713",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Cidre sans alcool Fils de Pomme 33cl",
+        "lien": "/magasin-bio/produit/cidre-sans-alcool-fils-de-pomme-33cl_123294",
+        "prix": "3.45€",
+        "volume": "100L",
+        "volume_price": "0.03€ / L"
+    },
+    {
+        "description": "Vin rouge Cuvée Plaisir 3l",
+        "lien": "/magasin-bio/produit/vin-rouge-cuvee-plaisir-3l_24401",
+        "prix": "11.95€",
+        "volume": "3L",
+        "volume_price": "3.98€ / L"
+    },
+    {
+        "description": "Vin rouge Cuvée plaisir 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-cuvee-plaisir-75cl_15862",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Vin rouge Cuvée le Soleiller 3l",
+        "lien": "/magasin-bio/produit/vin-rouge-cuvee-le-soleiller-3l_20536",
+        "prix": "17.95€",
+        "volume": "3L",
+        "volume_price": "5.98€ / L"
+    },
+    {
+        "description": "Vin rouge Châtelaine Stéphanie 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-chatelaine-stephanie-75cl_11022",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Vin rouge Le P'tit Roubié Pays d'Hérault 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-le-p-tit-roubie-pays-d-herault-75cl_10866",
+        "prix": "6.45€",
+        "volume": "75cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Vin rouge Côtes du Rhône cuvée Confidence Fond Croze 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-cotes-du-rhone-cuvee-confidence-fond-croze-75cl_110812",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Vin rouge AOC Côtes du Rhône Rouge Domaine Grand Ribe 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aoc-cotes-du-rhone-rouge-domaine-grand-ribe-75cl_110815",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Vin rouge La Dame de Cleve 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-la-dame-de-cleve-75cl_14599",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Vin rouge Château de Saurs IGP Côtes du Tarn 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-chateau-de-saurs-igp-cotes-du-tarn-75cl_95237",
+        "prix": "7.95€",
+        "volume": "75cL",
+        "volume_price": "10.60€ / L"
+    },
+    {
+        "description": "Vin rouge Syrah La Marouette 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-syrah-la-marouette-75cl_16195",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Vin rouge merlot Pays d'Oc La Marouette 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-merlot-pays-d-oc-la-marouette-75cl_14604",
+        "prix": "6.45€",
+        "volume": "75cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Vin rouge Cuvée le Soleiller 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-cuvee-le-soleiller-75cl_14600",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Vin rouge sans sulfites La Marouette Pays d'Oc 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-sans-sulfites-la-marouette-pays-d-oc-75cl_26083",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Vin rouge  merlot La Marouette 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-merlot-la-marouette-75cl_30541",
+        "prix": "7.45€",
+        "volume": "75cL",
+        "volume_price": "9.93€ / L"
+    },
+    {
+        "description": "Vin rouge Montepulciano d'Abruzzo DOP Coste Di Moro 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-montepulciano-d-abruzzo-dop-coste-di-moro-75cl_30543",
+        "prix": "11.95€",
+        "volume": "75cL",
+        "volume_price": "15.93€ / L"
+    },
+    {
+        "description": "Vin rouge Cuvée Le Soleiller 25cl",
+        "lien": "/magasin-bio/produit/vin-rouge-cuvee-le-soleiller-25cl_37498",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Vin rouge AOP Saumur Coq'licot 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aop-saumur-coq-licot-75cl_34535",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Vin rouge Côte du Rhône La Vie sans Sulfites 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-cote-du-rhone-la-vie-sans-sulfites-75cl_105155",
+        "prix": "9.94€",
+        "volume": "75cL",
+        "volume_price": "13.25€ / L"
+    },
+    {
+        "description": "Vin rouge La cuvée des Épiciers 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-la-cuvee-des-epiciers-75cl_109582",
+        "prix": "3.25€",
+        "volume": "75cL",
+        "volume_price": "4.33€ / L"
+    },
+    {
+        "description": "Vin rouge AOP Crozes Hermitage Cave de Tain 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aop-crozes-hermitage-cave-de-tain-75cl_111685",
+        "prix": "18.95€",
+        "volume": "75cL",
+        "volume_price": "25.27€ / L"
+    },
+    {
+        "description": "Vin rouge IGP Pays d'Oc Le Bourgeon 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-pays-d-oc-le-bourgeon-75cl_111716",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Vin rouge IGP Domaine des Jardinettes 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-domaine-des-jardinettes-75cl_111722",
+        "prix": "7.45€",
+        "volume": "75cL",
+        "volume_price": "9.93€ / L"
+    },
+    {
+        "description": "Vin rouge IGP Pugla Cantine Agresti 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-pugla-cantine-agresti-75cl_112411",
+        "prix": "6.75€",
+        "volume": "75cL",
+        "volume_price": "9.00€ / L"
+    },
+    {
+        "description": "Vin rouge IGP Syrah Pays d'Oc Château des coccinelles 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-syrah-pays-d-oc-chateau-des-coccinelles-75cl_115431",
+        "prix": "7.45€",
+        "volume": "75cL",
+        "volume_price": "9.93€ / L"
+    },
+    {
+        "description": "Vin rouge AOP Bellagarda Domaine Belle d'Argence 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aop-bellagarda-domaine-belle-d-argence-75cl_120474",
+        "prix": "7.75€",
+        "volume": "75cL",
+        "volume_price": "10.33€ / L"
+    },
+    {
+        "description": "Vin rouge AOC St Nicolas de Bourgueil Vielles vignes 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aoc-st-nicolas-de-bourgueil-vielles-vignes-75cl_121801",
+        "prix": "14.95€",
+        "volume_price": "19.93€ / Unité"
+    },
+    {
+        "description": "Vin rouge AOP Vermador 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-aop-vermador-75cl_121802",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Vin rouge IGP Merlot Domaine Attilon 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-merlot-domaine-attilon-75cl_121803",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Vin rouge IGP exploration syrah Cave de Tain 75cl",
+        "lien": "/magasin-bio/produit/vin-rouge-igp-exploration-syrah-cave-de-tain-75cl_121800",
+        "prix": "7.95€",
+        "volume_price": "10.60€ / Unité"
+    },
+    {
+        "description": "Vin rosé grenache Cuvée Plaisir 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-grenache-cuvee-plaisir-75cl_15863",
+        "prix": "3.95€",
+        "volume": "75cL",
+        "volume_price": "5.27€ / L"
+    },
+    {
+        "description": "Vin rosé grenache Cuvée Plaisir 3l",
+        "lien": "/magasin-bio/produit/vin-rose-grenache-cuvee-plaisir-3l_26514",
+        "prix": "11.95€",
+        "volume": "3L",
+        "volume_price": "3.98€ / L"
+    },
+    {
+        "description": "Vin rosé Cuvée le Soleiller 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-cuvee-le-soleiller-75cl_14248",
+        "prix": "5.45€",
+        "volume": "75cL",
+        "volume_price": "7.27€ / L"
+    },
+    {
+        "description": "Vin rosé  Cuvée Le Soleiller 25cl",
+        "lien": "/magasin-bio/produit/vin-rose-cuvee-le-soleiller-25cl_37499",
+        "prix": "2.75€",
+        "volume": "25cL",
+        "volume_price": "11.00€ / L"
+    },
+    {
+        "description": "Vin rosé Cuvée des Épiciers 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-cuvee-des-epiciers-75cl_109672",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Vin rosé IGP Pays d'Oc Le Bourgeon 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-igp-pays-d-oc-le-bourgeon-75cl_111718",
+        "prix": "5.95€",
+        "volume": "75cL",
+        "volume_price": "7.93€ / L"
+    },
+    {
+        "description": "Vin rosé AOC Cabernet d'Anjou  Coteau Saint Vincent 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-aoc-cabernet-d-anjou-coteau-saint-vincent-75cl_121795",
+        "prix": "8.44€",
+        "volume": "75cL",
+        "volume_price": "11.25€ / L"
+    },
+    {
+        "description": "Vin rosé IGP Terra di Vinu 75cl",
+        "lien": "/magasin-bio/produit/vin-rose-igp-terra-di-vinu-75cl_123257",
+        "prix": "9.94€",
+        "volume": "75cL",
+        "volume_price": "13.25€ / L"
+    }
+]

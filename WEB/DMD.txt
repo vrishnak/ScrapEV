@@ -1,0 +1,38 @@
+On va creer un programme afin de Scrapper un site web
+
+La page web à scraper est sauvegardée en local dans le repertoire WEB sous le nom "EAUVIVE.htm"
+
+
+Sur la premiere page du site, on va detecter la derniere page de la catégorie.
+Pour cela on regardera dans la balise <ul class="pagination products">, on detectera la derniere page à regarder.
+On detectera l'avant derniere nalise <li> c'est celle qui indique le numero de la derniere page à scrapper, le numero se trouve au niveau de la balise <a>
+
+On scrappera une à une les pages de cette maniere
+url_a_scraper?page=1 à url_a_scraper?page= (le numero que l'on a detecté)
+
+Ce qui m'interesse sur chaque pages sont les elements suivants:
+
+
+
+Dans le div class="cards_container", tous les articles sont repertoriés.
+chaque article à un div class="card_container", et plus precisement un div class="product-card", c'est dans cette class que mes informations à obtenir se trouvent
+
+dans le div class="product-title", il y a la description de mon produit, et le lien vers ma fiche produit (href de la balise <a>)
+
+dans le div class="product-price-row", il y a le prix de mon produit (<span class="product-price">), et le volume de mon produit '<span class="product-prictypee-">), et on completera par le volume_price qui se trouve dans <span class="product-price-type">
+
+Est ce que tu peut me composer ce programme en creant les differentes fonctions dans le repertoire utils/
+
+un temps de pause sera necessaire lors des passages au pages suivantes
+
+Attention, il faut une ATTENTE CHARGEMENT pour chaque page.
+
+Le sauvegarde de l'ensemble devra se faire sous format json, et sous format excel, dans le repertoire DATA_EV, il devra etre format avec la date du jour sous format yymmdd
+
+
+Ceci permettra d'ameliorer le fonctionnement de EV_HTML_GRAB_V4.py
+
+
+
+
+

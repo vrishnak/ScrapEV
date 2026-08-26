@@ -1,0 +1,24 @@
+Description détaillée du script EV_HTML_GRAB_V4.py
+
+Le script EV_HTML_GRAB_V4.py est un outil de scraping automatisé conçu pour extraire le code HTML des pages de produits du site Eau-Vive, en gérant plusieurs magasins et plusieurs familles (catégories) de produits.
+
+1. Processus de Connexion :
+Le script s'appuie sur Selenium pour contrôler un navigateur web (Chrome). Plutôt que de gérer la connexion lui-même, il fait appel à une fonction externe `get_connected_driver(magasin, headless=HEADLESS_MODE)` importée depuis `utils.ev_connection`. Cette fonction est responsable de lancer le navigateur (en arrière-plan ou visible selon la configuration), de se rendre sur le site, et d'établir la connexion/sélection spécifique au magasin choisi par l'utilisateur. Le script récupère ainsi une instance WebDriver prête à l'emploi et déjà localisée sur le bon magasin.
+
+2. Procédure Globale :
+- Au lancement, le script lit des fichiers JSON (`EauVive_Liste.json` et `EauVive_URL_Famille.json`) pour lister les magasins et les familles de produits disponibles.
+- L'utilisateur est invité dans la console à sélectionner un ou plusieurs magasins, ainsi qu'une ou plusieurs familles de produits.
+- Pour chaque magasin sélectionné, le script initialise un navigateur connecté via `get_connected_driver`.
+- Ensuite, pour chaque famille sélectionnée, il instancie la classe `WebScraper` et lance le processus de récupération.
+
+3. Processus de Scraping des Données :
+- Le scraper navigue vers l'URL de la famille sélectionnée.
+- Attente du chargement : Il utilise `WebDriverWait` pour attendre (jusqu'à 15 secondes) que l'élément contenant les produits, identifié par le sélecteur CSS `div.cards-container`, soit présent dans le DOM. Il ajoute également un petit délai explicite (`time.sleep`) pour s'assurer que React a fini de rendre les composants.
+- Pagination : Il cherche la balise `ul.pagination.products` et examine ses liens (`a`) pour déterminer le numéro de la dernière page.
+- Parcours des pages : Si plusieurs pages existent, il boucle sur chaque page en modifiant l'URL (ajout du paramètre `?page=X`). Sur chaque page, il attend le chargement des produits.
+- Extraction : Pour chaque page chargée, le script récupère tous les éléments correspondant à `div.cards-container`.
+  - Fonction utilisée : `driver.find_elements(By.CSS_SELECTOR, "div.cards-container")`
+  - La donnée extraite est le code HTML brut de ces conteneurs en utilisant `container.get_attribute("outerHTML")`.
+- Sauvegarde : Une fois toutes les pages de la famille parcourues, tous les blocs HTML extraits sont concaténés et sauvegardés dans un unique fichier `.html` placé dans le dossier `DATA_EV/HTML`. Le fichier est nommé intelligemment : `GRAB-[Nom_Magasin]-[Date]-[Nom_Famille].html`.
+
+En résumé, ce script ne parse pas les détails de chaque produit (prix, nom, etc.), il se contente de naviguer intelligemment à travers les pages et de télécharger en masse les blocs HTML contenant les listes de produits pour une analyse ultérieure.

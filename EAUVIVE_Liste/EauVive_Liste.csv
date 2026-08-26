@@ -1,0 +1,31 @@
+id;denomination;adresse;code_postal;ville;livraison_domicile;retrait_magasin;lien;SDV
+1;Eau Vive;Magasin bio;;France;0;1;;0
+2;Annecy;4 avenue des Romains;74000;Annecy;;1;https://www.eau-vive.com/magasin/magasin-bio-annecy;
+3;Annemasse;10 rue de Genève;74100;Annemasse;;1;https://www.eau-vive.com/magasin/magasin-bio-annemasse;
+4;Aubière;3 Avenue de Cournon;63170;Aubière;;1;https://www.eau-vive.com/magasin/magasin-bio-aubiere;
+5;Belfort - Andelnans;5 rue des Prés;90400 ;Andelnans;;1;https://www.eau-vive.com/magasin/magasin-bio-belfort-andelnans;
+6;Besançon;8 rue Louis Aragon;25000;Besançon;;1;https://www.eau-vive.com/magasin/magasin-bio-besancon;
+7;Bidart;Route de Bayonne;64120;Bidart;;1;https://www.eau-vive.com/magasin/magasin-bio-bidart;
+8;Biguglia;Lieu dit Ceppe;20620;Biguglia;;1;https://www.eau-vive.com/magasin/magasin-bio-biguglia;
+9;Bizanos;47 route de Tarbes;64320;Bizanos;;1;https://www.eau-vive.com/magasin/magasin-bio-bizanos;
+10;Bonneuil-sur-Marne;7 avenue de la Convention;94390;Bonneuil-sur-Marne;;1;https://www.eau-vive.com/magasin/magasin-bio-bonneuil-sur-marne;
+11;Bourgoin-Jallieu;Rue Isaac Asimov;38300;Bourgoin-Jallieu;;1;https://www.eau-vive.com/magasin/magasin-bio-bourgoin-jallieu;
+12;Brié-et-Angonnes;Champs et Bruyères - Route Napoléon;38320;Brié-et-Angonnes;;1;https://www.eau-vive.com/magasin/magasin-bio-brie-et-angonnes;
+13;Chasseneuil-du-Poitou;1 avenue des Grands Philmabins;86360;Chasseneuil-du-Poitou;;1;https://www.eau-vive.com/magasin/magasin-bio-chasseneuil-du-poitou;
+14;Clermont-Ferrand;17 rue Fontgiève;63000;Clermont-Ferrand;;1;https://www.eau-vive.com/magasin/magasin-bio-clermont-ferrand;
+15;Grenoble Irvoy;24 rue Irvoy;38100;Grenoble;;1;https://www.eau-vive.com/magasin/magasin-bio-grenoble-irvoy;
+16;Grenoble Lafontaine;6 cours Lafontaine;38000;Grenoble;;1;https://www.eau-vive.com/magasin/magasin-bio-grenoble-lafontaine;
+17;Lyon 3 Félix Faure;84 avenue Félix Faure;69003;Lyon;;1;https://www.eau-vive.com/magasin/magasin-bio-lyon-3-felix-faure;
+18;Lyon 4 Croix-Rousse;50 bis Grande rue de la Croix-Rousse;69004;Lyon;;1;https://www.eau-vive.com/magasin/magasin-bio-lyon-4-croix-rousse;
+19;Lyon 6 Franklin Roosevelt;58 cours Franklin Roosevelt;69006;Lyon;;1;https://www.eau-vive.com/magasin/magasin-bio-lyon-6-franklin-roosevelt;
+20;Meylan;3 Allée des Centaurées;38240;Meylan;;1;https://www.eau-vive.com/magasin/magasin-bio-meylan;
+21;Pontarlier;2 place de l'Europe;25300;Pontarlier;;1;https://www.eau-vive.com/magasin/magasin-bio-pontarlier;
+22;Quetigny;18 rue du Commerce;21800;Quetigny;;1;https://www.eau-vive.com/magasin/magasin-bio-quetigny;
+23;Rouffiac;Centre Commercial de Louradou;31180;Rouffiac-Tolosan;;1;https://www.eau-vive.com/magasin/magasin-bio-rouffiac;
+24;Saint-Alban-Leysse;118 Rue du Marocaz;73230;Saint-Alban-Leysse;;1;https://www.eau-vive.com/magasin/magasin-bio-saint-alban-leysse;
+25;Saint-Égrève;11 rue de la Trémouillière;38120;Saint-Égrève;;1;https://www.eau-vive.com/magasin/magasin-bio-saint-egreve;
+26;Sillingy;170 route des Bromines;74330;Sillingy;;1;https://www.eau-vive.com/magasin/magasin-bio-sillingy;
+27;Terville;Avenue du 14 Juillet 1789;57180;Terville;;1;https://www.eau-vive.com/magasin/magasin-bio-terville;
+28;Vandoeuvre-lès-Nancy;12 rue Roberval;54500;Vandoeuvre-lès-Nancy;;1;https://www.eau-vive.com/magasin/magasin-bio-vandoeuvre-les-nancy;
+29;Villeurbanne;25 rue Jean Bourgey;69100;Villeurbanne;;1;https://www.eau-vive.com/magasin/magasin-bio-villeurbanne;
+30;Voiron;15 boulevard de Charavines;38500;Voiron;;1;https://www.eau-vive.com/magasin/magasin-bio-voiron;

@@ -1,0 +1,26 @@
+html = """<div class="cards-list">... votre HTML ...</div>"""
+df = extract_products_eauvive(html)
+print(df[["name", "ref_id", "volume", "price", "price_unit"]])
+
+ésultat attendu pour les premiers produits
+name	ref_id	volume	price	price_unit
+Apéripasta poivrons, tomates et ricotta Luce 180g	122878	180g	4.13	22.94€ / Kg
+Ferments pour yaourt de brebis Natali 12g	83699	12g	3.45	287.50€ / Kg
+Ferments boisson kombucha Natali 10g	83700	10g	3.95	395.00€ / Kg
+
+Solution alternative pour obtenir l'EAN
+
+Puisque l'EAN n'est pas dans l'URL de l'image, vous pouvez :
+
+    Utiliser l'API Open Food Facts avec le nom du produit :
+    python
+
+    import requests
+    query = "Elixir spécial 50 extraits Uberti"
+    url = f"https://fr.openfoodfacts.org/cgi/search.pl?search_terms={query}&json=1"
+    response = requests.get(url)
+
+    Rechercher sur Google avec "Elixir spécial 50 extraits Uberti 75cl" EAN ou "82677" Uberti
+
+    Scraper la page produit complète (pas seulement la fiche catalogue) : la page détaillée du produit contient souvent l'EAN dans le code HTML ou dans un champ data-ean
+

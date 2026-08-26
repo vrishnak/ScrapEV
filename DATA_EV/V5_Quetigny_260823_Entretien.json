@@ -1,0 +1,962 @@
+[
+    {
+        "description": "Percarbonate de sodium L'Artisan Savonnier 1kg",
+        "lien": "/magasin-bio/produit/percarbonate-de-sodium-l-artisan-savonnier-1kg_39262",
+        "prix": "10.75€",
+        "volume": "1Kg",
+        "volume_price": "10.75€ / Kg"
+    },
+    {
+        "description": "Assouplissant pêche Ecodoo 1L",
+        "lien": "/magasin-bio/produit/assouplissant-peche-ecodoo-1l_94723",
+        "prix": "5.95€",
+        "volume": "1L",
+        "volume_price": "5.95€ / L"
+    },
+    {
+        "description": "Shampoing laine délicat L'Artisan Savonnier 1,5L",
+        "lien": "/magasin-bio/produit/shampoing-laine-delicat-l-artisan-savonnier-1-5l_35125",
+        "prix": "7.45€",
+        "volume": "1.5L",
+        "volume_price": "4.97€ / L"
+    },
+    {
+        "description": "Assouplissant lavandin Ecodoo 2L",
+        "lien": "/magasin-bio/produit/assouplissant-lavandin-ecodoo-2l_94724",
+        "prix": "5.95€",
+        "volume": "1L",
+        "volume_price": "5.95€ / L"
+    },
+    {
+        "description": "Lessive liquide concentrée L'Artisan Savonnier 1,5L",
+        "lien": "/magasin-bio/produit/lessive-liquide-concentree-l-artisan-savonnier-1-5l_28674",
+        "prix": "6.95€",
+        "volume": "1.5L",
+        "volume_price": "4.63€ / L"
+    },
+    {
+        "description": "Lessive Savon de Marseille 2L Ecodoo",
+        "lien": "/magasin-bio/produit/lessive-savon-de-marseille-2l-ecodoo_94195",
+        "prix": "11.95€",
+        "volume": "2L",
+        "volume_price": "5.97€ / L"
+    },
+    {
+        "description": "Lessive douceur sans parfum Safe 3L",
+        "lien": "/magasin-bio/produit/lessive-douceur-sans-parfum-safe-3l_93202",
+        "prix": "15.95€",
+        "volume": "3L",
+        "volume_price": "5.32€ / L"
+    },
+    {
+        "description": "Lessive douceur sans parfum Safe 1L",
+        "lien": "/magasin-bio/produit/lessive-douceur-sans-parfum-safe-1l_93203",
+        "prix": "7.95€",
+        "volume": "1L",
+        "volume_price": "7.95€ / L"
+    },
+    {
+        "description": "Lessive jasmin Etamine du Lys 1L",
+        "lien": "/magasin-bio/produit/lessive-jasmin-etamine-du-lys-1l_93790",
+        "prix": "7.95€",
+        "volume": "1L",
+        "volume_price": "7.95€ / L"
+    },
+    {
+        "description": "Lessive lavandin Ecodoo 2L",
+        "lien": "/magasin-bio/produit/lessive-lavandin-ecodoo-2l_94721",
+        "prix": "10.95€",
+        "volume": "2L",
+        "volume_price": "5.47€ / L"
+    },
+    {
+        "description": "Savon détachant végétal Eolesens",
+        "lien": "/magasin-bio/produit/savon-detachant-vegetal-eolesens_18849",
+        "prix": "4.45€",
+        "volume": "150g",
+        "volume_price": "29.67€ / Kg"
+    },
+    {
+        "description": "Lessive liquide La Fourmi Verte 1.5L",
+        "lien": "/magasin-bio/produit/lessive-liquide-la-fourmi-verte-1-5l_21541",
+        "prix": "6.95€",
+        "volume": "1.5L",
+        "volume_price": "4.63€ / L"
+    },
+    {
+        "description": "Lessive textiles délicats 75cL Ecodoo",
+        "lien": "/magasin-bio/produit/lessive-textiles-delicats-75cl-ecodoo_20444",
+        "prix": "8.94€",
+        "volume": "75cL",
+        "volume_price": "11.92€ / L"
+    },
+    {
+        "description": "Détachant écologique 25cL Ecodoo",
+        "lien": "/magasin-bio/produit/detachant-ecologique-25cl-ecodoo_13258",
+        "prix": "5.45€",
+        "volume": "25cL",
+        "volume_price": "21.80€ / L"
+    },
+    {
+        "description": "Lessive concentrée écologique 5L Ecodoo",
+        "lien": "/magasin-bio/produit/lessive-concentree-ecologique-5l-ecodoo_16873",
+        "prix": "28.95€",
+        "volume": "5L",
+        "volume_price": "5.79€ / L"
+    },
+    {
+        "description": "Lessive sensitive Ecodoo 2L",
+        "lien": "/magasin-bio/produit/lessive-sensitive-ecodoo-2l_94722",
+        "prix": "10.95€",
+        "volume": "2L",
+        "volume_price": "5.47€ / L"
+    },
+    {
+        "description": "Lessive senteur pêche Ecodoo 2L",
+        "lien": "/magasin-bio/produit/lessive-senteur-peche-ecodoo-2l_94720",
+        "prix": "11.95€",
+        "volume": "2L",
+        "volume_price": "5.97€ / L"
+    },
+    {
+        "description": "PERCARBONATE DE SOUDE 2,5KG",
+        "lien": "/magasin-bio/produit/percarbonate-de-soude-2-5kg_116496",
+        "prix": "23.95€",
+        "volume": "2.5Kg",
+        "volume_price": "9.58€ / Kg"
+    },
+    {
+        "description": "SAVON DETACHANT LE LINGOT 80G",
+        "lien": "/magasin-bio/produit/savon-detachant-le-lingot-80g_116484",
+        "prix": "4.95€",
+        "volume": "80g",
+        "volume_price": "61.88€ / Kg"
+    },
+    {
+        "description": "Lessive poudre blanc et couleurs claires Etamine du Lys 2kg",
+        "lien": "/magasin-bio/produit/lessive-poudre-blanc-et-couleurs-claires-etamine-du-lys-2kg_17953",
+        "prix": "19.95€",
+        "volume": "2Kg",
+        "volume_price": "9.97€ / Kg"
+    },
+    {
+        "description": "Assouplissant lavande Etamine du Lys 1l",
+        "lien": "/magasin-bio/produit/assouplissant-lavande-etamine-du-lys-1l_21554",
+        "prix": "6.75€",
+        "volume": "1L",
+        "volume_price": "6.75€ / L"
+    },
+    {
+        "description": "Lessive liquide blanc et couleurs lavandin bio Etamine du Lys 3l",
+        "lien": "/magasin-bio/produit/lessive-liquide-blanc-et-couleurs-lavandin-bio-etamine-du-lys-3l_22796",
+        "prix": "16.11€",
+        "ancien_prix": "19.45€",
+        "volume": "3L",
+        "volume_price": "5.37€ / L"
+    },
+    {
+        "description": "Lessive linge délicat lavandin bio Etamine du Lys 1l",
+        "lien": "/magasin-bio/produit/lessive-linge-delicat-lavandin-bio-etamine-du-lys-1l_68326",
+        "prix": "9.75€",
+        "volume": "1L",
+        "volume_price": "9.75€ / L"
+    },
+    {
+        "description": "Gel détachant taches grasses Etamine du Lys 150ml",
+        "lien": "/magasin-bio/produit/gel-detachant-taches-grasses-etamine-du-lys-150ml_111947",
+        "prix": "4.45€",
+        "volume": "15cL",
+        "volume_price": "29.67€ / L"
+    },
+    {
+        "description": "Tablettes anti-calcaire Etamine du Lys x20",
+        "lien": "/magasin-bio/produit/tablettes-anti-calcaire-etamine-du-lys-x20_121084",
+        "prix": "9.25€",
+        "volume": "320g",
+        "volume_price": "28.91€ / Kg"
+    },
+    {
+        "description": "Lessive liquide linge noir et foncé Etamine du Lys 1l",
+        "lien": "/magasin-bio/produit/lessive-liquide-linge-noir-et-fonce-etamine-du-lys-1l_75636",
+        "prix": "9.75€",
+        "volume": "1L",
+        "volume_price": "9.75€ / L"
+    },
+    {
+        "description": "Lessive main hypoallergénique abricot Etamine du Lys 250ml",
+        "lien": "/magasin-bio/produit/lessive-main-hypoallergenique-abricot-etamine-du-lys-250ml_122747",
+        "prix": "5.55€",
+        "volume": "1L",
+        "volume_price": "5.55€ / L"
+    },
+    {
+        "description": "Lessive en feuilles peaux sensibles Ecodoo x30",
+        "lien": "/magasin-bio/produit/lessive-en-feuilles-peaux-sensibles-ecodoo-x30_123014",
+        "prix": "6.95€",
+        "volume_price": "6.95€ / Unité"
+    },
+    {
+        "description": "Lessive en feuilles fraîcheur végétale Ecodoo x30",
+        "lien": "/magasin-bio/produit/lessive-en-feuilles-fraicheur-vegetale-ecodoo-x30_123015",
+        "prix": "6.95€",
+        "volume_price": "6.95€ / Unité"
+    },
+    {
+        "description": "Lessive en poudre Ecodoo 750g",
+        "lien": "/magasin-bio/produit/lessive-en-poudre-ecodoo-750g_123016",
+        "prix": "8.44€",
+        "volume": "750g",
+        "volume_price": "11.25€ / Kg"
+    },
+    {
+        "description": "Blanchissant détachant en poudre Pimpant 700g",
+        "lien": "/magasin-bio/produit/blanchissant-detachant-en-poudre-pimpant-700g_123361",
+        "prix": "11.95€",
+        "volume": "700g",
+        "volume_price": "17.07€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle ECOCERT Lerutan 1L",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-ecocert-lerutan-1l_13239",
+        "prix": "4.95€",
+        "volume": "1L",
+        "volume_price": "4.95€ / L"
+    },
+    {
+        "description": "Eponge végétale à récurer Ecodoo x2",
+        "lien": "/magasin-bio/produit/eponge-vegetale-a-recurer-ecodoo-x2_77210",
+        "prix": "2.75€",
+        "volume_price": "2.75€ / Unité"
+    },
+    {
+        "description": "Tablettes lave-vaisselle tout-en-un Etamine du Lys x30",
+        "lien": "/magasin-bio/produit/tablettes-lave-vaisselle-tout-en-un-etamine-du-lys-x30_40352",
+        "prix": "6.75€",
+        "volume": "480g",
+        "volume_price": "14.06€ / Kg"
+    },
+    {
+        "description": "Sel régénérant Etamine du Lys 2,5kg",
+        "lien": "/magasin-bio/produit/sel-regenerant-etamine-du-lys-2-5kg_21555",
+        "prix": "5.15€",
+        "volume": "2.5Kg",
+        "volume_price": "2.06€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle sans parfum Safe 1L",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-sans-parfum-safe-1l_93201",
+        "prix": "4.45€",
+        "volume": "1L",
+        "volume_price": "4.45€ / L"
+    },
+    {
+        "description": "Liquide vaisselle thym bergamote Etamine du Lys 750ml",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-thym-bergamote-etamine-du-lys-750ml_93788",
+        "prix": "4.95€",
+        "volume": "75cL",
+        "volume_price": "6.60€ / L"
+    },
+    {
+        "description": "Poudre de lave vaisselle Etamine du Lys 1,3kg",
+        "lien": "/magasin-bio/produit/poudre-de-lave-vaisselle-etamine-du-lys-1-3kg_20143",
+        "prix": "17.45€",
+        "volume": "1.3Kg",
+        "volume_price": "13.42€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle dégraissant Menthe Ecodoo 500ML",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-degraissant-menthe-ecodoo-500ml_15614",
+        "prix": "2.95€",
+        "volume": "50cL",
+        "volume_price": "5.90€ / L"
+    },
+    {
+        "description": "Liquide de rinçage lave-vaiselle 50cL Ecodoo",
+        "lien": "/magasin-bio/produit/liquide-de-rincage-lave-vaiselle-50cl-ecodoo_12424",
+        "prix": "3.95€",
+        "volume": "50cL",
+        "volume_price": "7.90€ / L"
+    },
+    {
+        "description": "Liquide Vaisselle La Fourmi Verte 1L",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-la-fourmi-verte-1l_21543",
+        "prix": "3.55€",
+        "volume": "1L",
+        "volume_price": "3.55€ / L"
+    },
+    {
+        "description": "Gel pour lave-vaisselle Ecodoo",
+        "lien": "/magasin-bio/produit/gel-pour-lave-vaisselle-ecodoo_16114",
+        "prix": "7.95€",
+        "volume": "1Kg",
+        "volume_price": "7.95€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle citron vert vinaigre Ecodoo 500ml",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-citron-vert-vinaigre-ecodoo-500ml_39240",
+        "prix": "2.95€",
+        "volume": "50cL",
+        "volume_price": "5.90€ / L"
+    },
+    {
+        "description": "Liquide vaisselle citron menthe Etamine Du Lys 500ml",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-citron-menthe-etamine-du-lys-500ml_21571",
+        "prix": "3.65€",
+        "volume": "50cL",
+        "volume_price": "7.30€ / L"
+    },
+    {
+        "description": "Liquide vaisselle framboise Etamine Du Lys",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-framboise-etamine-du-lys_102488",
+        "prix": "3.95€",
+        "volume": "50cL",
+        "volume_price": "7.90€ / L"
+    },
+    {
+        "description": "Liquide vaisselle hypoal Etamine Du Lys 500ml",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-hypoal-etamine-du-lys-500ml_102495",
+        "prix": "3.75€",
+        "volume": "50cL",
+        "volume_price": "7.50€ / L"
+    },
+    {
+        "description": "GEL LAVE-VAISSELLE TOUT EN 1",
+        "lien": "/magasin-bio/produit/gel-lave-vaisselle-tout-en-1_113003",
+        "prix": "11.15€",
+        "volume": "87cL",
+        "volume_price": "12.82€ / L"
+    },
+    {
+        "description": "Liquide rinçage lave-vaisselle Etamine du Lys 1L",
+        "lien": "/magasin-bio/produit/liquide-rincage-lave-vaisselle-etamine-du-lys-1l_16799",
+        "prix": "7.55€",
+        "volume": "1L",
+        "volume_price": "7.55€ / L"
+    },
+    {
+        "description": "Tablettes lave-vaisselle 3 en 1 Ecodoo x60",
+        "lien": "/magasin-bio/produit/tablettes-lave-vaisselle-3-en-1-ecodoo-x60_116504",
+        "prix": "15.95€",
+        "volume": "720g",
+        "volume_price": "22.15€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle ultra-dégraissant Etamine du Lys 1l",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-ultra-degraissant-etamine-du-lys-1l_122780",
+        "prix": "5.45€",
+        "volume": "1L",
+        "volume_price": "5.45€ / L"
+    },
+    {
+        "description": "Produit vaisselle en poudre Ecodoo 200g",
+        "lien": "/magasin-bio/produit/produit-vaisselle-en-poudre-ecodoo-200g_123017",
+        "prix": "5.95€",
+        "volume": "200g",
+        "volume_price": "29.75€ / Kg"
+    },
+    {
+        "description": "Recharge pour spray anti-calcaire Pimpant 50g",
+        "lien": "/magasin-bio/produit/recharge-pour-spray-anti-calcaire-pimpant-50g_116548",
+        "prix": "3.75€",
+        "volume": "50g",
+        "volume_price": "75.00€ / Kg"
+    },
+    {
+        "description": "Recharge liquide vaisselle agrumes Pimpant 25g",
+        "lien": "/magasin-bio/produit/recharge-liquide-vaisselle-agrumes-pimpant-25g_121538",
+        "prix": "2.75€",
+        "volume": "25g",
+        "volume_price": "110.00€ / Kg"
+    },
+    {
+        "description": "Kit découverte liquide vaisselle amande Pimpant 25g",
+        "lien": "/magasin-bio/produit/kit-decouverte-liquide-vaisselle-amande-pimpant-25g_121539",
+        "prix": "6.95€",
+        "volume": "1Kg",
+        "volume_price": "6.95€ / Kg"
+    },
+    {
+        "description": "Kit découverte liquide vaisselle agrumes Pimpant 25g",
+        "lien": "/magasin-bio/produit/kit-decouverte-liquide-vaisselle-agrumes-pimpant-25g_121540",
+        "prix": "6.95€",
+        "volume": "25g",
+        "volume_price": "278.00€ / Kg"
+    },
+    {
+        "description": "Recharge liquide vaisselle amande Pimpant 25g",
+        "lien": "/magasin-bio/produit/recharge-liquide-vaisselle-amande-pimpant-25g_121551",
+        "prix": "2.75€",
+        "volume": "25g",
+        "volume_price": "110.00€ / Kg"
+    },
+    {
+        "description": "Liquide vaisselle lavandin Ecodoo 1L",
+        "lien": "/magasin-bio/produit/liquide-vaisselle-lavandin-ecodoo-1l_85364",
+        "prix": "3.75€",
+        "volume": "1L",
+        "volume_price": "3.75€ / L"
+    },
+    {
+        "description": "Gel wc Ecodoo 75cl",
+        "lien": "/magasin-bio/produit/gel-wc-ecodoo-75cl_12423",
+        "prix": "3.75€",
+        "volume": "75cL",
+        "volume_price": "5.00€ / L"
+    },
+    {
+        "description": "Bloc WC solide X2 Etamine du Lys",
+        "lien": "/magasin-bio/produit/bloc-wc-solide-x2-etamine-du-lys_90414",
+        "prix": "5.75€",
+        "volume": "100g",
+        "volume_price": "57.50€ / Kg"
+    },
+    {
+        "description": "Papier toilette écologique compact Grazie 8 rouleaux",
+        "lien": "/magasin-bio/produit/papier-toilette-ecologique-compact-grazie-8-rouleaux_22938",
+        "prix": "8.44€",
+        "volume_price": "15.32€ / Unité"
+    },
+    {
+        "description": "Gel WC désinfectant Etamine du Lys 750ml",
+        "lien": "/magasin-bio/produit/gel-wc-desinfectant-etamine-du-lys-750ml_93787",
+        "prix": "6.45€",
+        "volume": "75cL",
+        "volume_price": "8.60€ / L"
+    },
+    {
+        "description": "Gel WC Etamine du Lys 750ml",
+        "lien": "/magasin-bio/produit/gel-wc-etamine-du-lys-750ml_21570",
+        "prix": "5.75€",
+        "volume": "75cL",
+        "volume_price": "7.67€ / L"
+    },
+    {
+        "description": "Tablettes WC 2 en 1 Etamine du lys x10",
+        "lien": "/magasin-bio/produit/tablettes-wc-2-en-1-etamine-du-lys-x10_72318",
+        "prix": "5.75€",
+        "volume": "250g",
+        "volume_price": "23.00€ / Kg"
+    },
+    {
+        "description": "PAPIER TOILETTE 3 PLIS x4",
+        "lien": "/magasin-bio/produit/papier-toilette-3-plis-x4_120802",
+        "prix": "4.45€",
+        "volume_price": "19.10€ / Unité"
+    },
+    {
+        "description": "Sachet penderie fleur de tiaré Aromandise",
+        "lien": "/magasin-bio/produit/sachet-penderie-fleur-de-tiare-aromandise_27673",
+        "prix": "2.45€",
+        "volume_price": "2.45€ / Unité"
+    },
+    {
+        "description": "Phytaromasol Bergamote Spray assainissant  250 ml",
+        "lien": "/magasin-bio/produit/phytaromasol-bergamote-spray-assainissant-250-ml_502",
+        "prix": "10.95€",
+        "volume": "25cL",
+        "volume_price": "43.80€ / L"
+    },
+    {
+        "description": "Phytaromasol verveine bois de hô spray 25CL",
+        "lien": "/magasin-bio/produit/phytaromasol-verveine-bois-de-ho-spray-25cl_8749",
+        "prix": "10.95€",
+        "volume": "25cL",
+        "volume_price": "43.80€ / L"
+    },
+    {
+        "description": "Papier d'Arménie carnet triple",
+        "lien": "/magasin-bio/produit/papier-d-armenie-carnet-triple_9204",
+        "prix": "4.45€",
+        "volume_price": "4.45€ / Unité"
+    },
+    {
+        "description": "Spray Assainissant Lavande Romarin Phytaromasol 25CL",
+        "lien": "/magasin-bio/produit/spray-assainissant-lavande-romarin-phytaromasol-25cl_504",
+        "prix": "10.95€",
+        "volume": "25cL",
+        "volume_price": "43.80€ / L"
+    },
+    {
+        "description": "Spray Assainissant Pin & Eucalyptus Phytaromasol 25CL",
+        "lien": "/magasin-bio/produit/spray-assainissant-pin-eucalyptus-phytaromasol-25cl_505",
+        "prix": "10.95€",
+        "volume": "25cL",
+        "volume_price": "43.80€ / L"
+    },
+    {
+        "description": "Destructeur d'odeur Etamine du Lys 125ml",
+        "lien": "/magasin-bio/produit/destructeur-d-odeur-etamine-du-lys-125ml_23917",
+        "prix": "6.75€",
+        "volume": "12.5cL",
+        "volume_price": "54.00€ / L"
+    },
+    {
+        "description": "Désodorisant concentré purifiant habitat Etamine du Lys 125ml",
+        "lien": "/magasin-bio/produit/desodorisant-concentre-purifiant-habitat-etamine-du-lys-125ml_121501",
+        "prix": "9.94€",
+        "volume_price": "79.52€ / Unité"
+    },
+    {
+        "description": "Piège à mites textile Aries",
+        "lien": "/magasin-bio/produit/piege-a-mites-textile-aries_11010",
+        "prix": "8.94€",
+        "volume_price": "8.94€ / Unité"
+    },
+    {
+        "description": "Protection anti-mites textiles Aries",
+        "lien": "/magasin-bio/produit/protection-anti-mites-textiles-aries_24142",
+        "prix": "7.45€",
+        "volume_price": "7.45€ / Unité"
+    },
+    {
+        "description": "Piège à mites alimentaires Aries Lot de 5",
+        "lien": "/magasin-bio/produit/piege-a-mites-alimentaires-aries-lot-de-5_24143",
+        "prix": "6.45€",
+        "volume_price": "6.45€ / Unité"
+    },
+    {
+        "description": "Piège à mites alimentaires X3 Aries",
+        "lien": "/magasin-bio/produit/piege-a-mites-alimentaires-x3-aries_11009",
+        "prix": "5.95€",
+        "volume_price": "5.95€ / Unité"
+    },
+    {
+        "description": "Recharges pièges à mites textiles X2 Aries",
+        "lien": "/magasin-bio/produit/recharges-pieges-a-mites-textiles-x2-aries_24144",
+        "prix": "7.45€",
+        "volume_price": "7.45€ / Unité"
+    },
+    {
+        "description": "Recharge pièges à mouches Etamine du Lys x3",
+        "lien": "/magasin-bio/produit/recharge-pieges-a-mouches-etamine-du-lys-x3_24879",
+        "prix": "13.45€",
+        "volume_price": "13.45€ / Unité"
+    },
+    {
+        "description": "Bicarbonate de soude Ecodoo 500G",
+        "lien": "/magasin-bio/produit/bicarbonate-de-soude-ecodoo-500g_20121",
+        "prix": "3.95€",
+        "volume": "500g",
+        "volume_price": "7.90€ / Kg"
+    },
+    {
+        "description": "Vinaigre d'alcool blanc Ecodoo 1L",
+        "lien": "/magasin-bio/produit/vinaigre-d-alcool-blanc-ecodoo-1l_20122",
+        "prix": "2.45€",
+        "volume": "1L",
+        "volume_price": "2.45€ / L"
+    },
+    {
+        "description": "Savon Noir Traditionnel Ecodoo 1L",
+        "lien": "/magasin-bio/produit/savon-noir-traditionnel-ecodoo-1l_13071",
+        "prix": "6.25€",
+        "volume": "1L",
+        "volume_price": "6.25€ / L"
+    },
+    {
+        "description": "Désinfectant vaporisateur L'Artisan Savonnier 500ml",
+        "lien": "/magasin-bio/produit/desinfectant-vaporisateur-l-artisan-savonnier-500ml_29481",
+        "prix": "6.15€",
+        "volume": "50cL",
+        "volume_price": "12.30€ / L"
+    },
+    {
+        "description": "Bicarbonate de sodium L'Artisan Savonnier 2kg",
+        "lien": "/magasin-bio/produit/bicarbonate-de-sodium-l-artisan-savonnier-2kg_39260",
+        "prix": "12.45€",
+        "volume": "2Kg",
+        "volume_price": "6.22€ / Kg"
+    },
+    {
+        "description": "Vinaigre eucalyptus 20% Ecodoo 1L",
+        "lien": "/magasin-bio/produit/vinaigre-eucalyptus-20-ecodoo-1l_79578",
+        "prix": "3.45€",
+        "volume": "1L",
+        "volume_price": "3.45€ / L"
+    },
+    {
+        "description": "Pierre d'argile Ecodoo 300g",
+        "lien": "/magasin-bio/produit/pierre-d-argile-ecodoo-300g_30394",
+        "prix": "9.44€",
+        "volume": "300g",
+        "volume_price": "31.47€ / Kg"
+    },
+    {
+        "description": "Savon noir en spray Ecodoo 750ml",
+        "lien": "/magasin-bio/produit/savon-noir-en-spray-ecodoo-750ml_79576",
+        "prix": "5.45€",
+        "volume": "75cL",
+        "volume_price": "7.27€ / L"
+    },
+    {
+        "description": "Soude en cristaux concentrée La Droguerie Ecopratique 500g",
+        "lien": "/magasin-bio/produit/soude-en-cristaux-concentree-la-droguerie-ecopratique-500g_20247",
+        "prix": "3.15€",
+        "volume": "500g",
+        "volume_price": "6.30€ / Kg"
+    },
+    {
+        "description": "Spray détartrant Safe 500ml",
+        "lien": "/magasin-bio/produit/spray-detartrant-safe-500ml_93205",
+        "prix": "4.95€",
+        "volume": "50cL",
+        "volume_price": "9.90€ / L"
+    },
+    {
+        "description": "Savon de Marseille écologique 400g Ecodoo",
+        "lien": "/magasin-bio/produit/savon-de-marseille-ecologique-400g-ecodoo_20126",
+        "prix": "7.45€",
+        "volume": "400g",
+        "volume_price": "18.63€ / Kg"
+    },
+    {
+        "description": "Bicarbonate de Soude La Droguerie Ecologique 1kg",
+        "lien": "/magasin-bio/produit/bicarbonate-de-soude-la-droguerie-ecologique-1kg_20581",
+        "prix": "3.95€",
+        "volume": "1Kg",
+        "volume_price": "3.95€ / Kg"
+    },
+    {
+        "description": "Citrus magic nettoyant et désinfectant multi-usages 50cL Ecodoo",
+        "lien": "/magasin-bio/produit/citrus-magic-nettoyant-et-desinfectant-multi-usages-50cl-ecodoo_10546",
+        "prix": "6.45€",
+        "volume": "50cL",
+        "volume_price": "12.90€ / L"
+    },
+    {
+        "description": "Recharge Citrus magic nettoyant et désinfectant multi-usages1L Ecodoo",
+        "lien": "/magasin-bio/produit/recharge-citrus-magic-nettoyant-et-desinfectant-multi-usages1l-ecodoo_10547",
+        "prix": "8.94€",
+        "volume": "1L",
+        "volume_price": "8.94€ / L"
+    },
+    {
+        "description": "Paillettes de savon de Marseille L'Artisan Savonnier 1kg",
+        "lien": "/magasin-bio/produit/paillettes-de-savon-de-marseille-l-artisan-savonnier-1kg_39265",
+        "prix": "20.14€",
+        "volume": "1Kg",
+        "volume_price": "20.14€ / Kg"
+    },
+    {
+        "description": "Vinaigre blanc Ecodoo 5L",
+        "lien": "/magasin-bio/produit/vinaigre-blanc-ecodoo-5l_34783",
+        "prix": "10.95€",
+        "volume": "5L",
+        "volume_price": "2.19€ / L"
+    },
+    {
+        "description": "BICARBONATE GRAINS FINS 1KG",
+        "lien": "/magasin-bio/produit/bicarbonate-grains-fins-1kg_116500",
+        "prix": "7.15€",
+        "volume": "1Kg",
+        "volume_price": "7.15€ / Kg"
+    },
+    {
+        "description": "Bicarbonate extra-fin 1kg",
+        "lien": "/magasin-bio/produit/bicarbonate-extra-fin-1kg_120476",
+        "prix": "7.95€",
+        "volume": "1Kg",
+        "volume_price": "7.95€ / Kg"
+    },
+    {
+        "description": "BICARBONATE DE SOUDE 1KG",
+        "lien": "/magasin-bio/produit/bicarbonate-de-soude-1kg_104962",
+        "prix": "3.75€",
+        "volume": "1Kg",
+        "volume_price": "3.75€ / Kg"
+    },
+    {
+        "description": "PERCARBONATE DE SOUDE 1KG",
+        "lien": "/magasin-bio/produit/percarbonate-de-soude-1kg_120068",
+        "prix": "6.45€",
+        "volume": "1Kg",
+        "volume_price": "6.45€ / Kg"
+    },
+    {
+        "description": "Nettoyant multi-usage dégraissant concentré Etamine du Lys 1l",
+        "lien": "/magasin-bio/produit/nettoyant-multi-usage-degraissant-concentre-etamine-du-lys-1l_21552",
+        "prix": "7.15€",
+        "volume": "1L",
+        "volume_price": "7.15€ / L"
+    },
+    {
+        "description": "Bicarbonate de soude alimentaire Le bio pour tous 500g",
+        "lien": "/magasin-bio/produit/bicarbonate-de-soude-alimentaire-le-bio-pour-tous-500g_120628",
+        "prix": "1.25€",
+        "volume": "500g",
+        "volume_price": "2.50€ / Kg"
+    },
+    {
+        "description": "Recharge spray multi-usage Pimpant 50g",
+        "lien": "/magasin-bio/produit/recharge-spray-multi-usage-pimpant-50g_116157",
+        "prix": "3.75€",
+        "volume": "1Kg",
+        "volume_price": "3.75€ / Kg"
+    },
+    {
+        "description": "Pièges à mites rechargeables Aries",
+        "lien": "/magasin-bio/produit/pieges-a-mites-rechargeables-aries_102066",
+        "prix": "9.94€",
+        "volume_price": "9.94€ / Unité"
+    },
+    {
+        "description": "Cire d'abeilles en pépites La Droguerie Ecologique 400g",
+        "lien": "/magasin-bio/produit/cire-d-abeilles-en-pepites-la-droguerie-ecologique-400g_20246",
+        "prix": "11.95€",
+        "volume": "400g",
+        "volume_price": "29.88€ / Kg"
+    },
+    {
+        "description": "Déboucheur canalisation Ecodoo 1L",
+        "lien": "/magasin-bio/produit/deboucheur-canalisation-ecodoo-1l_27481",
+        "prix": "7.45€",
+        "volume": "1L",
+        "volume_price": "7.45€ / L"
+    },
+    {
+        "description": "Chasse poussière vaporisateur 50cl Etamine du Lys",
+        "lien": "/magasin-bio/produit/chasse-poussiere-vaporisateur-50cl-etamine-du-lys_14890",
+        "prix": "6.95€",
+        "volume": "50cL",
+        "volume_price": "13.90€ / L"
+    },
+    {
+        "description": "Déboucheur canalisation 1L Etamine du Lys",
+        "lien": "/magasin-bio/produit/deboucheur-canalisation-1l-etamine-du-lys_13810",
+        "prix": "12.95€",
+        "volume": "1L",
+        "volume_price": "12.95€ / L"
+    },
+    {
+        "description": "Brillance salle de bain vaporisateur 50cL Etamine du Lys",
+        "lien": "/magasin-bio/produit/brillance-salle-de-bain-vaporisateur-50cl-etamine-du-lys_14886",
+        "prix": "6.65€",
+        "volume": "50cL",
+        "volume_price": "13.30€ / L"
+    },
+    {
+        "description": "Nettoyant vitrocéramique induction 25cL Etamine du Lys",
+        "lien": "/magasin-bio/produit/nettoyant-vitroceramique-induction-25cl-etamine-du-lys_16800",
+        "prix": "6.95€",
+        "volume": "25cL",
+        "volume_price": "27.80€ / L"
+    },
+    {
+        "description": "Brillance salle de bain recharge Etamine du Lys 1L",
+        "lien": "/magasin-bio/produit/brillance-salle-de-bain-recharge-etamine-du-lys-1l_14887",
+        "prix": "9.94€",
+        "volume": "1L",
+        "volume_price": "9.94€ / L"
+    },
+    {
+        "description": "Brillance cuisine Etamine du Lys 500ML",
+        "lien": "/magasin-bio/produit/brillance-cuisine-etamine-du-lys-500ml_14891",
+        "prix": "6.75€",
+        "volume": "50cL",
+        "volume_price": "13.50€ / L"
+    },
+    {
+        "description": "Crème à récurer 50cL Ecodoo",
+        "lien": "/magasin-bio/produit/creme-a-recurer-50cl-ecodoo_12604",
+        "prix": "3.95€",
+        "volume": "50cL",
+        "volume_price": "7.90€ / L"
+    },
+    {
+        "description": "Nettoyant pour insert 50cL Etamine du Lys",
+        "lien": "/magasin-bio/produit/nettoyant-pour-insert-50cl-etamine-du-lys_17951",
+        "prix": "7.45€",
+        "volume": "50cL",
+        "volume_price": "14.90€ / L"
+    },
+    {
+        "description": "Recharge à diluer salle de bain Etamine Du Lys 50ml",
+        "lien": "/magasin-bio/produit/recharge-a-diluer-salle-de-bain-etamine-du-lys-50ml_24283",
+        "prix": "4.75€",
+        "volume": "50mL",
+        "volume_price": "95.00€ / L"
+    },
+    {
+        "description": "Recharge à diluer cuisine Etamine Du Lys 50ml",
+        "lien": "/magasin-bio/produit/recharge-a-diluer-cuisine-etamine-du-lys-50ml_24282",
+        "prix": "4.45€",
+        "volume": "50mL",
+        "volume_price": "89.00€ / L"
+    },
+    {
+        "description": "Tablette anti calcaire Etamine Du Lys x20",
+        "lien": "/magasin-bio/produit/tablette-anti-calcaire-etamine-du-lys-x20_24488",
+        "prix": "8.44€",
+        "volume": "350g",
+        "volume_price": "24.11€ / Kg"
+    },
+    {
+        "description": "Eponges vertes et marrons grattantes X2 la Droguerie Ecologique",
+        "lien": "/magasin-bio/produit/eponges-vertes-et-marrons-grattantes-x2-la-droguerie-ecologique_20655",
+        "prix": "2.15€",
+        "volume_price": "2.15€ / Unité"
+    },
+    {
+        "description": "Sacs poubelles 50 litres X20 La Droguerie Ecologique",
+        "lien": "/magasin-bio/produit/sacs-poubelles-50-litres-x20-la-droguerie-ecologique_22859",
+        "prix": "3.75€",
+        "volume_price": "3.75€ / Unité"
+    },
+    {
+        "description": "Sacs en coton BIO Ah Table x5 taille L",
+        "lien": "/magasin-bio/produit/sacs-en-coton-bio-ah-table-x5-taille-l_28467",
+        "prix": "4.95€",
+        "volume_price": "4.95€ / Unité"
+    },
+    {
+        "description": "Sacs en coton BIO Ah Table x5 taille S",
+        "lien": "/magasin-bio/produit/sacs-en-coton-bio-ah-table-x5-taille-s_28468",
+        "prix": "4.75€",
+        "volume_price": "4.75€ / Unité"
+    },
+    {
+        "description": "Sacs de congélation éco Ah Table 25x30cm x30",
+        "lien": "/magasin-bio/produit/sacs-de-congelation-eco-ah-table-25x30cm-x30_24121",
+        "prix": "2.75€",
+        "volume_price": "2.75€ / Unité"
+    },
+    {
+        "description": "Eponge microfibre Capt'Hygiène",
+        "lien": "/magasin-bio/produit/eponge-microfibre-capt-hygiene_21569",
+        "prix": "4.75€",
+        "volume_price": "4.75€ / Unité"
+    },
+    {
+        "description": "EPONGE VEGETALE GRATTANTE SURFACE DELICATE",
+        "lien": "/magasin-bio/produit/eponge-vegetale-grattante-surface-delicate_120627",
+        "prix": "1.95€",
+        "volume_price": "1.95€ / Unité"
+    },
+    {
+        "description": "EPONGE VEGETALE GRATTANTE SURFACE RESISTANTE",
+        "lien": "/magasin-bio/produit/eponge-vegetale-grattante-surface-resistante_118651",
+        "prix": "1.95€",
+        "volume_price": "1.95€ / Unité"
+    },
+    {
+        "description": "SACS POUBELLE RECYCLES 30L X20",
+        "lien": "/magasin-bio/produit/sacs-poubelle-recycles-30l-x20_120630",
+        "prix": "2.35€",
+        "volume_price": "2.35€ / Unité"
+    },
+    {
+        "description": "SACS POUBELLE RECYCLES 50L X20",
+        "lien": "/magasin-bio/produit/sacs-poubelle-recycles-50l-x20_120633",
+        "prix": "3.75€",
+        "volume_price": "3.75€ / Unité"
+    },
+    {
+        "description": "Eponges vertes grattantes X2 La Droguerie Ecologique",
+        "lien": "/magasin-bio/produit/eponges-vertes-grattantes-x2-la-droguerie-ecologique_20653",
+        "prix": "2.15€",
+        "volume_price": "2.15€ / Unité"
+    },
+    {
+        "description": "Cartouche rechargeable ronde filtre pichet Hydropure",
+        "lien": "/magasin-bio/produit/cartouche-rechargeable-ronde-filtre-pichet-hydropure_74986",
+        "prix": "2.29€",
+        "volume_price": "2.29€ / pièce"
+    },
+    {
+        "description": "CHARBON VEGETAL DE BOIS EN BATON 100% FRANCAIS (X1) CHARBON ACTIF FRANCAIS",
+        "lien": "/magasin-bio/produit/charbon-vegetal-de-bois-en-baton-100-francais-x1-charbon-actif-francais_114799",
+        "prix": "8.94€",
+        "volume_price": "8.94€ / Unité"
+    },
+    {
+        "description": "Sac vrac fermeture gripe Fillgood",
+        "lien": "/magasin-bio/produit/sac-vrac-fermeture-gripe-fillgood_102801",
+        "prix": "5.45€",
+        "volume_price": "5.45€ / pièce"
+    },
+    {
+        "description": "Sac vrac petit bouchon Fillgood",
+        "lien": "/magasin-bio/produit/sac-vrac-petit-bouchon-fillgood_102799",
+        "prix": "5.95€",
+        "volume_price": "5.95€ / pièce"
+    },
+    {
+        "description": "Mix Charbon Bois et Briquette",
+        "lien": "/magasin-bio/produit/mix-charbon-bois-et-briquette_95652",
+        "prix": "9.94€",
+        "volume": "4Kg",
+        "volume_price": "2.48€ / Kg"
+    },
+    {
+        "description": "Bocal couvercle en bois Ah Table 0,8L",
+        "lien": "/magasin-bio/produit/bocal-couvercle-en-bois-ah-table-0-8l_60634",
+        "prix": "9.15€",
+        "volume_price": "9.15€ / Unité"
+    },
+    {
+        "description": "Moulin à épices Cook",
+        "lien": "/magasin-bio/produit/moulin-a-epices-cook_18085",
+        "prix": "19.95€",
+        "volume_price": "19.95€ / pièce"
+    },
+    {
+        "description": "Bocal couvercle en bois Ah Table 0,5L",
+        "lien": "/magasin-bio/produit/bocal-couvercle-en-bois-ah-table-0-5l_60633",
+        "prix": "8.44€",
+        "volume_price": "8.44€ / Unité"
+    },
+    {
+        "description": "Brosse à casseroles La Droguerie Écologique",
+        "lien": "/magasin-bio/produit/brosse-a-casseroles-la-droguerie-ecologique_14455",
+        "prix": "3.15€",
+        "volume_price": "3.15€ / Unité"
+    },
+    {
+        "description": "Brosse vaisselle La Droguerie Écologique",
+        "lien": "/magasin-bio/produit/brosse-vaisselle-la-droguerie-ecologique_14452",
+        "prix": "2.75€",
+        "volume_price": "2.75€ / Unité"
+    },
+    {
+        "description": "Recharge brosse vaisselle La Droguerie Écologique",
+        "lien": "/magasin-bio/produit/recharge-brosse-vaisselle-la-droguerie-ecologique_14453",
+        "prix": "1.95€",
+        "volume_price": "1.95€ / Unité"
+    },
+    {
+        "description": "Tire bouchon droit buis Ecodis",
+        "lien": "/magasin-bio/produit/tire-bouchon-droit-buis-ecodis_77509",
+        "prix": "7.82€",
+        "volume_price": "7.82€ / pièce"
+    },
+    {
+        "description": "VERRE DOSEUR MULTI RECETTE",
+        "lien": "/magasin-bio/produit/verre-doseur-multi-recette_116489",
+        "prix": "19.95€",
+        "volume_price": "19.95€ / Unité"
+    },
+    {
+        "description": "TETE BROSSE VAISSELLE (",
+        "lien": "/magasin-bio/produit/tete-brosse-vaisselle-_120629",
+        "prix": "2.95€",
+        "volume_price": "2.95€ / Unité"
+    },
+    {
+        "description": "Papier cuisson Ma Maison Eco 15m",
+        "lien": "/magasin-bio/produit/papier-cuisson-ma-maison-eco-15m_121370",
+        "prix": "5.25€",
+        "volume_price": "5.25€ / Unité"
+    },
+    {
+        "description": "Film alimentaire Ma Maison Eco 15m",
+        "lien": "/magasin-bio/produit/film-alimentaire-ma-maison-eco-15m_121371",
+        "prix": "5.25€",
+        "volume_price": "5.25€ / Unité"
+    },
+    {
+        "description": "Papier aluminium Ma Maison Eco 20m",
+        "lien": "/magasin-bio/produit/papier-aluminium-ma-maison-eco-20m_121390",
+        "prix": "5.25€",
+        "volume_price": "21.00€ / Unité"
+    }
+]
