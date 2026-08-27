@@ -34,8 +34,10 @@ def parse_products_from_html(html_content):
     for card in cards:
         product_data = {
             'ref_id': '',
+            'ean':'',
             'description': '',
-            'ean': '',
+            'marque':'',
+            'tags': '',
             'prix': '',
             'ancien_prix': '',
             'volume_price': '',
@@ -47,7 +49,7 @@ def parse_products_from_html(html_content):
         if title_div:
             link_tag = title_div.find('a')
             if link_tag:
-                lien = link_tag.get('href', '')
+                lien = f"https://eau-vive.com{link_tag.get('href', '')}"
                 product_data['description'] = link_tag.text.strip()
                 product_data['lien'] = lien
                 
@@ -55,7 +57,17 @@ def parse_products_from_html(html_content):
                     last_part = lien.split('_')[-1]
                     digits = ''.join(filter(str.isdigit, last_part))
                     product_data['ref_id'] = digits
-                
+        # Informations produits
+        tags=[]
+        product_tag = card.find('div', class_='product-card-tags')
+        if product_tag:
+            # Trouver tous les spans de tags
+            tags = [tag.get_text(strip=True) for tag in product_tag.find_all('span', class_='product-regime-tag')]
+            # Nettoyer les tags vides
+            tags = [tag for tag in tags if tag]
+
+        product_data['tags'] = tags
+
         # Prix, ancien prix et volumes
         prices_container = card.find('div', class_='product-prices')
         if prices_container:
