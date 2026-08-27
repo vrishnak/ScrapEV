@@ -13,7 +13,7 @@ def exporter_differences_csv():
 
     # Connexion aux bases de données
     conn1 = sqlite3.connect('EauVive_prix.db')
-    conn2 = sqlite3.connect('EV_Tmpe.db')
+    conn2 = sqlite3.connect('EV_Tmp.db')
 
     try:
         # Lecture des tables
