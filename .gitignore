@@ -8,7 +8,7 @@ __pycache__/
 env/
 
 # Données générées
-DATA/
+DATA_EV/
 OLD/
 
 archive/
@@ -24,3 +24,5 @@ EauVive_prix.db
 
 
 .idea/ 
+*.xlsx
+
