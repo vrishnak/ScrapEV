@@ -3,11 +3,16 @@ import pandas as pd
 import os
 import re
 
-def export_db_table_to_excel(db_name="EauVive_prix.db", output_name="EauVive_Produits_Releves.xlsx"):
+def export_db_table_to_excel(db_name="EauVive_prix.db", output_name="DATA_EV/EauVive_Produits_Releves.xlsx"):
     """
     Exporte le contenu de la table PRODUITS jointe avec RELEVES_PRIX et MAGASINS vers un fichier Excel.
     Crée un onglet global et un onglet par magasin (avec le nom du magasin et le dernier prix relevé).
     """
+    # Créer le répertoire de destination s'il n'existe pas
+    output_dir = os.path.dirname(output_name)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+
     if not os.path.exists(db_name):
         print(f"Erreur : Le fichier de base de données '{db_name}' est introuvable.")
         return

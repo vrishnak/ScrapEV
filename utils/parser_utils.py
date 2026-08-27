@@ -32,15 +32,29 @@ def parse_products_from_html(html_content):
     cards = soup.find_all('div', class_='product-card')
     
     for card in cards:
-        product_data = {}
+        product_data = {
+            'ref_id': '',
+            'description': '',
+            'ean': '',
+            'prix': '',
+            'ancien_prix': '',
+            'volume_price': '',
+            'lien': ''
+        }
         
         # Titre et lien
         title_div = card.find('div', class_='product-title')
         if title_div:
             link_tag = title_div.find('a')
             if link_tag:
+                lien = link_tag.get('href', '')
                 product_data['description'] = link_tag.text.strip()
-                product_data['lien'] = link_tag.get('href', '')
+                product_data['lien'] = lien
+                
+                if '_' in lien:
+                    last_part = lien.split('_')[-1]
+                    digits = ''.join(filter(str.isdigit, last_part))
+                    product_data['ref_id'] = digits
                 
         # Prix, ancien prix et volumes
         prices_container = card.find('div', class_='product-prices')
@@ -54,7 +68,7 @@ def parse_products_from_html(html_content):
             if not_price_span:
                 product_data['ancien_prix'] = not_price_span.text.strip()
                 
-            # Extraction du volume et du volume_price qui ont tous deux la classe 'product-price-type'
+            # Extraction du volume_price
             type_spans = prices_container.find_all('span', class_='product-price-type')
             
             for span in type_spans:
@@ -62,6 +76,7 @@ def parse_products_from_html(html_content):
                 if "/" in text:
                     product_data['volume_price'] = text
                 else:
+                    # On garde aussi volume si jamais il est utile
                     product_data['volume'] = text
                 
         products.append(product_data)
