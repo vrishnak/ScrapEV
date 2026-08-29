@@ -16,9 +16,6 @@ archive/
 # OS
 .DS_Store
 Thumbs.db
-biocoop_prix.db
-biocoop_prix.db-journal
-BIOCOOP_Liste/Biocoop_Liste.json
 
 EauVive_prix.db
 
