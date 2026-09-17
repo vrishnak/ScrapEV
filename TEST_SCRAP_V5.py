@@ -78,7 +78,13 @@ class TestScrapV5:
         if not self.all_products:
             print("❌ Aucune donnée à sauvegarder")
             return False
-            
+        
+        # Créer les répertoires séparés pour JSON et XLSX
+        json_dir = os.path.join("DATA_EV", "JSON")
+        xlsx_dir = os.path.join("DATA_EV", "XLSX")
+        os.makedirs(json_dir, exist_ok=True)
+        os.makedirs(xlsx_dir, exist_ok=True)
+        
         date_str = datetime.now().strftime("%y%m%d")
         output_dir = "DATA_EV"
         os.makedirs(output_dir, exist_ok=True)
@@ -88,13 +94,13 @@ class TestScrapV5:
         base_name = f"V5_{magasin_clean}_{date_str}_{famille_clean}"
         
         # Save JSON
-        json_path = os.path.join(output_dir, f"{base_name}.json")
+        json_path = os.path.join(json_dir, f"{base_name}.json")
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(self.all_products, f, ensure_ascii=False, indent=4)
         print(f"✅ Fichier JSON sauvegardé : {json_path}")
         
         # Save Excel
-        excel_path = os.path.join(output_dir, f"{base_name}.xlsx")
+        excel_path = os.path.join(xlsx_dir, f"{base_name}.xlsx")
         df = pd.DataFrame(self.all_products)
         df.to_excel(excel_path, index=False)
         print(f"✅ Fichier Excel sauvegardé : {excel_path}")

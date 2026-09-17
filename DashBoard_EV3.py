@@ -10,6 +10,15 @@ import streamlit.components.v1 as components
 
 # Import du module de recherche
 import sys
+import re
+
+def nettoyer_ean(valeur: str) -> str:
+    """Nettoie un EAN collé : retire espaces, tirets, points, caractères invisibles."""
+    if valeur is None:
+        return ""
+    # Garde uniquement les chiffres
+    return re.sub(r"\D", "", str(valeur))
+
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from utils.recherche_EV import (
@@ -19,7 +28,9 @@ from utils.recherche_EV import (
     obtenir_info_produit,
     obtenir_historique_prix,
     obtenir_id_depuis_affichage,
-    get_recherche_stats
+    get_recherche_stats,
+    enregistrer_ean,   # <-- AJOUT : fonction d'écriture
+    DEBUG_EAN          # <-- AJOUT : flag global
 )
 
 # Configuration de la page
@@ -44,6 +55,18 @@ st.markdown("""
     }
     .stCheckbox {
         margin: 5px 0;
+    }
+    /* Style des boutons radio de mode comme des "cartes" */
+    div[role="radiogroup"] > label {
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 6px;
+        padding: 6px 12px;
+        margin-right: 6px;
+        cursor: pointer;
+    }
+    div[role="radiogroup"] > label:hover {
+        background-color: #e9ecef;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -70,6 +93,21 @@ st.markdown("Visualisation et comparaison de l'évolution des prix.")
 
 # --- BARRE LATERALE : RECHERCHE ---
 with st.sidebar:
+    # --- BADGE MODE DEBUG EAN ---
+    if DEBUG_EAN:
+        st.markdown(
+            '<div class="debug-badge debug-badge-on">'
+            '✏️ Mode debug EAN : <strong>activé</strong>'
+            '</div>',
+            unsafe_allow_html=True
+        )
+    else:
+        st.markdown(
+            '<div class="debug-badge debug-badge-off">'
+            '🔒 Mode debug EAN : <strong>désactivé</strong>'
+            '</div>',
+            unsafe_allow_html=True
+        )
     st.header("🔍 Recherche de Produit")
     search_mode = st.radio("Mode de recherche", ["Nom (Mots-clés)", "Code EAN", "Code Interne"])
     st.divider()
@@ -80,42 +118,20 @@ with st.sidebar:
 
     if search_mode == "Nom (Mots-clés)":
         # --- OPTIONS DE RECHERCHE PAR MOTS-CLÉS ---
-        st.subheader("⚙️ Options de recherche")
+        # ✅ SOLUTION : st.radio horizontal => un seul mode actif, exclusion automatique.
+        st.subheader("⚙️ Mode de recherche")
 
-        # Cases à cocher pour sélectionner le mode
-        col_mode1, col_mode2 = st.columns(2)
-        with col_mode1:
-            mode_stricte = st.checkbox(
-                "🔒 Mode strict",
-                value=False,
-                help="Recherche exacte de la sous-chaîne (ordre et mots exacts)"
-            )
-        with col_mode2:
-            mode_souple = st.checkbox(
-                "🔓 Mode souple",
-                value=True,
-                help="Recherche flexible (ordre indifférent, mots partiels)"
-            )
+        mode_recherche_mots = st.radio(
+            "Choisissez le mode :",
+            options=["souple", "stricte"],
+            format_func=lambda x: "🔓 Mode souple" if x == "souple" else "🔒 Mode strict",
+            index=0,                # souple par défaut
+            horizontal=True,
+            key="mode_recherche_mots_radio",
+            label_visibility="collapsed"
+        )
 
-        # Gestion des cases à cocher mutuellement exclusives
-        if mode_stricte and mode_souple:
-            # Si les deux sont cochés, on garde le dernier coché (géré par Streamlit)
-            # On affiche un message
-            st.info("ℹ️ Les deux modes sont sélectionnés. Le mode souple sera utilisé.")
-            mode_recherche_mots = "souple"
-        elif mode_stricte:
-            mode_recherche_mots = "stricte"
-        elif mode_souple:
-            mode_recherche_mots = "souple"
-        else:
-            # Si aucun n'est coché, on active le mode souple par défaut
-            st.warning("⚠️ Aucun mode sélectionné. Passage en mode souple par défaut.")
-            mode_recherche_mots = "souple"
-            # Corriger l'état des cases
-            st.session_state['mode_stricte'] = False
-            st.session_state['mode_souple'] = True
-
-        # Afficher le mode actif
+        # Affichage pédagogique
         if mode_recherche_mots == "stricte":
             st.markdown("""
             <div class="search-mode-info">
@@ -145,10 +161,8 @@ with st.sidebar:
             df_search, _, display_list = gerer_recherche_nom(conn, search_query, mode_recherche_mots)
 
             if not df_search.empty:
-                # Afficher le nombre de résultats
                 st.caption(f"🔍 {len(df_search)} résultat(s) trouvé(s)")
 
-                # Si mode souple, afficher le score
                 if mode_recherche_mots == "souple" and 'score' in df_search.columns:
                     st.caption(f"🎯 Score moyen: {df_search['score'].mean():.1%}")
 
@@ -160,8 +174,6 @@ with st.sidebar:
                     selected_product_id = obtenir_id_depuis_affichage(df_search, selected_display)
             else:
                 st.warning("Aucun produit trouvé.")
-
-                # Proposer des suggestions si la recherche échoue en mode strict
                 if mode_recherche_mots == "stricte" and len(search_query) > 3:
                     st.info("💡 Essayez le mode 'souple' pour une recherche plus flexible.")
 
@@ -190,7 +202,7 @@ with st.sidebar:
             else:
                 st.warning("Code interne introuvable.")
 
-    # --- STATISTIQUES DE LA BASE (optionnel) ---
+    # --- STATISTIQUES DE LA BASE ---
     with st.sidebar.expander("📊 Statistiques de la base"):
         stats = get_recherche_stats(conn)
         st.metric("Total produits", stats['total_produits'])
@@ -219,6 +231,59 @@ if selected_product_id:
 
         st.divider()
 
+        # --- FORMULAIRE D'ENREGISTREMENT EAN (uniquement si DEBUG_EAN == True) ---
+        if DEBUG_EAN:
+            with st.expander("✏️ Enregistrer / Modifier l'EAN de ce produit", expanded=False):
+                ean_actuel = str(prod_info['ean']) if pd.notna(prod_info['ean']) else ""
+
+                st.caption(
+                    "💡 Astuce : vous pouvez **coller** un EAN directement avec **CTRL+V** "
+                    "(les espaces, tirets et retours à la ligne sont nettoyés automatiquement)."
+                )
+
+                with st.form(key=f"form_ean_{selected_product_id}"):
+                    # ⚠️ On retire max_chars pour ne pas tronquer un collage "sale"
+                    #     La validation se fait après nettoyage.
+                    ean_saisi = st.text_input(
+                        "EAN (8, 12 ou 13 chiffres) — collez avec CTRL+V",
+                        value=ean_actuel,
+                        placeholder="Collez ou tapez l'EAN ici…",
+                        help="Le collage est autorisé. Espaces et tirets seront retirés automatiquement.",
+                        autocomplete="off",
+                        key=f"input_ean_{selected_product_id}"
+                    )
+
+                    # Aperçu live du nettoyage (utile pour voir ce qui sera enregistré)
+                    ean_clean_preview = nettoyer_ean(ean_saisi)
+                    if ean_saisi and ean_clean_preview != ean_saisi:
+                        st.info(f"🧹 Nettoyé : `{ean_clean_preview}`")
+
+                    col_save, _ = st.columns([1, 3])
+                    with col_save:
+                        submit = st.form_submit_button("💾 Enregistrer", use_container_width=True)
+
+                if submit:
+                    ean_clean = nettoyer_ean(ean_saisi)
+
+                    # Validation après nettoyage
+                    if ean_clean and len(ean_clean) not in (8, 12, 13):
+                        st.error(
+                            f"⚠️ EAN invalide après nettoyage : `{ean_clean}` "
+                            f"({len(ean_clean)} chiffres). Attendu : 8, 12 ou 13 chiffres."
+                        )
+                    else:
+                        ok, msg = enregistrer_ean(
+                            conn,
+                            selected_product_id,
+                            ean_clean if ean_clean else None
+                        )
+                        if ok:
+                            st.success(msg)
+                            st.cache_resource.clear()
+                            st.cache_data.clear()
+                            st.rerun()
+                        else:
+                            st.error(msg)
         # --- BOUTON RECHERCHE EAN & FICHE PRODUIT ---
         query = urllib.parse.quote(f"{prod_info['description']} AND (ean OR gtin)")
         google_url = f"https://www.google.com/search?q={query}"
@@ -239,7 +304,6 @@ if selected_product_id:
         df_prix = obtenir_historique_prix(conn, selected_product_id)
 
         if not df_prix.empty:
-            # Conversion des prix en float pour les graphiques (en remplaçant virgules si besoin)
             df_prix['prix_num'] = pd.to_numeric(
                 df_prix['prix'].astype(str).str.replace(',', '.', regex=False),
                 errors='coerce'
@@ -259,7 +323,6 @@ if selected_product_id:
             tab1, tab2 = st.tabs(["📈 Évolution dans le temps", "⚖️ Comparaison des magasins"])
 
             with tab1:
-                # Graphique 1 : Evolution
                 fig_line = px.line(
                     df_prix,
                     x="date_releve",
@@ -274,8 +337,6 @@ if selected_product_id:
                 st.plotly_chart(fig_line, use_container_width=True)
 
             with tab2:
-                # Graphique 2 : Comparatif du dernier prix connu par magasin
-                # Trier par date, puis garder la dernière ligne par magasin
                 df_latest = df_prix.sort_values('date_releve').drop_duplicates('magasin', keep='last')
                 df_latest = df_latest.sort_values('prix_num')
 
@@ -308,7 +369,6 @@ if selected_product_id:
             st.info("Aucun relevé de prix n'a encore été enregistré pour ce produit dans la base de données.")
 
 else:
-    # Message d'accueil
     st.markdown("""
         <div style="text-align: center; padding: 50px;">
             <h2 style="color: #6c757d;">Bienvenue sur votre Dashboard</h2>

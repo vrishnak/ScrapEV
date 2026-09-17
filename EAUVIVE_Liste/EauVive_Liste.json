@@ -8,7 +8,8 @@
    "livraison_domicile": 0,
    "retrait_magasin": 1,
    "lien": "",
-   "SDV": 0
+   "SDV": 0,
+   "Type": 1
  },
  {
    "id": 2,
@@ -19,7 +20,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-annecy",
-   "SDV": null
+   "SDV": 250,
+   "SDVCSV": 250,
+   "NBCaisses": 3,
+   "NBEmployés": 4,
+   "Type": 1
  },
  {
    "id": 3,
@@ -30,7 +35,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-annemasse",
-   "SDV": null
+   "SDV": 220,
+   "SDVCSV": 220,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 1
  },
  {
    "id": 4,
@@ -41,7 +50,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-aubiere",
-   "SDV": null
+   "SDV": 700,
+   "SDVCSV": 700,
+   "NBCaisses": 3,
+   "NBEmployés": 6,
+   "Type": 3
  },
  {
    "id": 5,
@@ -52,7 +65,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-belfort-andelnans",
-   "SDV": 530
+   "SDV": 520,
+   "SDVCSV": 520,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 2
  },
  {
    "id": 6,
@@ -63,7 +80,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-besancon",
-   "SDV": 400
+   "SDV": 450,
+   "SDVCSV": 450,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 2
  },
  {
    "id": 7,
@@ -74,7 +95,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-bidart",
-   "SDV": null
+   "SDV": 500,
+   "SDVCSV": 500,
+   "NBCaisses": 2,
+   "NBEmployés": 9,
+   "Type": 2
  },
  {
    "id": 8,
@@ -85,7 +110,8 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-biguglia",
-   "SDV": 450
+   "SDV": 450,
+   "Type": 2
  },
  {
    "id": 9,
@@ -96,7 +122,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-bizanos",
-   "SDV": null
+   "SDV": 422,
+   "SDVCSV": 422,
+   "NBCaisses": 2,
+   "NBEmployés": 4,
+   "Type": 2
  },
  {
    "id": 10,
@@ -107,7 +137,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-bonneuil-sur-marne",
-   "SDV": 580
+   "SDV": 580,
+   "SDVCSV": 580,
+   "NBCaisses": 3,
+   "NBEmployés": 8,
+   "Type": 3
  },
  {
    "id": 11,
@@ -118,7 +152,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-bourgoin-jallieu",
-   "SDV": 480
+   "SDV": 500,
+   "SDVCSV": 500,
+   "NBCaisses": 3,
+   "NBEmployés": 6,
+   "Type": 2
  },
  {
    "id": 12,
@@ -129,7 +167,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-brie-et-angonnes",
-   "SDV": 350
+   "SDV": 200,
+   "SDVCSV": 200,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 1
  },
  {
    "id": 13,
@@ -140,7 +182,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-chasseneuil-du-poitou",
-   "SDV": null
+   "SDV": 280,
+   "SDVCSV": 280,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 1
  },
  {
    "id": 14,
@@ -151,7 +197,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-clermont-ferrand",
-   "SDV": 400
+   "SDV": 450,
+   "SDVCSV": 450,
+   "NBCaisses": 2,
+   "NBEmployés": 7,
+   "Type": 2
  },
  {
    "id": 15,
@@ -162,7 +212,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-grenoble-irvoy",
-   "SDV": null
+   "SDV": 200,
+   "SDVCSV": 200,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 1
  },
  {
    "id": 16,
@@ -173,7 +227,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-grenoble-lafontaine",
-   "SDV": null
+   "SDV": 270,
+   "SDVCSV": 270,
+   "NBCaisses": 3,
+   "NBEmployés": 6,
+   "Type": 1
  },
  {
    "id": 17,
@@ -184,7 +242,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-lyon-3-felix-faure",
-   "SDV": 300
+   "SDV": 300,
+   "SDVCSV": 300,
+   "NBCaisses": 3,
+   "NBEmployés": 6,
+   "Type": 2
  },
  {
    "id": 18,
@@ -195,7 +257,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-lyon-4-croix-rousse",
-   "SDV": null
+   "SDV": 100,
+   "SDVCSV": 100,
+   "NBCaisses": 2,
+   "NBEmployés": 9,
+   "Type": 1
  },
  {
    "id": 19,
@@ -206,7 +272,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-lyon-6-franklin-roosevelt",
-   "SDV": 200
+   "SDV": 200,
+   "SDVCSV": 200,
+   "NBCaisses": 2,
+   "NBEmployés": 7,
+   "Type": 1
  },
  {
    "id": 20,
@@ -217,7 +287,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-meylan",
-   "SDV": 300
+   "SDV": 300,
+   "SDVCSV": 300,
+   "NBCaisses": 3,
+   "NBEmployés": 10,
+   "Type": 2
  },
  {
    "id": 21,
@@ -228,7 +302,12 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-pontarlier",
-   "SDV": null
+   "SDV": 575,
+   "SDVCSV": 575,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 3,
+   "Type": 3
  },
  {
    "id": 22,
@@ -239,7 +318,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-quetigny",
-   "SDV": null
+   "SDV": 650,
+   "SDVCSV": 650,
+   "NBCaisses": 2,
+   "NBEmployés": 8,
+   "Type": 3
  },
  {
    "id": 23,
@@ -250,7 +333,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-rouffiac",
-   "SDV": null
+   "SDV": 300,
+   "SDVCSV": 300,
+   "NBCaisses": 2,
+   "NBEmployés": 4,
+   "Type": 2
  },
  {
    "id": 24,
@@ -261,7 +348,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-saint-alban-leysse",
-   "SDV": 450
+   "SDV": 450,
+   "SDVCSV": 450,
+   "NBCaisses": 3,
+   "NBEmployés": 5,
+   "Type": 2
  },
  {
    "id": 25,
@@ -272,7 +363,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-saint-egreve",
-   "SDV": null
+   "SDV": 155,
+   "SDVCSV": 155,
+   "NBCaisses": 2,
+   "NBEmployés": 4,
+   "Type": 1
  },
  {
    "id": 26,
@@ -283,7 +378,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-sillingy",
-   "SDV": 530
+   "SDV": 530,
+   "SDVCSV": 530,
+   "NBCaisses": 3,
+   "NBEmployés": 6,
+   "Type": 2
  },
  {
    "id": 27,
@@ -294,7 +393,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-terville",
-   "SDV": null
+   "SDV": 300,
+   "SDVCSV": 300,
+   "NBCaisses": 2,
+   "NBEmployés": 6,
+   "Type": 2
  },
  {
    "id": 28,
@@ -305,7 +408,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-vandoeuvre-les-nancy",
-   "SDV": null
+   "SDV": 460,
+   "SDVCSV": 460,
+   "NBCaisses": 2,
+   "NBEmployés": 4,
+   "Type": 2
  },
  {
    "id": 29,
@@ -316,7 +423,11 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-villeurbanne",
-   "SDV": null
+   "SDV": 170,
+   "SDVCSV": 170,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 1
  },
  {
    "id": 30,
@@ -327,6 +438,10 @@
    "livraison_domicile": null,
    "retrait_magasin": 1,
    "lien": "https://www.eau-vive.com/magasin/magasin-bio-voiron",
-   "SDV": null
+   "SDV": 450,
+   "SDVCSV": 450,
+   "NBCaisses": 2,
+   "NBEmployés": 5,
+   "Type": 2
  }
 ]
