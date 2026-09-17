@@ -11,7 +11,7 @@ env/
 DATA_EV/
 OLD/
 
-archive/
+archives/
 
 # OS
 .DS_Store
@@ -22,6 +22,6 @@ EauVive_prix.db
 
 .idea/ 
 *.xlsx
-DATA_EV/
+
 
 
