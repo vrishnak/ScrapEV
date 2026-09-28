@@ -13,7 +13,21 @@ from utils.rapport_orphelins import (
     detecter_references_absentes,
     generer_rapport_orphelins,
 )
+import unicodedata
 
+
+# =====================================================================
+#  FONCTION DE NETTOYAGE
+# =====================================================================
+def nettoyer_nom_fichier(nom):
+    """Nettoie un nom (retire accents et remplace espaces par _) pour la comparaison"""
+    if not isinstance(nom, str):
+        return str(nom)
+    nom = unicodedata.normalize("NFD", nom)
+    nom = "".join(c for c in nom if unicodedata.category(c) != "Mn")
+    nom = nom.replace(" ", "_")
+    nom = re.sub(r'[<>:"/\\|?*]', "_", nom)
+    return nom
 
 # =====================================================================
 #  COUCHE BASE DE DONNÉES
@@ -133,7 +147,17 @@ class GestionnaireDB:
             (nom, nom)
         )
         result = cursor.fetchone()
-        return result[0] if result else None
+        if result:
+            return result[0]
+            
+        # Si non trouvé, on nettoie tous les noms de la BDD et on compare
+        cursor.execute("SELECT id, nom, nomcsv FROM MAGASINS")
+        for row in cursor.fetchall():
+            mag_id, mag_nom, mag_nomcsv = row
+            if nettoyer_nom_fichier(mag_nom) == nom or (mag_nomcsv and nettoyer_nom_fichier(mag_nomcsv) == nom):
+                return mag_id
+                
+        return None
 
     def get_categorie_id(self, nom):
         """Récupère l'ID d'une catégorie par son nom"""

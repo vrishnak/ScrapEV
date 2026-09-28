@@ -1,0 +1,106 @@
+PROCÉDURE DE CORRECTION DE LA BASE DE DONNÉES ET DES PROGRAMMES
+================================================================
+
+1. ANALYSE DU PROBLÈME
+----------------------
+Les redondances (5 et 38, 12 et 39) proviennent de la façon dont les noms de fichiers sont générés par le scraper (`TEST_SCRAP_V5.py`) et lus par le gestionnaire de base de données (`BDC_EauVive_V3.py`). 
+Le scraper utilise une fonction `nettoyer_nom_fichier()` qui retire les accents et remplace les espaces par des underscores (ex: "Belfort - Andelnans" devient "Belfort_-_Andelnans", et "Brié-et-Angonnes" devient "Brie-et-Angonnes"). 
+Lors de l'import, `BDC_EauVive_V3.py` lit le nom nettoyé dans le nom du fichier et essaie de le trouver dans la base (champs `nom` ou `nomcsv`). Comme il ne trouve pas de correspondance exacte (à cause des tirets bas et des accents manquants), il crée de nouvelles entrées en doublon (IDs 38 et 39).
+
+2. SCRIPT PYTHON POUR CORRIGER LA BASE DE DONNÉES
+-------------------------------------------------
+Créez un fichier `corriger_bdd.py` avec le code suivant pour fusionner les enregistrements :
+
+```python
+import sqlite3
+
+def corriger_base(db_path="EauVive_prix.db"):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    
+    # Dictionnaire des fusions: id_doublon -> id_a_conserver
+    fusions = {
+        38: 5,   # Belfort_-_Andelnans -> Belfort - Andelnans
+        39: 12   # Brie-et-Angonnes -> Brié-et-Angonnes
+    }
+    
+    for id_doublon, id_conserve in fusions.items():
+        print(f"Fusion de l'ID {id_doublon} vers l'ID {id_conserve}...")
+        
+        # 1. Mettre à jour les relevés de prix
+        # On utilise UPDATE OR IGNORE pour éviter les conflits d'unicité 
+        # (si le même produit a été relevé le même jour pour les deux IDs)
+        cursor.execute('''
+            UPDATE OR IGNORE RELEVES_PRIX 
+            SET magasin_id = ? 
+            WHERE magasin_id = ?
+        ''', (id_conserve, id_doublon))
+        
+        # S'il y a des doublons qui n'ont pas pu être mis à jour (conflit d'unicité), 
+        # on les supprime pour nettoyer
+        cursor.execute('DELETE FROM RELEVES_PRIX WHERE magasin_id = ?', (id_doublon,))
+        
+        # 2. Mettre à jour le champ nomcsv du magasin conservé 
+        # pour correspondre exactement au nom généré par le scraper
+        cursor.execute('SELECT nom FROM MAGASINS WHERE id = ?', (id_doublon,))
+        res = cursor.fetchone()
+        if res:
+            nom_nettoye = res[0]
+            cursor.execute('UPDATE MAGASINS SET nomcsv = ? WHERE id = ?', (nom_nettoye, id_conserve))
+        
+        # 3. Supprimer le magasin doublon
+        cursor.execute('DELETE FROM MAGASINS WHERE id = ?', (id_doublon,))
+        print(f"-> Terminé pour {id_doublon}.")
+
+    conn.commit()
+    conn.close()
+    print("Correction de la base de données terminée.")
+
+if __name__ == "__main__":
+    corriger_base()
+```
+
+3. MODIFICATIONS À APPORTER AUX AUTRES PROGRAMMES
+-------------------------------------------------
+Pour éviter que le problème ne se reproduise avec d'autres magasins, il faut s'assurer que `BDC_EauVive_V3.py` reconnaisse les noms "nettoyés". Deux solutions s'offrent à vous, nous recommandons la **Solution A**.
+
+### Solution A : Normaliser la recherche dans `BDC_EauVive_V3.py` (Recommandé)
+Modifiez la fonction `get_magasin_id(self, nom)` dans `BDC_EauVive_V3.py` pour qu'elle normalise les noms de la base de la même façon que le scraper. 
+Cependant, faire cela directement en SQL est complexe. La meilleure approche est de normaliser le nom avec une fonction Python similaire à `nettoyer_nom_fichier` de `TEST_SCRAP_V5.py`, puis de comparer :
+
+1. Ajouter la fonction de nettoyage en haut de `BDC_EauVive_V3.py` :
+```python
+import unicodedata
+import re
+
+def nettoyer_nom_fichier(nom):
+    nom = unicodedata.normalize("NFD", nom)
+    nom = "".join(c for c in nom if unicodedata.category(c) != "Mn")
+    nom = nom.replace(" ", "_")
+    nom = re.sub(r'[<>:"/\\|?*]', "_", nom)
+    return nom
+```
+
+2. Modifier la méthode `get_magasin_id` pour charger tous les magasins et comparer leurs noms nettoyés avec le nom recherché :
+```python
+    def get_magasin_id(self, nom):
+        conn, cursor = self._get_connection()
+        
+        # Recherche directe d'abord (au cas où)
+        cursor.execute("SELECT id FROM MAGASINS WHERE nomcsv = ? OR nom = ?", (nom, nom))
+        res = cursor.fetchone()
+        if res:
+            return res[0]
+            
+        # Si non trouvé, on nettoie tous les noms de la BDD et on compare
+        cursor.execute("SELECT id, nom, nomcsv FROM MAGASINS")
+        for row in cursor.fetchall():
+            mag_id, mag_nom, mag_nomcsv = row
+            if nettoyer_nom_fichier(mag_nom) == nom or (mag_nomcsv and nettoyer_nom_fichier(mag_nomcsv) == nom):
+                return mag_id
+                
+        return None
+```
+
+### Solution B : Gérer le nom lors de l'insertion initiale
+Une autre approche consiste à s'assurer que lors de la création d'un magasin dans la base (via l'initialisation), le champ `nomcsv` prend TOUJOURS la valeur renvoyée par `nettoyer_nom_fichier()`. Ainsi, la recherche par `nomcsv` faite par `BDC_EauVive_V3.py` fonctionnera toujours de manière native.
