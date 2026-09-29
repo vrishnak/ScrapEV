@@ -1,0 +1,10 @@
+{
+    "magasins_json": "EAUVIVE_Liste\\EauVive_Liste.json",
+    "familles_json": "EAUVIVE_Liste\\EauVive_URL_Famille.json",
+    "headless": true,
+    "save_json": true,
+    "save_excel": false,
+    "dir_json": "DATA_EV/JSON",
+    "dir_excel": "DATA_EV/XLSX",
+    "db_file": "EauVive_prix.db"
+}

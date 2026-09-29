@@ -1,0 +1,96 @@
+[
+	{"Famille" : "Epicerie_Sucree", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-sucree_784",
+	"sous_familles": [
+		{"SFA":"PETIT-DEJ","lien":"https://www.eau-vive.com/magasin-bio/produits/petit-dejeuner_91_875"},
+		{"SFA":"DESSERT-FRUITSEC","lien":"https://www.eau-vive.com/magasin-bio/produits/desserts-et-fruits-secs_112_896"},
+		{"SFA":"CHOCOLAT-CONFISERIE","lien":"https://www.eau-vive.com/magasin-bio/produits/chocolat-et-confiseries_97_881"},
+		{"SFA":"BISCUIT-PATISSERIE-GALETTE","lien":"https://www.eau-vive.com/magasin-bio/produits/biscuits-patisserie-galettes_107_891"},
+		{"SFA":"SUCRE-FARINE","lien":"https://www.eau-vive.com/magasin-bio/produits/sucres-farines_103_887"}		
+	]
+	
+	},
+	
+	{"Famille" : "Epicerie_Salee", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-salee_783",
+	"sous_familles": [
+		{"SFA":"PATE-RIZ-FECULENT","lien":"https://www.eau-vive.com/magasin-bio/produits/pates-riz-et-feculents_60_844"},
+		{"SFA":"ASSAISONNEMENTS-CONDIMENTS","lien":"https://www.eau-vive.com/magasin-bio/produits/assaisonnements-et-condiments_79_863"},
+		{"SFA":"CONSERVES-BOCAUX-SOUPES","lien":"https://www.eau-vive.com/magasin-bio/produits/conserves-bocaux-et-soupes_67_851"},		
+		{"SFA":"APERITIF","lien":"https://www.eau-vive.com/magasin-bio/produits/aperitifs_57_841"}
+	]},
+	
+	{"Famille" : "Boissons", "lien" : "https://www.eau-vive.com/magasin-bio/produits/boissons_785",
+	"sous_familles": [
+		{"SFA":"BOISSONS","lien":""},
+		{"SFA":"JUS-SODA","lien":""},
+		{"SFA":"BOISSSONS_VEGE-CREMES","lien":""},
+		{"SFA":"CAVE","lien":""},
+		{"SFA":"EAUX","lien":""}		
+	]},
+	
+	{"Famille" : "Frais", "lien" : "https://www.eau-vive.com/magasin-bio/produits/frais_782",
+	"sous_familles": [
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""}
+	
+	]},
+	{"Famille" : "Fruits et Légumes", "lien" : "https://www.eau-vive.com/magasin-bio/produits/fruits-et-legumes_780",
+	"sous_familles": [
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""}
+	
+	]},
+	{"Famille" : "Vrac", "lien" : "https://www.eau-vive.com/magasin-bio/produits/produits-en-vrac_1120",
+	"sous_familles": [
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""}
+	
+	]},
+	{"Famille" : "Bebe_Alim_Soins", "lien" : "https://www.eau-vive.com/magasin-bio/produits/soins-bebes-et-enfants_786",
+	"sous_familles": [
+		{"SFA":"","lien":""},
+		{"SFA":"","lien":""}
+	
+	]},
+	{"Famille" : "Complements_Alimentaires", "lien" : "https://www.eau-vive.com/magasin-bio/produits/complements-alimentaires_787",
+	"sous_familles": [
+		{"SFA":"VITALITE-IMMUNITE","lien":""},
+		{"SFA":"BEAUTE-BIENETRE","lien":""},
+		{"SFA":"PHYTOTHERAPIE","lien":""},
+		{"SFA":"TRANSIT-DIGESTION-MINCEUR","lien":""},
+		{"SFA":"ARTICULATION-REMINERALISATION","lien":""},
+		{"SFA":"CHOLESTEROL-CIRCULATION","lien":""},
+		{"SFA":"STRESS-DETENTE-SOMMEIL","lien":""},
+		{"SFA":"SUPERALIMENT","lien":""},
+		{"SFA":"COMPLEMENT-ALIMENTAIRE","lien":""}
+	
+	]},
+	{"Famille" : "Cosmetique_Hygiene", "lien" : "https://www.eau-vive.com/magasin-bio/produits/cosmetique-et-hygiene_788",
+	"sous_familles": [
+		{"SFA":"SOIN_VISAGE","lien":"https://www.eau-vive.com/magasin-bio/produits/soins-du-visage_226_1010"},
+		{"SFA":"MAQUILLAGE","lien":"https://www.eau-vive.com/magasin-bio/produits/maquillage_201_985"},
+		{"SFA":"HYGIENE","lien":"https://www.eau-vive.com/magasin-bio/produits/hygiene-corporelle_189_973"},
+		{"SFA":"SOIN_CORPS","lien":"https://www.eau-vive.com/magasin-bio/produits/soins-du-corps_237_1021"},
+		{"SFA":"SOIN_CHEVEUX","lien":"https://www.eau-vive.com/magasin-bio/produits/soins-des-cheveux_215_999"},
+		{"SFA":"COIFFANTS_COLORATIONS","lien":"https://www.eau-vive.com/magasin-bio/produits/coiffants-et-colorations_219_1003"},
+		{"SFA":"SOIN_BOUCHE","lien":"https://www.eau-vive.com/magasin-bio/produits/soins-de-la-bouche_223_1007"},
+		{"SFA":"HOMME","lien":"https://www.eau-vive.com/magasin-bio/produits/pour-homme_196_980"},
+		{"SFA":"ACCESSOIRES","lien":"https://www.eau-vive.com/magasin-bio/produits/accessoires_245_1029"},
+		{"SFA":"DIY","lien":"https://www.eau-vive.com/magasin-bio/produits/produits-diy_253_1037"},
+		{"SFA":"SOLAIRES","lien":"https://www.eau-vive.com/magasin-bio/produits/produit-solaires_211_995"}
+	
+	]},
+	{"Famille" : "Entretien" , "lien" : "https://www.eau-vive.com/magasin-bio/produits/entretien-de-la-maison_789",
+	"sous_familles": [
+		{"SFA":"ENTRETIEN","lien":"https://www.eau-vive.com/magasin-bio/produits/produits-d-entretien-ecolo_279_1063"},
+		{"SFA":"MAISON","lien":"https://www.eau-vive.com/magasin-bio/produits/petit-materiel-pour-la-maison_289_1073"}
+	
+	]}
+]
+
+

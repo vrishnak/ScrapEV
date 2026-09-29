@@ -1,14 +1,50 @@
 [
-	{"Famille" : "Epicerie_Sucree", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-sucree_784"},
-	{"Famille" : "Epicerie_Salee", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-salee_783"},
-	{"Famille" : "Boissons", "lien" : "https://www.eau-vive.com/magasin-bio/produits/boissons_785"},
-	{"Famille" : "Frais", "lien" : "https://www.eau-vive.com/magasin-bio/produits/frais_782"},
-	{"Famille" : "Fruits et Légumes", "lien" : "https://www.eau-vive.com/magasin-bio/produits/fruits-et-legumes_780"},
-	{"Famille" : "Vrac", "lien" : "https://www.eau-vive.com/magasin-bio/produits/produits-en-vrac_1120"},
-	{"Famille" : "Bebe_Alim_Soins", "lien" : "https://www.eau-vive.com/magasin-bio/produits/soins-bebes-et-enfants_786"},
-	{"Famille" : "Complements_Alimentaires", "lien" : "https://www.eau-vive.com/magasin-bio/produits/complements-alimentaires_787"},
-	{"Famille" : "Cosmetique_Hygiene", "lien" : "https://www.eau-vive.com/magasin-bio/produits/cosmetique-et-hygiene_788"},
-	{"Famille" : "Entretien" , "lien" : "https://www.eau-vive.com/magasin-bio/produits/entretien-de-la-maison_789"}
+	{"Famille" : "Epicerie_Sucree", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-sucree_784",
+	"sous_familles": [
+		{"SFA":"Petit-dejeuner","lien":"https://www.eau-vive.com/magasin-bio/produits/petit-dejeuner_91_875"},
+		{"SFA":"Dessert-FruitSec","lien":"https://www.eau-vive.com/magasin-bio/produits/desserts-et-fruits-secs_112_896"},
+		{"SFA":"Chocolat-Confiserie","lien":"https://www.eau-vive.com/magasin-bio/produits/chocolat-et-confiseries_97_881"},
+		{"SFA":"Biscuit-Patisserie-Galettes","lien":"https://www.eau-vive.com/magasin-bio/produits/biscuits-patisserie-galettes_107_891"},
+		{"SFA":"Sucre-Farine","lien":"https://www.eau-vive.com/magasin-bio/produits/sucres-farines_103_887"}		
+	]
+	
+	},
+	{"Famille" : "Epicerie_Salee", "lien" : "https://www.eau-vive.com/magasin-bio/produits/epicerie-salee_783",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Boissons", "lien" : "https://www.eau-vive.com/magasin-bio/produits/boissons_785",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Frais", "lien" : "https://www.eau-vive.com/magasin-bio/produits/frais_782",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Fruits et Légumes", "lien" : "https://www.eau-vive.com/magasin-bio/produits/fruits-et-legumes_780",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Vrac", "lien" : "https://www.eau-vive.com/magasin-bio/produits/produits-en-vrac_1120",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Bebe_Alim_Soins", "lien" : "https://www.eau-vive.com/magasin-bio/produits/soins-bebes-et-enfants_786",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Complements_Alimentaires", "lien" : "https://www.eau-vive.com/magasin-bio/produits/complements-alimentaires_787",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Cosmetique_Hygiene", "lien" : "https://www.eau-vive.com/magasin-bio/produits/cosmetique-et-hygiene_788",
+	"sous_familles": [
+	
+	]},
+	{"Famille" : "Entretien" , "lien" : "https://www.eau-vive.com/magasin-bio/produits/entretien-de-la-maison_789",
+	"sous_familles": [
+	
+	]}
 ]
 
 
