@@ -1,4 +1,3 @@
-archive/
 # Python
 __pycache__/
 *.pyc
@@ -6,6 +5,7 @@ __pycache__/
 # Environnements
 .venv/
 env/
+.idea/
 
 # Données générées
 DATA_EV/
@@ -17,10 +17,10 @@ archives/
 .DS_Store
 Thumbs.db
 
-EauVive_prix.db
+# Base de Données
+*.db
 
-
-.idea/ 
+# Fichiers
 *.xlsx
 
 
