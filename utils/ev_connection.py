@@ -20,7 +20,12 @@ def get_connected_driver(shop_name, headless=True):
     """
     options = webdriver.ChromeOptions()
     if headless:
-        options.add_argument("--headless")
+        options.add_argument("--headless=new")
+    
+    # Anti-bot detection
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option("useAutomationExtension", False)
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
@@ -35,8 +40,21 @@ def get_connected_driver(shop_name, headless=True):
         }
     )
 
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
+    import os
+    os.environ['WDM_SSL_VERIFY'] = '0'
+    os.environ['WDM_LOCAL'] = '1'
+    
+    from webdriver_manager.chrome import ChromeDriverManager
+    from selenium.webdriver.chrome.service import Service
+    
+    try:
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=options)
+    except Exception:
+        # En cas de blocage réseau, on passe discrètement sur le gestionnaire natif
+        # qui utilisera le pilote déjà présent sur l'ordinateur.
+        driver = webdriver.Chrome(options=options)
+        
     wait = WebDriverWait(driver, 15)
 
     print(f"\n🏪 [CONNEXION] Tentative de sélection du magasin : {shop_name}")
@@ -72,6 +90,9 @@ def get_connected_driver(shop_name, headless=True):
         return driver
 
     except Exception as e:
+        import traceback
+        error_details = traceback.format_exc()
         print(f"❌ [CONNEXION] Erreur lors de la sélection du magasin : {e}")
+        print(f"--- DÉTAILS DE L'ERREUR ---\n{error_details}\n-------------------------")
         driver.quit()
         return None

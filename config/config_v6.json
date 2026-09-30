@@ -1,5 +1,5 @@
 {
-    "magasins_json": "EAUVIVE_Liste\\EauVive_Liste.json",
+    "magasins_json": "EAUVIVE_Liste\\EauVive_Liste_Mag.json",
     "familles_json": "EAUVIVE_Liste\\EauVive_URL_Famille.json",
     "headless": true,
     "save_json": true,

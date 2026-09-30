@@ -6,7 +6,7 @@ from tkinter import ttk, filedialog, messagebox
 
 from utils.scraper_utils import ScraperV6, charger_json
 from utils.ev_connection import get_connected_driver
-from BDC_EauVive_V3 import GestionnaireDB
+#from BDC_EauVive_V3 import GestionnaireDB
 
 CONFIG_FILE = os.path.join("config", "config_v6.json")
 
@@ -18,8 +18,8 @@ class ScrapApp:
 
         # Configuration par défaut
         self.config = {
-            "magasins_json": os.path.join("EAUVIVE_Liste", "EauVive_Liste_300.json"),
-            "familles_json": os.path.join("EAUVIVE_Liste", "EauVive_URL_Pates.json"),
+            "magasins_json": os.path.join("EAUVIVE_Liste", "EauVive_Liste_Mag.json"),
+            "familles_json": os.path.join("EAUVIVE_Liste", "EauVive_URL_Familles.json"),
             "headless": True,
             "save_json": True,
             "save_excel": False,
@@ -69,9 +69,10 @@ class ScrapApp:
         # ---------------------------------------------------------
         # Onglet Base de Données
         # ---------------------------------------------------------
-        #self.tab_db = ttk.Frame(self.notebook)
-        #self.notebook.add(self.tab_db, text="🗄️ Base de Données")
-        #self.create_db_tab()
+        from BDC_V4_main import ApplicationGUI
+        self.tab_db = ttk.Frame(self.notebook)
+        self.notebook.add(self.tab_db, text="🗄️ Base de Données")
+        self.app_db = ApplicationGUI(self.tab_db, is_tab=True)
 
         # ---------------------------------------------------------
         # Onglet Paramètres

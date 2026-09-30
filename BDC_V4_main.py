@@ -21,10 +21,12 @@ from utils.export_produits import (
 #  GUI
 # =====================================================================
 class ApplicationGUI:
-    def __init__(self, root, db_path="EauVive_prix.db"):
+    def __init__(self, root, db_path="EauVive_prix.db", is_tab=False):
         self.root = root
-        self.root.title("Gestionnaire de Catalogue Eau Vive")
-        self.root.geometry("900x700")
+        self.is_tab = is_tab
+        if not self.is_tab:
+            self.root.title("Gestionnaire de Catalogue Eau Vive")
+            self.root.geometry("900x700")
 
         self.db = GestionnaireDB(db_path)
         self.fichiers_selectionnes = []
@@ -44,21 +46,22 @@ class ApplicationGUI:
 
     # ------------------------------------------------------------------
     def creer_interface(self):
-        menubar = tk.Menu(self.root)
-        self.root.config(menu=menubar)
+        if not self.is_tab:
+            menubar = tk.Menu(self.root)
+            self.root.config(menu=menubar)
 
-        file_menu = tk.Menu(menubar, tearoff=0)
-        menubar.add_cascade(label="Fichier", menu=file_menu)
-        file_menu.add_command(label="Importer des JSON",
-                              command=self.selectionner_fichiers)
-        file_menu.add_separator()
-        file_menu.add_command(label="Exporter les produits par magasin",
-                              command=self.exporter_produits)
-        file_menu.add_separator()
-        file_menu.add_command(label="Vérifier sans description",
-                              command=self.verifier_sans_description)
-        file_menu.add_separator()
-        file_menu.add_command(label="Quitter", command=self.quitter)
+            file_menu = tk.Menu(menubar, tearoff=0)
+            menubar.add_cascade(label="Fichier", menu=file_menu)
+            file_menu.add_command(label="Importer des JSON",
+                                  command=self.selectionner_fichiers)
+            file_menu.add_separator()
+            file_menu.add_command(label="Exporter les produits par magasin",
+                                  command=self.exporter_produits)
+            file_menu.add_separator()
+            file_menu.add_command(label="Vérifier sans description",
+                                  command=self.verifier_sans_description)
+            file_menu.add_separator()
+            file_menu.add_command(label="Quitter", command=self.quitter)
 
         # ----- Frame principal -----
         main_frame = ttk.Frame(self.root, padding="10")
@@ -70,18 +73,32 @@ class ApplicationGUI:
 
         # Le main_frame s'étend
         main_frame.columnconfigure(0, weight=1)
-        # Seule la ligne du journal (row=3) doit prendre l'espace vertical
-        main_frame.rowconfigure(3, weight=1)
+        # Seule la ligne du journal (row=3 pour window, row=4 pour tab) doit prendre l'espace vertical
+        log_row = 4 if self.is_tab else 3
+        main_frame.rowconfigure(log_row, weight=1)
 
         title = ttk.Label(main_frame,
                           text="Gestionnaire de Catalogue Eau Vive",
                           font=('Arial', 16, 'bold'))
         title.grid(row=0, column=0, columnspan=2, pady=10)
 
+        # ----- Toolbar (uniquement en mode tab) -----
+        current_row = 1
+        if self.is_tab:
+            toolbar = ttk.Frame(main_frame)
+            toolbar.grid(row=current_row, column=0, columnspan=2, sticky=(tk.W, tk.E), pady=5)
+            ttk.Button(toolbar, text="📥 Importer des JSON", command=self.selectionner_fichiers).pack(side=tk.LEFT, padx=5)
+            ttk.Button(toolbar, text="📤 Exporter les produits", command=self.exporter_produits).pack(side=tk.LEFT, padx=5)
+            ttk.Button(toolbar, text="🔍 Vérifier", command=self.verifier_sans_description).pack(side=tk.LEFT, padx=5)
+            self.btn_dashboard = ttk.Button(toolbar, text="📊 Lancer Dashboard", command=self.lancer_dashboard)
+            self.btn_dashboard.pack(side=tk.LEFT, padx=5)
+            current_row += 1
+
         # ----- Statistiques -----
         stats_frame = ttk.LabelFrame(main_frame, text="Statistiques", padding="10")
-        stats_frame.grid(row=1, column=0, columnspan=2,
+        stats_frame.grid(row=current_row, column=0, columnspan=2,
                          sticky=(tk.W, tk.E), pady=10)
+        current_row += 1
 
         self.stats_labels = {}
         stats = ['produits', 'releves', 'magasins', 'categories', 'sans_description']
@@ -96,8 +113,9 @@ class ApplicationGUI:
         # ----- Importation -----
         import_frame = ttk.LabelFrame(main_frame, text="Importation JSON",
                                       padding="10")
-        import_frame.grid(row=2, column=0, columnspan=2,
+        import_frame.grid(row=current_row, column=0, columnspan=2,
                           sticky=(tk.W, tk.E), pady=10)
+        current_row += 1
 
         # Pour que la liste des fichiers s'étende horizontalement
         import_frame.columnconfigure(0, weight=1)
@@ -141,8 +159,9 @@ class ApplicationGUI:
 
         # ----- Journal -----
         log_frame = ttk.LabelFrame(main_frame, text="📋 Journal", padding="10")
-        log_frame.grid(row=3, column=0, columnspan=2,
+        log_frame.grid(row=current_row, column=0, columnspan=2,
                        sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
+        current_row += 1
         # Le log_frame doit s'étendre dans les deux directions
         log_frame.columnconfigure(0, weight=1)
         log_frame.rowconfigure(0, weight=1)
@@ -204,6 +223,45 @@ class ApplicationGUI:
         if messagebox.askyesno("Effacer", "Effacer le journal ?"):
             self.log_text.delete(1.0, tk.END)
             self.log("Journal effacé", 'info')
+
+    def lancer_dashboard(self):
+        import subprocess
+        try:
+            if hasattr(self, 'streamlit_process') and self.streamlit_process is not None:
+                # Le dashboard est déjà lancé, on l'arrête
+                self.streamlit_process.terminate()
+                self.streamlit_process = None
+                if hasattr(self, 'btn_dashboard'):
+                    self.btn_dashboard.config(text="📊 Lancer Dashboard")
+                self.log("Dashboard Streamlit arrêté.", "info")
+                return
+
+            # CREATE_NO_WINDOW permet de ne pas ouvrir une console noire sous Windows
+            creation_flags = 0x08000000 if os.name == 'nt' else 0
+            
+            # On pipe stdout et stderr vers DEVNULL pour éviter que le processus plante sans console
+            self.streamlit_process = subprocess.Popen(
+                [sys.executable, "-m", "streamlit", "run", "DashBoard_EV3.py"],
+                cwd=os.getcwd(),
+                creationflags=creation_flags,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL
+            )
+            
+            if hasattr(self, 'btn_dashboard'):
+                self.btn_dashboard.config(text="🛑 Arrêter Dashboard")
+                
+            self.log("Lancement de Streamlit en arrière-plan...", "info")
+            messagebox.showinfo("Dashboard", "Le Dashboard Streamlit se lance en arrière-plan.\n\nIl va s'ouvrir dans votre navigateur d'ici quelques secondes.")
+            
+            # Forcer l'ouverture du navigateur au cas où Streamlit ne le ferait pas automatiquement
+            import webbrowser
+            import threading
+            threading.Timer(3.0, lambda: webbrowser.open("http://localhost:8501")).start()
+
+        except Exception as e:
+            self.log(f"Erreur au lancement/arrêt du Dashboard : {e}", "error")
+            messagebox.showerror("Erreur", f"Impossible de gérer le Dashboard :\n{e}")
 
     def mettre_a_jour_statistiques(self):
         stats = self.db.get_statistiques()
