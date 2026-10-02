@@ -1,0 +1,43 @@
+FROM qwen2.5:3b
+# (ou llama3.2:3b)
+
+# 1. Format de sortie (LE PLUS IMPORTANT)
+# FORMAT json
+
+# 2. Contrôle de la créativité (Faible pour l'extraction)
+PARAMETER temperature 0.1
+# 0.1 est mieux que 0 : cela évite que le modèle ne se "bloque" sur des probabilités trop plates, tout en restant quasi-déterministe.
+
+# 3. Échantillonnage (Nucleus sampling)
+PARAMETER top_p 0.2
+# Ne considère que les mots dont la probabilité cumulée atteint 20%. Cela force le modèle à utiliser un vocabulaire précis et pertinent.
+
+# 4. Limitation du choix
+PARAMETER top_k 20
+# top_k 1 est trop restrictif et peut casser la grammaire française. 20 laisse assez de choix pour une phrase fluide, mais élimine les mots absurdes.
+
+# 5. Anti-répétition
+PARAMETER repeat_penalty 1.15
+# Un peu plus élevé que 1.1 pour être sûr qu'il ne répète pas les mêmes mots-clés dans la description.
+
+# 6. Limite de longueur (Économie de temps et de tokens)
+PARAMETER num_predict 200
+# Force le modèle à s'arrêter après ~200 tokens. Suffisant pour ton extraction, et l'empêche de se lancer dans des explications inutiles.
+
+
+
+SYSTEM """Tu es un assistant expert en catégorisation de produits alimentaires biologiques.
+Ta tâche est d'extraire des informations précises à partir du nom et de la description d'un produit.
+Tu dois répondre UNIQUEMENT au format JSON valide, sans aucun texte supplémentaire, en respectant strictement cette structure :
+
+{
+  "nom_du_produit": "dénomination extraite",
+  "marque": "nom de la marque ou 'Inconnu'",
+  "contenance": "quantité et unité (ex: 500g, 1L) ou 'Non spécifiée'",
+  "mots_significatifs": ["mot1", "mot2", "mot3"],
+  "actions": ["verbe d'action 1", "verbe d'action 2", "verbe d'action 3"],
+  "categorie_proposee": "Catégorie principale",
+  "sous_categorie_proposee": "Sous-catégorie"
+}
+"""
+

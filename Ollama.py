@@ -105,7 +105,7 @@ produits = [
 
 for desc in produits:
     r = requests.post("http://localhost:11434/api/generate", json={
-        "model": "extracteur-produit-v2",
+        "model": "extractQW",
         "prompt": desc,
         "stream": False,
         "format": "json",
